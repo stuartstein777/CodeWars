@@ -1,0 +1,1 @@
+double_integer = lambda i: i * 2
