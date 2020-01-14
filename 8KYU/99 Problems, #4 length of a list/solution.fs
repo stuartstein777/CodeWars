@@ -1,0 +1,1 @@
+let length list = list |> List.length
