@@ -1,0 +1,1 @@
+let makeLowerCase (s:string) = s.ToLower()
