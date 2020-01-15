@@ -1,0 +1,1 @@
+let checkAlive  = (health) => (health > 0) ? true : false;
