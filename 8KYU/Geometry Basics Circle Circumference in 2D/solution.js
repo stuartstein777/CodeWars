@@ -1,0 +1,1 @@
+const circleCircumference = circle => circle.radius*2*Math.PI;

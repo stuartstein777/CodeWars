@@ -1,0 +1,1 @@
+let toCsvText = (array) => array.reduce((acc, i) => acc + i.join(",") + "\n", "").trimRight("\n");
