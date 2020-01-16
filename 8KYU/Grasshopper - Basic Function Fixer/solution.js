@@ -1,0 +1,1 @@
+let addFive = (num) => num + 5;
