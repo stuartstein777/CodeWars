@@ -1,0 +1,1 @@
+const nthChar = (words) => words.reduce((acc, c, i) => acc + c[i], "");
