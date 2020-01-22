@@ -1,0 +1,1 @@
+(not= nil (re-matches #"(?i)[aeiou]" str))
