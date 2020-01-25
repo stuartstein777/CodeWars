@@ -1,10 +1,9 @@
 (ns dir-reduc.core
   (:require [clojure.string :as str])) 
 
-(defn dirReduc
-  [arr]
+(defn reduce-directions [xs]
   ((fn [directions]
-     (let [red (str/replace directions #"NORTHSOUTH|EASTWEST|SOUTHNORTH|WESTEAST" "")]
-       (if (= red directions)
-           (re-seq #"EAST|NORTH|WEST|SOUTH" red)
-           (recur red)))) (str/join "" arr)))
+     (let [reduction (str/replace directions #"NORTHSOUTH|EASTWEST|SOUTHNORTH|WESTEAST" "")]
+       (if (= reduction directions)
+           (re-seq #"EAST|NORTH|WEST|SOUTH" reduction)
+           (recur reduction)))) (apply str xs)))
