@@ -9,3 +9,5 @@
   (if (or (empty? stock) (empty? categories))
     []
     (map #(conj [] % (total-for-category stock %)) categories)))
+	
+	
