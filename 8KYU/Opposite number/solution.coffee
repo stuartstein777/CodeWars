@@ -1,0 +1,2 @@
+opposite = (number) -> 
+  -number
