@@ -2,11 +2,8 @@
   (:require [clojure.set :only [map-invert]]))
   
 (defn remove-last [c m]
-<<<<<<< HEAD
   (dissoc (reduce-kv #(into %1 {%2 (filter (fn [x] (not= x c)) %3)}) {} m) c))
-=======
   (dissoc (reduce-kv (fn [acc k v] (into acc {k (filter #(not= % c) v)})) {} m) c))
->>>>>>> ff642283ed292ea624a1b313c745bb54aa9eec77
 
 (defn recover-secret [xs]
   (loop [result ""
