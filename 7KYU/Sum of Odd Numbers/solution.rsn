@@ -1,0 +1,3 @@
+let rowSumOddNumbers = (n: int) => {
+  n * n * n;
+}
