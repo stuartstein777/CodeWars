@@ -1,1 +1,1 @@
-["^ ","~$min-value",["^ ","~:row",2,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$kata","~:top-ns","^7"],"~:filename","/home/stuart/Source/CodeWars/7KYU/Form The Minimum/solution.clj"]
+["^ ","~$find_shortest",["^ ","~:row",4,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$kata","~:top-ns","^7"],"~:filename","/home/stuart/Source/CodeWars/7KYU/Shortest Word/solution.clj"]
