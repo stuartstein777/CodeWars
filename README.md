@@ -1,4 +1,4 @@
-﻿##CodeWars
+#CodeWars
 
 CodeWars solutions to Katu.
 
