@@ -1,1 +1,1 @@
-["^ ","~$past",["^ ","~:row",2,"~:col",1,"~:fixed-arities",["~#set",[3]],"~:name","^0","~:ns","~$kata","~:top-ns","^7","~:arities",["^ ","~i3",["^ ","~:ret","~:number"]]],"~:filename","/home/stuart/Source/CodeWars/8KYU/Beginner Series #2 Clock/solution.clj"]
+["^ ","~$pentagonal",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$kata","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret",["^4",["~:number","~:neg-int"]]]]],"~:filename","/home/stuart/Source/CodeWars/7KYU/Centered pentagonal number: /solution.clj"]
