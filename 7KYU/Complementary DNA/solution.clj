@@ -1,9 +1,5 @@
 (ns complementary-dna
-(:require [clojure.string :as str]))
+  (:require [clojure.string :as str]))
 
 (defn dna-strand [dna]
-  (as-> (str/replace dna "A" "t") v
-     (str/replace v "T" "a")
-     (str/replace v "C" "g")
-     (str/replace v "G" "c")
-     (str/upper-case v)))
+  (str/replace dna #"[A|T|C|G]" {"A" "T", "T" "A", "G" "C", "C" "G"}))
