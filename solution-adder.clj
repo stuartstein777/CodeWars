@@ -1,5 +1,6 @@
 (def languages 
-  {"C"            ".c"
+  {"Clojure"      ".clj"
+   "C"            ".c"
    "C++"          ".cpp"
    "C#"           ".cs"
    "JS"           ".js"
