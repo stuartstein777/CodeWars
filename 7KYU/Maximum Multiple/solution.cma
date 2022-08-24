@@ -1,0 +1,2 @@
+let max_multiple (d: int) (b: int): int =
+  b - b mod d
