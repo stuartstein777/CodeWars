@@ -101,3 +101,37 @@ semanticdb-javac: unknown flag 'Multiple'
 public class MaxMultiple {
        ^
 1 error
+2022.08.24 22:29:21 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Is n divisible by x and y/solution.java
+2022.08.24 22:29:21 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Is%20n%20divisible%20by%20x%20and%20y/solution.java. Output:
+semanticdb-javac: unknown flag 'n'
+
+semanticdb-javac: unknown flag 'divisible'
+
+semanticdb-javac: unknown flag 'by'
+
+semanticdb-javac: unknown flag 'x'
+
+semanticdb-javac: unknown flag 'and'
+
+semanticdb-javac: unknown flag 'y'
+
+2022.08.24 22:29:23 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Is n divisible by x and y/solution.java
+2022.08.24 22:29:23 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Is%20n%20divisible%20by%20x%20and%20y/solution.java. Output:
+semanticdb-javac: unknown flag 'n'
+
+semanticdb-javac: unknown flag 'divisible'
+
+semanticdb-javac: unknown flag 'by'
+
+semanticdb-javac: unknown flag 'x'
+
+semanticdb-javac: unknown flag 'and'
+
+semanticdb-javac: unknown flag 'y'
+
+/home/stuart/Source/CodeWars/8KYU/Is n divisible by x and y/solution.java:1: error: class DivisibleNb is public, should be declared in a file named DivisibleNb.java
+public class DivisibleNb {
+       ^
+1 error
+2022.08.24 22:30:21 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Is n divisible by x and y/solution.scala
+2022.08.24 22:30:22 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Is n divisible by x and y/solution.scala
