@@ -1,0 +1,4 @@
+-module(kata).
+-export([past/3]).
+
+past(H, M, S) -> S * 1000 + M * 60000 + H * 3600000.

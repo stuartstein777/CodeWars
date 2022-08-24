@@ -320,3 +320,25 @@ semanticdb-javac: unknown flag 'a'
 
 semanticdb-javac: unknown flag 'String!'
 
+2022.08.25 00:19:10 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Beginner Series #2 Clock/solution.java
+2022.08.25 00:19:10 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Beginner%20Series%20%232%20Clock/solution.java. Output:
+semanticdb-javac: unknown flag 'Series'
+
+semanticdb-javac: unknown flag '#2'
+
+semanticdb-javac: unknown flag 'Clock'
+
+2022.08.25 00:19:12 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Beginner Series #2 Clock/solution.java
+2022.08.25 00:19:12 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Beginner%20Series%20%232%20Clock/solution.java. Output:
+semanticdb-javac: unknown flag 'Series'
+
+semanticdb-javac: unknown flag '#2'
+
+semanticdb-javac: unknown flag 'Clock'
+
+/home/stuart/Source/CodeWars/8KYU/Beginner Series #2 Clock/solution.java:1: error: class Clock is public, should be declared in a file named Clock.java
+public class Clock
+       ^
+1 error
+2022.08.25 00:25:04 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Beginner Series #2 Clock/solution.scala
+2022.08.25 00:25:05 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Beginner Series #2 Clock/solution.scala
