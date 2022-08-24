@@ -308,3 +308,15 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 69
 	... 3 more
 
 2022.08.24 23:44:14 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Opposite number/solution.scala
+2022.08.25 00:17:08 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Convert a Number to a String!/solution.java
+2022.08.25 00:17:09 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Convert%20a%20Number%20to%20a%20String!/solution.java. Output:
+semanticdb-javac: unknown flag 'a'
+
+semanticdb-javac: unknown flag 'Number'
+
+semanticdb-javac: unknown flag 'to'
+
+semanticdb-javac: unknown flag 'a'
+
+semanticdb-javac: unknown flag 'String!'
+
