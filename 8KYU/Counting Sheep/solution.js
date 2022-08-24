@@ -1,0 +1,1 @@
+const countSheeps = (arrayOfSheep) => arrayOfSheep.filter(f => f === true).length;
