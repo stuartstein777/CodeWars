@@ -1,0 +1,1 @@
+let makeUpperCase (s:string) = s.ToUpper()
