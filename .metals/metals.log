@@ -48,3 +48,9 @@ semanticdb-javac: unknown flag 'Grid'
 public class Solution {
        ^
 1 error
+Aug 24, 2022 1:00:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 24, 2022 1:00:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 24, 2022 1:00:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
