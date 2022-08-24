@@ -1,4 +1,7 @@
-(def languages 
+(ns script
+  (:require [clojure.java.io :as io]))
+
+(def languages
   {"Clojure"      ".clj"
    "C"            ".c"
    "C++"          ".cpp"
@@ -48,6 +51,11 @@
   (println (str "solution" (languages lang)))
   (spit (str "solution" (languages lang)) ""))
 
-(let [lang (first *command-line-args*)]
-  (create-solution lang))
+(defn get-solution-type []
+  (let [lang (line-seq (slurp *in*))]
+    (prn lang)
+    (create-solution lang)
+    #_(recur)))
+
+(get-solution-type)
 
