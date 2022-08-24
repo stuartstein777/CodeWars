@@ -186,3 +186,15 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 106
 	... 3 more
 
 2022.08.24 22:54:45 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Opposites Attract/solution.scala
+2022.08.24 23:04:04 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Keep Hydrated!/solution.java
+2022.08.24 23:04:04 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Keep%20Hydrated!/solution.java. Output:
+semanticdb-javac: unknown flag 'Hydrated!'
+
+2022.08.24 23:04:05 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Keep Hydrated!/solution.java
+2022.08.24 23:04:05 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Keep%20Hydrated!/solution.java. Output:
+semanticdb-javac: unknown flag 'Hydrated!'
+
+/home/stuart/Source/CodeWars/8KYU/Keep Hydrated!/solution.java:1: error: class KeepHydrated is public, should be declared in a file named KeepHydrated.java
+public class KeepHydrated  {
+       ^
+1 error
