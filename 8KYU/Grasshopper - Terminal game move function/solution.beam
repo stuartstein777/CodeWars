@@ -1,0 +1,4 @@
+-module(kata).
+-export([move/2]).
+
+move(Pos, Roll) -> Pos + 2 * Roll.

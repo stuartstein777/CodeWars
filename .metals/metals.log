@@ -54,3 +54,33 @@ Aug 24, 2022 1:00:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 INFO: Unsupported notification method: $/setTrace
 Aug 24, 2022 1:00:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2022.08.24 01:07:54 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Grasshopper - Terminal game move function/solution.java
+2022.08.24 01:07:55 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Grasshopper%20-%20Terminal%20game%20move%20function/solution.java. Output:
+semanticdb-javac: unknown flag '-'
+
+semanticdb-javac: unknown flag 'Terminal'
+
+semanticdb-javac: unknown flag 'game'
+
+semanticdb-javac: unknown flag 'move'
+
+semanticdb-javac: unknown flag 'function'
+
+2022.08.24 01:07:55 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Grasshopper - Terminal game move function/solution.java
+2022.08.24 01:07:55 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Grasshopper%20-%20Terminal%20game%20move%20function/solution.java. Output:
+semanticdb-javac: unknown flag '-'
+
+semanticdb-javac: unknown flag 'Terminal'
+
+semanticdb-javac: unknown flag 'game'
+
+semanticdb-javac: unknown flag 'move'
+
+semanticdb-javac: unknown flag 'function'
+
+/home/stuart/Source/CodeWars/8KYU/Grasshopper - Terminal game move function/solution.java:1: error: class Move is public, should be declared in a file named Move.java
+public class Move {
+       ^
+1 error
+2022.08.24 01:10:53 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Grasshopper - Terminal game move function/solution.scala
+2022.08.24 01:10:54 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Grasshopper - Terminal game move function/solution.scala

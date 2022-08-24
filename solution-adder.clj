@@ -20,6 +20,7 @@
    "CFML"         ".cfml"
    "Rust"         ".rs"
    "R"            ".r"
+   "SQL"          ".sql"
    "PHP"          ".php"
    "Scala"        ".scala"
    "Crystal"      ".cr"
