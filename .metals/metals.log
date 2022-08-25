@@ -345,3 +345,23 @@ public class Clock
 2022.08.25 00:29:43 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/MakeUpperCase/solution.java
 2022.08.25 00:29:43 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/MakeUpperCase/solution.java
 2022.08.25 00:29:45 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/MakeUpperCase/solution.java
+2022.08.25 23:05:58 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Grasshopper - Debug sayHello/solution.java
+2022.08.25 23:05:58 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Grasshopper%20-%20Debug%20sayHello/solution.java. Output:
+semanticdb-javac: unknown flag '-'
+
+semanticdb-javac: unknown flag 'Debug'
+
+semanticdb-javac: unknown flag 'sayHello'
+
+2022.08.25 23:05:59 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Grasshopper - Debug sayHello/solution.java
+2022.08.25 23:05:58 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Grasshopper%20-%20Debug%20sayHello/solution.java. Output:
+semanticdb-javac: unknown flag '-'
+
+semanticdb-javac: unknown flag 'Debug'
+
+semanticdb-javac: unknown flag 'sayHello'
+
+/home/stuart/Source/CodeWars/8KYU/Grasshopper - Debug sayHello/solution.java:1: error: class GrassHopper is public, should be declared in a file named GrassHopper.java
+public class GrassHopper {
+       ^
+1 error
