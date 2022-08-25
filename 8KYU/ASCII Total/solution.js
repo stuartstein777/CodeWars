@@ -1,0 +1,1 @@
+const uniTotal = (input) => input.split("").reduce((acc, i) => acc+= i.charCodeAt(0),0);
