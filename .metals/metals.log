@@ -472,3 +472,7 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 100
 	... 3 more
 
 2022.08.25 23:57:35 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Convert boolean values to strings 'Yes' or 'No'./solution.scala
+2022.08.26 00:02:07 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Multiply/solution.java
+2022.08.26 00:02:08 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Multiply/solution.java
+2022.08.26 00:03:24 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Multiply/solution.scala
+2022.08.26 00:03:25 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Multiply/solution.scala

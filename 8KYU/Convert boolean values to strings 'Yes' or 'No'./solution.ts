@@ -1,5 +1,3 @@
-object Kata {
-
-    def boolToWord(boolean: Boolean): String = if (boolean == true)  "Yes" else "No"
-  
-  }
+export const boolToWord = (bool: boolean): string => {
+    return bool ? "Yes" : "No";
+};
