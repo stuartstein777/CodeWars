@@ -385,3 +385,19 @@ semanticdb-javac: unknown flag 'cuboid'
 public class Kata {
        ^
 1 error
+2022.08.25 23:53:58 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Even or Odd/solution.java
+2022.08.25 23:53:59 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Even%20or%20Odd/solution.java. Output:
+semanticdb-javac: unknown flag 'or'
+
+semanticdb-javac: unknown flag 'Odd'
+
+2022.08.25 23:53:59 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Even or Odd/solution.java
+2022.08.25 23:53:59 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Even%20or%20Odd/solution.java. Output:
+semanticdb-javac: unknown flag 'or'
+
+semanticdb-javac: unknown flag 'Odd'
+
+/home/stuart/Source/CodeWars/8KYU/Even or Odd/solution.java:1: error: class EvenOrOdd is public, should be declared in a file named EvenOrOdd.java
+public class EvenOrOdd {
+       ^
+1 error
