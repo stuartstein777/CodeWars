@@ -502,3 +502,5 @@ semanticdb-javac: unknown flag 'Length'
 public class Collatz {
        ^
 1 error
+2022.08.26 00:21:58 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Area of an arrow/solution.scala
+2022.08.26 00:21:59 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Area of an arrow/solution.scala
