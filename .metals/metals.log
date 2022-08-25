@@ -504,3 +504,74 @@ public class Collatz {
 1 error
 2022.08.26 00:21:58 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Area of an arrow/solution.scala
 2022.08.26 00:21:59 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Area of an arrow/solution.scala
+2022.08.26 00:25:40 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Reversed Strings/solution.java
+2022.08.26 00:25:40 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Reversed%20Strings/solution.java. Output:
+semanticdb-javac: unknown flag 'Strings'
+
+2022.08.26 00:25:42 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Reversed Strings/solution.java
+2022.08.26 00:25:43 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Reversed%20Strings/solution.java. Output:
+semanticdb-javac: unknown flag 'Strings'
+
+/home/stuart/Source/CodeWars/8KYU/Reversed Strings/solution.java:1: error: class Kata is public, should be declared in a file named Kata.java
+public class Kata {
+       ^
+1 error
+2022.08.26 00:25:50 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Reversed Strings/solution.scala
+Aug 26, 2022 12:25:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: 80
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: 80
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 80
+	at scala.meta.internal.parsing.FoldingRangeExtractor$Foldable$.isScala3BlockWithoutOptionalBraces(FoldingRangeExtractor.scala:248)
+	at scala.meta.internal.parsing.FoldingRangeExtractor$Foldable$.unapply(FoldingRangeExtractor.scala:199)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.extractFrom(FoldingRangeExtractor.scala:36)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.$anonfun$extractFrom$2(FoldingRangeExtractor.scala:56)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.$anonfun$extractFrom$2$adapted(FoldingRangeExtractor.scala:51)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.extractFrom(FoldingRangeExtractor.scala:51)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.$anonfun$extractFrom$2(FoldingRangeExtractor.scala:56)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.$anonfun$extractFrom$2$adapted(FoldingRangeExtractor.scala:51)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.extractFrom(FoldingRangeExtractor.scala:51)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.extract(FoldingRangeExtractor.scala:29)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForScala$3(FoldingRangeProvider.scala:40)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForScala$2(FoldingRangeProvider.scala:33)
+	at scala.Option$WithFilter.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForScala(FoldingRangeProvider.scala:31)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$2(MetalsLanguageServer.scala:1705)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.08.26 00:25:51 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Reversed Strings/solution.scala
+2022.08.26 00:27:36 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Quarter of the year/solution.java
+2022.08.26 00:27:36 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Quarter%20of%20the%20year/solution.java. Output:
+semanticdb-javac: unknown flag 'of'
+
+semanticdb-javac: unknown flag 'the'
+
+semanticdb-javac: unknown flag 'year'
+
+2022.08.26 00:27:37 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Quarter of the year/solution.java
+2022.08.26 00:27:37 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Quarter%20of%20the%20year/solution.java. Output:
+semanticdb-javac: unknown flag 'of'
+
+semanticdb-javac: unknown flag 'the'
+
+semanticdb-javac: unknown flag 'year'
+
+/home/stuart/Source/CodeWars/8KYU/Quarter of the year/solution.java:1: error: class Kata is public, should be declared in a file named Kata.java
+public class Kata {
+       ^
+1 error

@@ -8,4 +8,4 @@ export function collatz(n:number):number{
          n = n * 3 + 1;
      }
      return c;
-  }
+}
