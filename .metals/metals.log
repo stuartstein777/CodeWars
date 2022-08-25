@@ -476,3 +476,29 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 100
 2022.08.26 00:02:08 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Multiply/solution.java
 2022.08.26 00:03:24 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Multiply/solution.scala
 2022.08.26 00:03:25 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Multiply/solution.scala
+2022.08.26 00:17:53 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Collatz Conjecture Length/solution.java
+2022.08.26 00:17:54 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/7KYU/Collatz%20Conjecture%20Length/solution.java. Output:
+semanticdb-javac: unknown flag 'Conjecture'
+
+semanticdb-javac: unknown flag 'Length'
+
+2022.08.26 00:17:54 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Collatz Conjecture Length/solution.java
+2022.08.26 00:17:54 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/7KYU/Collatz%20Conjecture%20Length/solution.java. Output:
+semanticdb-javac: unknown flag 'Conjecture'
+
+semanticdb-javac: unknown flag 'Length'
+
+/home/stuart/Source/CodeWars/7KYU/Collatz Conjecture Length/solution.java:1: error: class Collatz is public, should be declared in a file named Collatz.java
+public class Collatz {
+       ^
+1 error
+2022.08.26 00:17:55 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Collatz Conjecture Length/solution.java
+2022.08.26 00:17:56 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/7KYU/Collatz%20Conjecture%20Length/solution.java. Output:
+semanticdb-javac: unknown flag 'Conjecture'
+
+semanticdb-javac: unknown flag 'Length'
+
+/home/stuart/Source/CodeWars/7KYU/Collatz Conjecture Length/solution.java:1: error: class Collatz is public, should be declared in a file named Collatz.java
+public class Collatz {
+       ^
+1 error
