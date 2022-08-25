@@ -401,3 +401,74 @@ semanticdb-javac: unknown flag 'Odd'
 public class EvenOrOdd {
        ^
 1 error
+2022.08.25 23:57:02 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Convert boolean values to strings 'Yes' or 'No'./solution.java
+2022.08.25 23:57:03 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'./solution.java. Output:
+semanticdb-javac: unknown flag 'boolean'
+
+semanticdb-javac: unknown flag 'values'
+
+semanticdb-javac: unknown flag 'to'
+
+semanticdb-javac: unknown flag 'strings'
+
+semanticdb-javac: unknown flag ''Yes''
+
+semanticdb-javac: unknown flag 'or'
+
+semanticdb-javac: unknown flag ''No'.'
+
+2022.08.25 23:57:03 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Convert boolean values to strings 'Yes' or 'No'./solution.java
+2022.08.25 23:57:03 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'./solution.java. Output:
+semanticdb-javac: unknown flag 'boolean'
+
+semanticdb-javac: unknown flag 'values'
+
+semanticdb-javac: unknown flag 'to'
+
+semanticdb-javac: unknown flag 'strings'
+
+semanticdb-javac: unknown flag ''Yes''
+
+semanticdb-javac: unknown flag 'or'
+
+semanticdb-javac: unknown flag ''No'.'
+
+2022.08.25 23:57:34 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Convert boolean values to strings 'Yes' or 'No'./solution.scala
+Aug 25, 2022 11:57:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: 100
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: 100
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 100
+	at scala.meta.internal.parsing.FoldingRangeExtractor$Foldable$.isScala3BlockWithoutOptionalBraces(FoldingRangeExtractor.scala:248)
+	at scala.meta.internal.parsing.FoldingRangeExtractor$Foldable$.unapply(FoldingRangeExtractor.scala:199)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.extractFrom(FoldingRangeExtractor.scala:36)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.$anonfun$extractFrom$2(FoldingRangeExtractor.scala:56)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.$anonfun$extractFrom$2$adapted(FoldingRangeExtractor.scala:51)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.extractFrom(FoldingRangeExtractor.scala:51)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.$anonfun$extractFrom$2(FoldingRangeExtractor.scala:56)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.$anonfun$extractFrom$2$adapted(FoldingRangeExtractor.scala:51)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.extractFrom(FoldingRangeExtractor.scala:51)
+	at scala.meta.internal.parsing.FoldingRangeExtractor.extract(FoldingRangeExtractor.scala:29)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForScala$3(FoldingRangeProvider.scala:40)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForScala$2(FoldingRangeProvider.scala:33)
+	at scala.Option$WithFilter.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForScala(FoldingRangeProvider.scala:31)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$2(MetalsLanguageServer.scala:1705)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.08.25 23:57:35 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Convert boolean values to strings 'Yes' or 'No'./solution.scala
