@@ -589,3 +589,37 @@ Aug 30, 2022 9:38:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 1
 2022.08.30 21:38:05 INFO  no build target found for /home/stuart/Source/CodeWars/7KYU/Sum of two lowest positive integers/solution.scala. Using presentation compiler with project's scala-library version: 3.1.3
 2022.08.30 21:38:08 INFO  time: code lens generation in 4.38s
+2022.08.30 21:47:43 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Simple Fun #2: Circle of Numbers/solution.java
+2022.08.30 21:47:44 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/7KYU/Simple%20Fun%20%232:%20Circle%20of%20Numbers/solution.java. Output:
+semanticdb-javac: unknown flag 'Fun'
+
+semanticdb-javac: unknown flag '#2:'
+
+semanticdb-javac: unknown flag 'Circle'
+
+semanticdb-javac: unknown flag 'of'
+
+semanticdb-javac: unknown flag 'Numbers'
+
+Aug 30, 2022 9:47:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2022.08.30 21:47:44 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Simple Fun #2: Circle of Numbers/solution.java
+2022.08.30 21:47:45 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/7KYU/Simple%20Fun%20%232:%20Circle%20of%20Numbers/solution.java. Output:
+semanticdb-javac: unknown flag 'Fun'
+
+semanticdb-javac: unknown flag '#2:'
+
+semanticdb-javac: unknown flag 'Circle'
+
+semanticdb-javac: unknown flag 'of'
+
+semanticdb-javac: unknown flag 'Numbers'
+
+/home/stuart/Source/CodeWars/7KYU/Simple Fun #2: Circle of Numbers/solution.java:1: error: class CircleOfNumbers is public, should be declared in a file named CircleOfNumbers.java
+public class CircleOfNumbers {
+       ^
+1 error
+Aug 30, 2022 9:47:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Aug 30, 2022 9:47:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
