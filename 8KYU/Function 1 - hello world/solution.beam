@@ -1,0 +1,6 @@
+% greeting the world
+-module(greeter).
+-export([greet/0]).
+
+-spec greet() -> string().
+greet() -> "hello world!".

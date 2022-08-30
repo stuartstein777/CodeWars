@@ -687,3 +687,27 @@ semanticdb-javac: unknown flag 'dots'
 public class Dinglemouse {
        ^
 1 error
+2022.08.30 23:11:46 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Function 1 - hello world/solution.java
+2022.08.30 23:11:46 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Function%201%20-%20hello%20world/solution.java. Output:
+semanticdb-javac: unknown flag '1'
+
+semanticdb-javac: unknown flag '-'
+
+semanticdb-javac: unknown flag 'hello'
+
+semanticdb-javac: unknown flag 'world'
+
+2022.08.30 23:11:46 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Function 1 - hello world/solution.java
+2022.08.30 23:11:46 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Function%201%20-%20hello%20world/solution.java. Output:
+semanticdb-javac: unknown flag '1'
+
+semanticdb-javac: unknown flag '-'
+
+semanticdb-javac: unknown flag 'hello'
+
+semanticdb-javac: unknown flag 'world'
+
+/home/stuart/Source/CodeWars/8KYU/Function 1 - hello world/solution.java:1: error: class HelloWorld is public, should be declared in a file named HelloWorld.java
+public class HelloWorld {
+       ^
+1 error
