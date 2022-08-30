@@ -1,2 +1,7 @@
 /.idea
 /codewars
+/.clj-kondo
+/.calva
+/.lsp
+/.vscode
+/.metals
