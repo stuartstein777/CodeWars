@@ -821,3 +821,4 @@ semanticdb-javac: unknown flag 'Personalized'
 
 semanticdb-javac: unknown flag 'Message'
 
+2022.08.31 00:41:55 INFO  shutting down Metals
