@@ -785,3 +785,23 @@ semanticdb-javac: unknown flag '#1'
 
 2022.08.30 23:57:08 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Small enough? - Beginner/solution.scala
 2022.08.30 23:57:09 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Small enough? - Beginner/solution.scala
+2022.08.31 00:02:49 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Return Negative/solution.java
+2022.08.31 00:02:50 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Return%20Negative/solution.java. Output:
+semanticdb-javac: unknown flag 'Negative'
+
+2022.08.31 00:02:50 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Return Negative/solution.java
+2022.08.31 00:02:50 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Return%20Negative/solution.java. Output:
+semanticdb-javac: unknown flag 'Negative'
+
+/home/stuart/Source/CodeWars/8KYU/Return Negative/solution.java:1: error: class Kata is public, should be declared in a file named Kata.java
+public class Kata {
+       ^
+1 error
+2022.08.31 00:02:51 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Return Negative/solution.java
+2022.08.31 00:02:52 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Return%20Negative/solution.java. Output:
+semanticdb-javac: unknown flag 'Negative'
+
+/home/stuart/Source/CodeWars/8KYU/Return Negative/solution.java:1: error: class Kata is public, should be declared in a file named Kata.java
+public class Kata {
+       ^
+1 error
