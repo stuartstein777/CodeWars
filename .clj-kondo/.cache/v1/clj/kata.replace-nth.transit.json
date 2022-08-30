@@ -1,0 +1,1 @@
+["^ ","~$reducer",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[5]],"~:name","^0","~:ns","~$kata.replace-nth","~:top-ns","^7"],"~$replace-nth",["^ ","^1",14,"^2",1,"^3",["^4",[4]],"^5","^9","^6","^7","^8","^7"],"~:filename","/home/stuart/Source/CodeWars/7KYU/Replace every nth/solution.clj"]
