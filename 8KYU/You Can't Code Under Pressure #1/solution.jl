@@ -1,0 +1,3 @@
+function double_integer(i)
+    i * 2
+end

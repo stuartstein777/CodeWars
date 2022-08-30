@@ -1,0 +1,6 @@
+-module(kata).
+-export([double_integer/1]).
+
+% N will be an integer. Double it and return it.
+double_integer(N) ->
+  N*2.
