@@ -1,1 +1,1 @@
-Parse nice int from char problem
+How many consecutive numbers are needed?
