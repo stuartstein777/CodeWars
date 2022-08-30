@@ -1,9 +1,10 @@
 (ns Pangram
-  (:require [clojure.string :as str]
-            [clojure.set :as set]))
+  (:require [clojure.string :refer [lower-case]]))
 
 (defn pangram?
   [s]
-  (= (count (->> (str/lower-case s)
-                 (re-seq #"[A-Za-z]")
-                 (set))) 26))
+  (->> (lower-case s)
+       (re-seq #"[a-z]")
+       set
+       count
+       (= 26)))

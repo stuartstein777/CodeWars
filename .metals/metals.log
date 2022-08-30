@@ -623,3 +623,31 @@ Aug 30, 2022 9:47:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 17
 Aug 30, 2022 9:47:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 18
+2022.08.30 22:11:35 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Is this a triangle?/solution.java
+2022.08.30 22:11:36 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/7KYU/Is%20this%20a%20triangle%3F/solution.java. Output:
+semanticdb-javac: unknown flag 'this'
+
+semanticdb-javac: unknown flag 'a'
+
+semanticdb-javac: unknown flag 'triangle?'
+
+2022.08.30 22:11:35 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Is this a triangle?/solution.java
+2022.08.30 22:11:36 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/7KYU/Is%20this%20a%20triangle%3F/solution.java. Output:
+semanticdb-javac: unknown flag 'this'
+
+semanticdb-javac: unknown flag 'a'
+
+semanticdb-javac: unknown flag 'triangle?'
+
+2022.08.30 22:16:06 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Triangular Treasure/solution.java
+2022.08.30 22:16:06 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/7KYU/Triangular%20Treasure/solution.java. Output:
+semanticdb-javac: unknown flag 'Treasure'
+
+2022.08.30 22:16:07 WARN  no build target for: /home/stuart/Source/CodeWars/7KYU/Triangular Treasure/solution.java
+2022.08.30 22:16:07 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/7KYU/Triangular%20Treasure/solution.java. Output:
+semanticdb-javac: unknown flag 'Treasure'
+
+/home/stuart/Source/CodeWars/7KYU/Triangular Treasure/solution.java:1: error: class Triangular is public, should be declared in a file named Triangular.java
+public class Triangular {
+       ^
+1 error
