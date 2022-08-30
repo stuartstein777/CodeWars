@@ -711,3 +711,21 @@ semanticdb-javac: unknown flag 'world'
 public class HelloWorld {
        ^
 1 error
+2022.08.30 23:13:39 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Plural/solution.java
+2022.08.30 23:13:40 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Plural/solution.java
+2022.08.30 23:14:55 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Circles in Polygons/solution.java
+2022.08.30 23:14:55 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Circles%20in%20Polygons/solution.java. Output:
+semanticdb-javac: unknown flag 'in'
+
+semanticdb-javac: unknown flag 'Polygons'
+
+2022.08.30 23:14:56 WARN  no build target for: /home/stuart/Source/CodeWars/8KYU/Circles in Polygons/solution.java
+2022.08.30 23:14:57 WARN  Running javac-semanticdb failed for file:///home/stuart/Source/CodeWars/8KYU/Circles%20in%20Polygons/solution.java. Output:
+semanticdb-javac: unknown flag 'in'
+
+semanticdb-javac: unknown flag 'Polygons'
+
+/home/stuart/Source/CodeWars/8KYU/Circles in Polygons/solution.java:1: error: class Polygon is public, should be declared in a file named Polygon.java
+public class Polygon {
+       ^
+1 error
