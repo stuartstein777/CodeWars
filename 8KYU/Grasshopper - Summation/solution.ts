@@ -1,0 +1,1 @@
+export const summation = (n:number)=> n*(n+1)/2;
