@@ -1,4 +1,4 @@
-How many consecutive numbers are needed?
+Maximum Product
 
 to
 
