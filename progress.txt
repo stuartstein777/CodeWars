@@ -1,5 +1,5 @@
-Maximum Product
+Maximum Triplet Sum (Array Series #7)
 
 to
 
-EAN Validation
+Return the first M multiples of N
