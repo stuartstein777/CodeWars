@@ -1,8 +1,8 @@
 Rank:                     2 KYU
-Honor:                    5,220
-Overall:                   5.1%
-Total Completed Kata:      1066
-Leaderboard                1254
+Honor:                    5,224
+Overall:                   5.2%
+Total Completed Kata:      1067
+Leaderboard                1255
 
 |                        |     | 8KYU | 7KYU | 6KYU | 5KYU | 4KYU | 3KYU | 2KYU | 1KYU |
 | Unsolved Clojure Katas | 109 |    0 |    1 |   42 |   35 |   17 |    2 |    1 |    1 |
@@ -14,7 +14,7 @@ Leaderboard                1254
 | Clojure        | 3 kyu | 31.9% |   60 |  175 |  106 |   24 |    6 |      |    1 |      |   372 |
 | C#             | 3 kyu | 17.9% |  263 |  175 |   66 |   14 |    5 |    1 |      |      |   524 |
 | Python	 | 4 kyu | 33.7% |  165 |  108 |   28 |    7 |      |      |      |      |   308 |
-| JavaScript     | 4 kyu | 27.7% |  235 |   98 |   16 |    3 |      |      |      |      |   352 |
+| JavaScript     | 4 kyu | 28.0% |  235 |   99 |   16 |    3 |      |      |      |      |   352 |
 | Ruby           | 5 kyu | 46.9% |  114 |   35 |    6 |    2 |      |      |      |      |   157 |
 | Go             | 5 kyu | 31.2% |   62 |   29 |    7 |    2 |    1 |      |      |      |   101 |
 | C              | 6 kyu | 75.8% |   40 |   22 |    1 |    2 |      |      |      |      |    65 |
