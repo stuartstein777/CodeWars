@@ -1,0 +1,1 @@
+let sumSquares=(a)=>a.reduce((a,c)=>a+(c*c),0);
