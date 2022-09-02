@@ -1,0 +1,6 @@
+function seats_in_theater {
+    [OutputType([int])]
+    Param ([int]$total_col, [int]$total_row, [int]$col, [int]$row)
+    
+     (($total_col+1) - $col) * ($total_row - $row)
+}
