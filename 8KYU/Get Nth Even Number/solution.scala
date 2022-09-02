@@ -1,0 +1,1 @@
+def nthEven(n: Int): Int = (n-1) * 2

@@ -1,0 +1,1 @@
+select n, (n - 1) * 2 as res from ntheven

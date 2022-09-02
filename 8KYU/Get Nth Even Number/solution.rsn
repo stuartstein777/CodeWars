@@ -1,0 +1,3 @@
+let nthEven = (n: int) => {
+  (n-1)*2
+};
