@@ -1,0 +1,1 @@
+let solution = (str, ending) => str.endsWith(ending);
