@@ -1,0 +1,1 @@
+const anyArrows = (arrows) => arrows.filter(a => a.damaged !== true).length > 0;
