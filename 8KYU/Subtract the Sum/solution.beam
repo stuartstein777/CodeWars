@@ -1,0 +1,4 @@
+-module(kata).
+-export([subtract_sum/1]).
+
+subtract_sum(_) -> "apple".

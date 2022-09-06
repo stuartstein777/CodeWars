@@ -1,0 +1,1 @@
+subtractSum = (n) -> "apple"
