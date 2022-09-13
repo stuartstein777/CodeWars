@@ -3,7 +3,7 @@
 
 
 
-\![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
+[codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
 Rank:                     2 KYU
 Honor:                    5,241
