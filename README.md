@@ -1,13 +1,5 @@
+![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-# Table of Contents
-
-
-
-\![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
-
-Rank:                     2 KYU
-Honor:                    5,241
-Overall:                   5.2%
 Total Completed Kata:      1067
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
