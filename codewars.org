@@ -68,28 +68,3 @@ Total Completed Kata:      1067
 | RISC-V         | 8 kyu |  0.0% |      |      |      |      |      |      |      |      |     0 |
 #+TBLFM: $12=$4+$5+$6+$7+$8+$9+$10+$11
 
-Interesting Kata
-
-5KYU Flatten                                                    https://www.codewars.com/kata/513fa1d75e4297ba38000003                  Python|JS
-BETA Aloy                                                       https://www.codewars.com/kata/5ecbe635b82876002d3f40b1                  C#
-7KYU Simple array product                                       https://www.codewars.com/kata/5d0365accfd09600130a00c9                  Python|JS
-5KYU -N to The N                                                https://www.codewars.com/kata/589d26f3e8afb7532f000078                  JS
-4KYU Path Finder #1                                             https://www.codewars.com/kata/5765870e190b1472ec0022a2                  C#
-7KYU Sum of consecutive Integers                                https://www.codewars.com/kata/55b54be931e9ce28bc0000d6                  C#
-6KYU Element equals its index                                   https://www.codewars.com/kata/5b7176768adeae9bc9000056                  Python
-6KYU Collision Detection - 2D Point in 2D Rectangle             https://www.codewars.com/kata/5bc2c578a10a5b0b97000063                  C#
-5KYU Alphabet War - Nuclear Strike                              https://www.codewars.com/kata/59437bd7d8c9438fb5000004
-
-
-
-
-
-TODO: In All languages
-8 KYU : How Good are you really   https://www.codewars.com/kata/5601409514fc93442500010b/solutions/cpp
-8 KYU : Yes or No                 https://www.codewars.com/kata/53369039d7ab3ac506000467/train/elixir
-8 KYU : Even or Odd               https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/solutions/d
-5 KYU : Move Zeros to the end     https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript
-8 KYU : Count by X                https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/rust
-6 KYU : Multiples of 3 and 5      https://www.codewars.com/kata/514b92a657cdc65150000006/train/go
-6 KYU : Playing with digits       https://www.codewars.com/kata/5552101f47fc5178b1000050/train/csharp
-7 KYU : Small Enough              https://www.codewars.com/kata/57cc981a58da9e302a000214/train/c
