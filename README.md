@@ -252,7 +252,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">71</td>
+<td class="org-right">72</td>
 </tr>
 
 
@@ -417,6 +417,38 @@ Total Completed Kata:      1067
 
 
 <tr>
+<td class="org-left">Groovy</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">80.4%</td>
+<td class="org-right">16</td>
+<td class="org-right">3</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">20</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Objective-C</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">80.4%</td>
+<td class="org-right">7</td>
+<td class="org-right">3</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">2</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">12</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Dart</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">78.6%</td>
@@ -481,38 +513,6 @@ Total Completed Kata:      1067
 
 
 <tr>
-<td class="org-left">Objective-C</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">42.9%</td>
-<td class="org-right">7</td>
-<td class="org-right">3</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">11</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Groovy</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">42.9%</td>
-<td class="org-right">16</td>
-<td class="org-right">3</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">19</td>
-</tr>
-
-
-<tr>
 <td class="org-left">Lua</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">26.8%</td>
@@ -545,6 +545,22 @@ Total Completed Kata:      1067
 
 
 <tr>
+<td class="org-left">Haxe</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">23.2%</td>
+<td class="org-right">3</td>
+<td class="org-right">2</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">6</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Elm</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">21.4%</td>
@@ -561,22 +577,6 @@ Total Completed Kata:      1067
 
 
 <tr>
-<td class="org-left">CFML</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">17.9%</td>
-<td class="org-right">8</td>
-<td class="org-right">4</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">12</td>
-</tr>
-
-
-<tr>
 <td class="org-left">Swift</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">19.6%</td>
@@ -589,6 +589,22 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-right">13</td>
+</tr>
+
+
+<tr>
+<td class="org-left">CFML</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">17.9%</td>
+<td class="org-right">8</td>
+<td class="org-right">4</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">12</td>
 </tr>
 
 
@@ -738,22 +754,6 @@ Total Completed Kata:      1067
 
 <tr>
 <td class="org-left">Solidity</td>
-<td class="org-left">8 kyu</td>
-<td class="org-right">60.0%</td>
-<td class="org-right">3</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">5</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Haxe</td>
 <td class="org-left">8 kyu</td>
 <td class="org-right">60.0%</td>
 <td class="org-right">3</td>
