@@ -4,10 +4,9 @@
 
 
 Rank:                     2 KYU
-Honor:                    5,224
+Honor:                    5,241
 Overall:                   5.2%
 Total Completed Kata:      1067
-Leaderboard                1255
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -130,24 +129,24 @@ Leaderboard                1255
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">17.9%</td>
+<td class="org-right">18.2%</td>
 <td class="org-right">263</td>
-<td class="org-right">175</td>
+<td class="org-right">177</td>
 <td class="org-right">66</td>
-<td class="org-right">14</td>
+<td class="org-right">15</td>
 <td class="org-right">5</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">524</td>
+<td class="org-right">526</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Python</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">33.7%</td>
-<td class="org-right">165</td>
+<td class="org-right">35.6%</td>
+<td class="org-right">174</td>
 <td class="org-right">108</td>
 <td class="org-right">28</td>
 <td class="org-right">7</td>
@@ -155,114 +154,146 @@ Leaderboard                1255
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">308</td>
+<td class="org-right">317</td>
 </tr>
 
 
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">28.0%</td>
-<td class="org-right">235</td>
-<td class="org-right">99</td>
-<td class="org-right">16</td>
+<td class="org-right">31.9%</td>
+<td class="org-right">249</td>
+<td class="org-right">100</td>
+<td class="org-right">17</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">352</td>
+<td class="org-right">369</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Ruby</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">46.9%</td>
-<td class="org-right">114</td>
-<td class="org-right">35</td>
-<td class="org-right">6</td>
+<td class="org-right">56.0%</td>
+<td class="org-right">125</td>
+<td class="org-right">37</td>
+<td class="org-right">7</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">157</td>
+<td class="org-right">171</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Go</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">31.2%</td>
-<td class="org-right">62</td>
-<td class="org-right">29</td>
-<td class="org-right">7</td>
-<td class="org-right">2</td>
+<td class="org-right">39.9%</td>
+<td class="org-right">64</td>
+<td class="org-right">30</td>
+<td class="org-right">8</td>
+<td class="org-right">3</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">101</td>
+<td class="org-right">105</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">75.8%</td>
-<td class="org-right">40</td>
-<td class="org-right">22</td>
-<td class="org-right">1</td>
+<td class="org-left">5 kyu</td>
+<td class="org-right">0.2%</td>
+<td class="org-right">49</td>
+<td class="org-right">26</td>
+<td class="org-right">2</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">65</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Java</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">48.4%</td>
-<td class="org-right">48</td>
-<td class="org-right">12</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">61</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Rust</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">37.3%</td>
-<td class="org-right">35</td>
-<td class="org-right">12</td>
-<td class="org-right">1</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">49</td>
+<td class="org-right">79</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C++</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">36.6%</td>
-<td class="org-right">37</td>
-<td class="org-right">12</td>
-<td class="org-right">&#xa0;</td>
+<td class="org-right">85.6%</td>
+<td class="org-right">47</td>
+<td class="org-right">20</td>
 <td class="org-right">1</td>
+<td class="org-right">2</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">69</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Java</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">63.4%</td>
+<td class="org-right">54</td>
+<td class="org-right">15</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">71</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Rust</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">54.2%</td>
+<td class="org-right">41</td>
+<td class="org-right">14</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">58</td>
+</tr>
+
+
+<tr>
+<td class="org-left">TypeScript</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">52.3%</td>
+<td class="org-right">47</td>
+<td class="org-right">19</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">66</td>
+</tr>
+
+
+<tr>
+<td class="org-left">CoffeeScript</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">22.2%</td>
+<td class="org-right">42</td>
+<td class="org-right">8</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -272,26 +303,42 @@ Leaderboard                1255
 
 
 <tr>
-<td class="org-left">TypeScript</td>
+<td class="org-left">Haskell</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">15.7%</td>
-<td class="org-right">32</td>
-<td class="org-right">13</td>
+<td class="org-right">11.8%</td>
+<td class="org-right">35</td>
+<td class="org-right">9</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">45</td>
+<td class="org-right">44</td>
 </tr>
 
 
 <tr>
-<td class="org-left">CoffeeScript</td>
+<td class="org-left">PHP</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">8.5%</td>
-<td class="org-right">34</td>
+<td class="org-right">9.2%</td>
+<td class="org-right">32</td>
+<td class="org-right">6</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">39</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Crystal</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">3.3%</td>
+<td class="org-right">30</td>
 <td class="org-right">7</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -299,82 +346,18 @@ Leaderboard                1255
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">41</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Haskell</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">7.8%</td>
-<td class="org-right">32</td>
-<td class="org-right">8</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">40</td>
+<td class="org-right">37</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Racket</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">83.9%</td>
-<td class="org-right">17</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">0.7%</td>
+<td class="org-right">22</td>
 <td class="org-right">5</td>
 <td class="org-right">1</td>
 <td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">24</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Crystal</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">82.1%</td>
-<td class="org-right">24</td>
-<td class="org-right">6</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">30</td>
-</tr>
-
-
-<tr>
-<td class="org-left">PHP</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">76.8%</td>
-<td class="org-right">24</td>
-<td class="org-right">5</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">29</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Elixir</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">75.0%</td>
-<td class="org-right">25</td>
-<td class="org-right">4</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -386,23 +369,87 @@ Leaderboard                1255
 <tr>
 <td class="org-left">D</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">60.7%</td>
-<td class="org-right">9</td>
-<td class="org-right">5</td>
-<td class="org-right">&#xa0;</td>
+<td class="org-right">96.4%</td>
+<td class="org-right">12</td>
+<td class="org-right">7</td>
+<td class="org-right">1</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">15</td>
+<td class="org-right">21</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Elixir</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">92.9%</td>
+<td class="org-right">27</td>
+<td class="org-right">6</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">33</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Julia</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">87.5%</td>
+<td class="org-right">20</td>
+<td class="org-right">7</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">28</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Dart</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">57.1%</td>
+<td class="org-right">78.6%</td>
+<td class="org-right">22</td>
+<td class="org-right">7</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">29</td>
+</tr>
+
+
+<tr>
+<td class="org-left">F#</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">67.9%</td>
+<td class="org-right">16</td>
+<td class="org-right">7</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">24</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Kotlin</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">60.7%</td>
 <td class="org-right">20</td>
 <td class="org-right">4</td>
 <td class="org-right">&#xa0;</td>
@@ -416,42 +463,10 @@ Leaderboard                1255
 
 
 <tr>
-<td class="org-left">F#</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">55.4%</td>
-<td class="org-right">14</td>
-<td class="org-right">6</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">21</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Julia</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">48.2%</td>
-<td class="org-right">13</td>
-<td class="org-right">7</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">20</td>
-</tr>
-
-
-<tr>
 <td class="org-left">SQL</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">41.1%</td>
-<td class="org-right">20</td>
+<td class="org-right">44.6%</td>
+<td class="org-right">21</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -459,82 +474,18 @@ Leaderboard                1255
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">21</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Kotlin</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">41.1%</td>
-<td class="org-right">17</td>
-<td class="org-right">3</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">20</td>
+<td class="org-right">22</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Objective-C</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">39.3%</td>
-<td class="org-right">6</td>
+<td class="org-right">42.9%</td>
+<td class="org-right">7</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">10</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Groovy</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">33.9%</td>
-<td class="org-right">15</td>
-<td class="org-right">3</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">18</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Elm</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">17.9%</td>
-<td class="org-right">12</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">14</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Lua</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">7.1%</td>
-<td class="org-right">9</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -544,42 +495,58 @@ Leaderboard                1255
 
 
 <tr>
-<td class="org-left">CFML</td>
+<td class="org-left">Groovy</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">7.1%</td>
-<td class="org-right">6</td>
-<td class="org-right">4</td>
+<td class="org-right">42.9%</td>
+<td class="org-right">16</td>
+<td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">10</td>
+<td class="org-right">19</td>
 </tr>
 
 
 <tr>
-<td class="org-left">Swift</td>
+<td class="org-left">Lua</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">7.1%</td>
-<td class="org-right">6</td>
-<td class="org-right">4</td>
+<td class="org-right">26.8%</td>
+<td class="org-right">13</td>
+<td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">10</td>
+<td class="org-right">16</td>
 </tr>
 
 
 <tr>
 <td class="org-left">R</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">3.6%</td>
-<td class="org-right">8</td>
+<td class="org-right">25.0%</td>
+<td class="org-right">11</td>
+<td class="org-right">4</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">15</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Elm</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">21.4%</td>
+<td class="org-right">13</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -587,16 +554,96 @@ Leaderboard                1255
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-right">15</td>
+</tr>
+
+
+<tr>
+<td class="org-left">CFML</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">17.9%</td>
+<td class="org-right">8</td>
+<td class="org-right">4</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">12</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Swift</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">19.6%</td>
+<td class="org-right">8</td>
+<td class="org-right">5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">13</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Nim</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">16.1%</td>
+<td class="org-right">6</td>
+<td class="org-right">3</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-right">10</td>
+</tr>
+
+
+<tr>
+<td class="org-left">OCaml</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">14.3%</td>
+<td class="org-right">8</td>
+<td class="org-right">5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">13</td>
 </tr>
 
 
 <tr>
 <td class="org-left">VB</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">1.8%</td>
+<td class="org-right">7.1%</td>
 <td class="org-right">6</td>
-<td class="org-right">3</td>
+<td class="org-right">4</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">10</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Erlang</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">0.0%</td>
+<td class="org-right">7</td>
+<td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -608,11 +655,27 @@ Leaderboard                1255
 
 
 <tr>
-<td class="org-left">Nim</td>
-<td class="org-left">8 kyu</td>
-<td class="org-right">95.0%</td>
-<td class="org-right">5</td>
+<td class="org-left">Common Lisp</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">0.0%</td>
 <td class="org-right">3</td>
+<td class="org-right">4</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">7</td>
+</tr>
+
+
+<tr>
+<td class="org-left">PureScript</td>
+<td class="org-left">8 kyu</td>
+<td class="org-right">90.0%</td>
+<td class="org-right">6</td>
+<td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -624,34 +687,18 @@ Leaderboard                1255
 
 
 <tr>
-<td class="org-left">Common Lisp</td>
+<td class="org-left">Reason</td>
 <td class="org-left">8 kyu</td>
-<td class="org-right">85.0%</td>
-<td class="org-right">3</td>
-<td class="org-right">3</td>
+<td class="org-right">90.0%</td>
+<td class="org-right">6</td>
+<td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">6</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Erlang</td>
-<td class="org-left">8 kyu</td>
-<td class="org-right">75.0%</td>
-<td class="org-right">6</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">7</td>
+<td class="org-right">8</td>
 </tr>
 
 
@@ -672,11 +719,11 @@ Leaderboard                1255
 
 
 <tr>
-<td class="org-left">OCaml</td>
+<td class="org-left">PowerShell</td>
 <td class="org-left">8 kyu</td>
-<td class="org-right">70.0%</td>
-<td class="org-right">4</td>
-<td class="org-right">2</td>
+<td class="org-right">75.0%</td>
+<td class="org-right">3</td>
+<td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -688,7 +735,7 @@ Leaderboard                1255
 
 
 <tr>
-<td class="org-left">PowerShell</td>
+<td class="org-left">Solidity</td>
 <td class="org-left">8 kyu</td>
 <td class="org-right">60.0%</td>
 <td class="org-right">3</td>
@@ -704,27 +751,11 @@ Leaderboard                1255
 
 
 <tr>
-<td class="org-left">PureScript</td>
+<td class="org-left">Haxe</td>
 <td class="org-left">8 kyu</td>
-<td class="org-right">55.0%</td>
-<td class="org-right">4</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">5</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Reason</td>
-<td class="org-left">8 kyu</td>
-<td class="org-right">55.0%</td>
-<td class="org-right">4</td>
-<td class="org-right">1</td>
+<td class="org-right">60.0%</td>
+<td class="org-right">3</td>
+<td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -748,38 +779,6 @@ Leaderboard                1255
 <td class="org-right">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-right">3</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Haxe</td>
-<td class="org-left">8 kyu</td>
-<td class="org-right">50.0%</td>
-<td class="org-right">2</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">4</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Solidity</td>
-<td class="org-left">8 kyu</td>
-<td class="org-right">45.0%</td>
-<td class="org-right">3</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">4</td>
 </tr>
 
 
@@ -989,6 +988,22 @@ Leaderboard                1255
 <td class="org-left">&#xa0;</td>
 <td class="org-right">0</td>
 </tr>
+
+
+<tr>
+<td class="org-left">RISC-V</td>
+<td class="org-left">8 kyu</td>
+<td class="org-right">0.0%</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -1010,4 +1025,7 @@ TODO: In All languages
 8 KYU : Even or Odd               <https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/solutions/d>
 5 KYU : Move Zeros to the end     <https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript>
 8 KYU : Count by X                <https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/rust>
+6 KYU : Multiples of 3 and 5      <https://www.codewars.com/kata/514b92a657cdc65150000006/train/go>
+6 KYU : Playing with digits       <https://www.codewars.com/kata/5552101f47fc5178b1000050/train/csharp>
+7 KYU : Small Enough              <https://www.codewars.com/kata/57cc981a58da9e302a000214/train/c>
 
