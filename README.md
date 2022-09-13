@@ -1,6 +1,8 @@
 
 # Table of Contents
 
+
+
 Rank:                     2 KYU
 Honor:                    5,224
 Overall:                   5.2%
