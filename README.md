@@ -29,15 +29,15 @@ Total Completed Kata:      1067
 <tbody>
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">8KYU</td>
-<td class="org-right">7KYU</td>
-<td class="org-right">6KYU</td>
-<td class="org-right">5KYU</td>
-<td class="org-right">4KYU</td>
-<td class="org-right">3KYU</td>
-<td class="org-right">2KYU</td>
-<td class="org-right">1KYU</td>
+<td class="org-right">KYU-></td>
+<td class="org-right">8</td>
+<td class="org-right">7</td>
+<td class="org-right">6</td>
+<td class="org-right">5</td>
+<td class="org-right">4</td>
+<td class="org-right">3</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
 </tr>
 
 
@@ -82,7 +82,7 @@ Total Completed Kata:      1067
 
 <col  class="org-right" />
 
-<col  class="org-left" />
+<col  class="org-right" />
 
 <col  class="org-right" />
 </colgroup>
@@ -91,15 +91,15 @@ Total Completed Kata:      1067
 <th scope="col" class="org-left">Language</th>
 <th scope="col" class="org-left">KYU</th>
 <th scope="col" class="org-right">%</th>
-<th scope="col" class="org-right">**8KYU**</th>
-<th scope="col" class="org-right">**7KYU**</th>
-<th scope="col" class="org-right">**6KYU**</th>
-<th scope="col" class="org-right">**5KYU**</th>
-<th scope="col" class="org-right">**4KYU**</th>
-<th scope="col" class="org-right">**3KYU**</th>
-<th scope="col" class="org-right">**2KYU**</th>
-<th scope="col" class="org-left">**1KYU**</th>
-<th scope="col" class="org-right">**Total**</th>
+<th scope="col" class="org-right">8</th>
+<th scope="col" class="org-right">7</th>
+<th scope="col" class="org-right">6</th>
+<th scope="col" class="org-right">5</th>
+<th scope="col" class="org-right">4</th>
+<th scope="col" class="org-right">3</th>
+<th scope="col" class="org-right">2</th>
+<th scope="col" class="org-right">1</th>
+<th scope="col" class="org-right">Total</th>
 </tr>
 </thead>
 
@@ -115,7 +115,7 @@ Total Completed Kata:      1067
 <td class="org-right">6</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">1</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">372</td>
 </tr>
 
@@ -131,7 +131,7 @@ Total Completed Kata:      1067
 <td class="org-right">5</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">527</td>
 </tr>
 
@@ -147,7 +147,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">317</td>
 </tr>
 
@@ -163,7 +163,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">370</td>
 </tr>
 
@@ -179,7 +179,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">171</td>
 </tr>
 
@@ -195,7 +195,7 @@ Total Completed Kata:      1067
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">106</td>
 </tr>
 
@@ -211,7 +211,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">79</td>
 </tr>
 
@@ -227,7 +227,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">70</td>
 </tr>
 
@@ -243,7 +243,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">72</td>
 </tr>
 
@@ -259,7 +259,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">59</td>
 </tr>
 
@@ -275,7 +275,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">67</td>
 </tr>
 
@@ -291,7 +291,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">50</td>
 </tr>
 
@@ -307,7 +307,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">44</td>
 </tr>
 
@@ -323,7 +323,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">40</td>
 </tr>
 
@@ -339,7 +339,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">37</td>
 </tr>
 
@@ -355,7 +355,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">29</td>
 </tr>
 
@@ -371,7 +371,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">25</td>
 </tr>
 
@@ -387,7 +387,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">21</td>
 </tr>
 
@@ -403,7 +403,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">33</td>
 </tr>
 
@@ -419,7 +419,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">28</td>
 </tr>
 
@@ -435,7 +435,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">20</td>
 </tr>
 
@@ -451,7 +451,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">12</td>
 </tr>
 
@@ -467,7 +467,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">29</td>
 </tr>
 
@@ -483,7 +483,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">24</td>
 </tr>
 
@@ -499,7 +499,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">11</td>
 </tr>
 
@@ -515,7 +515,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">22</td>
 </tr>
 
@@ -531,7 +531,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">11</td>
 </tr>
 
@@ -547,7 +547,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">16</td>
 </tr>
 
@@ -563,7 +563,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">15</td>
 </tr>
 
@@ -579,7 +579,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">6</td>
 </tr>
 
@@ -595,7 +595,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">15</td>
 </tr>
 
@@ -611,7 +611,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">13</td>
 </tr>
 
@@ -627,7 +627,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">12</td>
 </tr>
 
@@ -643,7 +643,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">13</td>
 </tr>
 
@@ -659,7 +659,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">9</td>
 </tr>
 
@@ -675,7 +675,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">7</td>
 </tr>
 
@@ -691,7 +691,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">8</td>
 </tr>
 
@@ -707,7 +707,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">8</td>
 </tr>
 
@@ -723,7 +723,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">4</td>
 </tr>
 
@@ -739,7 +739,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">6</td>
 </tr>
 
@@ -755,7 +755,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">5</td>
 </tr>
 
@@ -771,7 +771,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">3</td>
 </tr>
 
@@ -787,7 +787,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">3</td>
 </tr>
 
@@ -803,7 +803,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">3</td>
 </tr>
 
@@ -819,7 +819,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">3</td>
 </tr>
 
@@ -835,7 +835,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">2</td>
 </tr>
 
@@ -851,7 +851,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">1</td>
 </tr>
 
@@ -867,7 +867,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">1</td>
 </tr>
 
@@ -883,7 +883,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">1</td>
 </tr>
 
@@ -899,7 +899,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">1</td>
 </tr>
 
@@ -915,7 +915,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">1</td>
 </tr>
 
@@ -931,7 +931,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">0</td>
 </tr>
 
@@ -947,7 +947,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">0</td>
 </tr>
 
@@ -963,7 +963,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">0</td>
 </tr>
 
@@ -979,7 +979,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">0</td>
 </tr>
 
@@ -995,7 +995,7 @@ Total Completed Kata:      1067
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">0</td>
 </tr>
 </tbody>
