@@ -1,9 +1,4 @@
-
-# Table of Contents
-
-
-
-\![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
+![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
 Total Completed Kata:      1067
 
@@ -1005,4 +1000,3 @@ Total Completed Kata:      1067
 </tr>
 </tbody>
 </table>
-
