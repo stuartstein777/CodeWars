@@ -3,7 +3,7 @@
 Total Completed Kata:      1067
 
 |                        | KYU-> | 8 | 7 |  6 |  5 |  4 | 3 | 2 | 1 |
-| Unsolved Clojure Katas |   109 | 0 | 1 | 42 | 35 | 17 | 2 | 1 | 1 |
+| Unsolved Clojure Katas |    99 | 0 | 1 | 42 | 35 | 17 | 2 | 1 | 1 |
 
 *All Language Stats*
 
