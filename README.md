@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1067
+Total Completed Kata:      1068
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -125,7 +125,7 @@ Total Completed Kata:      1067
 <td class="org-left">3 kyu</td>
 <td class="org-right">18.2%</td>
 <td class="org-right">263</td>
-<td class="org-right">177</td>
+<td class="org-right">178</td>
 <td class="org-right">66</td>
 <td class="org-right">15</td>
 <td class="org-right">5</td>
@@ -155,7 +155,7 @@ Total Completed Kata:      1067
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">34.7%</td>
+<td class="org-right">34.8%</td>
 <td class="org-right">251</td>
 <td class="org-right">100</td>
 <td class="org-right">18</td>
@@ -267,7 +267,7 @@ Total Completed Kata:      1067
 <tr>
 <td class="org-left">Rust</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">68.0%</td>
+<td class="org-right">73.2%</td>
 <td class="org-right">41</td>
 <td class="org-right">14</td>
 <td class="org-right">3</td>
@@ -299,7 +299,7 @@ Total Completed Kata:      1067
 <tr>
 <td class="org-left">CoffeeScript</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">22.2%</td>
+<td class="org-right">29.4%</td>
 <td class="org-right">42</td>
 <td class="org-right">8</td>
 <td class="org-right">1</td>
@@ -315,7 +315,7 @@ Total Completed Kata:      1067
 <tr>
 <td class="org-left">Haskell</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">11.8%</td>
+<td class="org-right">13.7%</td>
 <td class="org-right">35</td>
 <td class="org-right">9</td>
 <td class="org-right">&#xa0;</td>
@@ -491,7 +491,7 @@ Total Completed Kata:      1067
 <tr>
 <td class="org-left">Nim</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">53.6%</td>
+<td class="org-right">67.9%</td>
 <td class="org-right">6</td>
 <td class="org-right">3</td>
 <td class="org-right">2</td>
