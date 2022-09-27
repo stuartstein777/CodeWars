@@ -1,0 +1,1 @@
+let avg xs = List.average xs

@@ -155,8 +155,8 @@ Total Completed Kata:      1068
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">35.4%</td>
-<td class="org-right">251</td>
+<td class="org-right">35.6%</td>
+<td class="org-right">252</td>
 <td class="org-right">101</td>
 <td class="org-right">18</td>
 <td class="org-right">4</td>
@@ -252,7 +252,7 @@ Total Completed Kata:      1068
 <td class="org-left">TypeScript</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">81.0%</td>
-<td class="org-right">50</td>
+<td class="org-right">51</td>
 <td class="org-right">22</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
@@ -459,8 +459,8 @@ Total Completed Kata:      1068
 <tr>
 <td class="org-left">F#</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">82.1%</td>
-<td class="org-right">16</td>
+<td class="org-right">85.7%</td>
+<td class="org-right">17</td>
 <td class="org-right">7</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
@@ -1000,3 +1000,5 @@ Total Completed Kata:      1068
 </tr>
 </tbody>
 </table>
+
+<https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/solutions/cpp>
