@@ -1,0 +1,1 @@
+summation(N, R) :- R is N*(N+1)/2.

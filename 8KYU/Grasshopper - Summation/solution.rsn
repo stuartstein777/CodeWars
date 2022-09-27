@@ -1,0 +1,3 @@
+let summation = (n: int) => {
+  n*(n+1)/2
+}
