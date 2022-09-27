@@ -164,7 +164,7 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">374</td>
+<td class="org-right">375</td>
 </tr>
 
 
@@ -203,9 +203,9 @@ Total Completed Kata:      1068
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">6.8%</td>
-<td class="org-right">55</td>
-<td class="org-right">27</td>
+<td class="org-right">8.0%</td>
+<td class="org-right">56</td>
+<td class="org-right">28</td>
 <td class="org-right">3</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
@@ -260,7 +260,7 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">74</td>
+<td class="org-right">75</td>
 </tr>
 
 
@@ -441,6 +441,22 @@ Total Completed Kata:      1068
 
 
 <tr>
+<td class="org-left">F#</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">85.7%</td>
+<td class="org-right">17</td>
+<td class="org-right">7</td>
+<td class="org-right">2</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">26</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Objective-C</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">83.9%</td>
@@ -453,22 +469,6 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">13</td>
-</tr>
-
-
-<tr>
-<td class="org-left">F#</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">85.7%</td>
-<td class="org-right">17</td>
-<td class="org-right">7</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">25</td>
 </tr>
 
 
@@ -1002,3 +1002,7 @@ Total Completed Kata:      1068
 </table>
 
 <https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/solutions/cpp>
+
+<https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/solutions/c>
+
+<https://www.codewars.com/kata/58880c6e79a0a3e459000004/solutions/c?filter=me&sort=best_practice&invalids=false>
