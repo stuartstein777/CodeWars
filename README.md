@@ -233,6 +233,22 @@ Total Completed Kata:      1068
 
 
 <tr>
+<td class="org-left">Java</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">89.5%</td>
+<td class="org-right">56</td>
+<td class="org-right">17</td>
+<td class="org-right">1</td>
+<td class="org-right">2</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">76</td>
+</tr>
+
+
+<tr>
 <td class="org-left">TypeScript</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">87.6%</td>
@@ -245,22 +261,6 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">78</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Java</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">87.6%</td>
-<td class="org-right">56</td>
-<td class="org-right">16</td>
-<td class="org-right">1</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">75</td>
 </tr>
 
 
@@ -281,6 +281,22 @@ Total Completed Kata:      1068
 
 
 <tr>
+<td class="org-left">PHP</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">33.3%</td>
+<td class="org-right">33</td>
+<td class="org-right">8</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">44</td>
+</tr>
+
+
+<tr>
 <td class="org-left">CoffeeScript</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">31.4%</td>
@@ -293,22 +309,6 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">52</td>
-</tr>
-
-
-<tr>
-<td class="org-left">PHP</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">30.1%</td>
-<td class="org-right">33</td>
-<td class="org-right">7</td>
-<td class="org-right">2</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">43</td>
 </tr>
 
 
