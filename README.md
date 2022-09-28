@@ -267,7 +267,7 @@ Total Completed Kata:      1068
 <tr>
 <td class="org-left">Rust</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">81.0%</td>
+<td class="org-right">83.0%</td>
 <td class="org-right">44</td>
 <td class="org-right">18</td>
 <td class="org-right">3</td>
@@ -276,7 +276,7 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">66</td>
+<td class="org-right">67</td>
 </tr>
 
 
@@ -409,6 +409,22 @@ Total Completed Kata:      1068
 
 
 <tr>
+<td class="org-left">Kotlin</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">1.3%</td>
+<td class="org-right">20</td>
+<td class="org-right">5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">26</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Dart</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">0.7%</td>
@@ -421,22 +437,6 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">31</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Kotlin</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">98.2%</td>
-<td class="org-right">20</td>
-<td class="org-right">4</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">25</td>
 </tr>
 
 
