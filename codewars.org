@@ -13,16 +13,16 @@ Total Completed Kata:      1068
 | Clojure        | 3 kyu | 31.9% |  60 | 175 | 106 | 24 | 6 |   | 1 |   |   372 |
 | C#             | 3 kyu | 19.0% | 263 | 178 |  66 | 15 | 5 | 1 |   |   |   528 |
 | Python	 | 4 kyu | 36.3% | 176 | 109 |  28 |  7 |   |   |   |   |   320 |
-| JavaScript     | 4 kyu | 35.6% | 252 | 101 |  18 |  4 |   |   |   |   |   375 |
+| JavaScript     | 4 kyu | 35.7% | 253 | 101 |  18 |  4 |   |   |   |   |   376 |
 | Ruby           | 5 kyu | 56.5% | 126 |  37 |   7 |  2 |   |   |   |   |   172 |
 | Go             | 5 kyu | 43.0% |  65 |  31 |   9 |  3 | 1 |   |   |   |   109 |
-| C              | 5 kyu |  8.0% |  56 |  28 |   3 |  2 |   |   |   |   |    87 |
-| C++            | 5 kyu |  0.2% |  50 |  21 |   2 |  2 |   |   |   |   |    75 |
-| Java           | 6 kyu | 85.0% |  54 |  16 |   1 |  2 |   |   |   |   |    73 |
-| TypeScript     | 6 kyu | 81.0% |  51 |  22 |   2 |    |   |   |   |   |    75 |
-| Rust           | 6 kyu | 78.4% |  42 |  16 |   3 |  2 |   |   |   |   |    63 |
+| C              | 5 kyu |  8.0% |  56 |  28 |   3 |  2 |   |   |   |   |    89 |
+| C++            | 5 kyu |  1.0% |  50 |  22 |   2 |  2 |   |   |   |   |    76 |
+| Java           | 6 kyu | 86.3% |  56 |  16 |   1 |  2 |   |   |   |   |    74 |
+| TypeScript     | 6 kyu | 83.7% |  53 |  22 |   2 |    |   |   |   |   |    76 |
+| Rust           | 6 kyu | 79.7% |  44 |  16 |   3 |  2 |   |   |   |   |    64 |
 | CoffeeScript   | 6 kyu | 31.4% |  42 |   9 |   1 |    |   |   |   |   |    52 |
-| PHP            | 6 kyu | 30.1% |  32 |   7 |   2 |  1 |   |   |   |   |    42 |
+| PHP            | 6 kyu | 30.1% |  33 |   7 |   2 |  1 |   |   |   |   |    42 |
 | Haskell        | 6 kyu | 15.7% |  35 |  10 |     |    |   |   |   |   |    45 |
 | Crystal        | 6 kyu | 11.8% |  31 |   8 |   1 |    |   |   |   |   |    40 |
 | Racket         | 6 kyu |  5.9% |  22 |   5 |   2 |  1 |   |   |   |   |    30 |
@@ -33,7 +33,7 @@ Total Completed Kata:      1068
 | Kotlin         | 7 kyu | 98.2% |  20 |   4 |     |  1 |   |   |   |   |    25 |
 | F#             | 7 kyu | 85.7% |  17 |   7 |   2 |    |   |   |   |   |    26 |
 | Objective-C    | 7 kyu | 83.9% |   8 |   3 |     |  2 |   |   |   |   |    13 |
-| Groovy         | 7 kyu | 80.4% |  16 |   3 |     |  1 |   |   |   |   |    20 |
+| Groovy         | 7 kyu | 85.7% |  17 |   3 |     |  1 |   |   |   |   |    20 |
 | Nim            | 7 kyu | 71.4% |   7 |   3 |   2 |  1 |   |   |   |   |    13 |
 | VB             | 7 kyu | 48.2% |   7 |   4 |     |  1 |   |   |   |   |    12 |
 | SQL            | 7 kyu | 44.6% |  21 |   1 |     |    |   |   |   |   |    22 |
@@ -69,7 +69,5 @@ Total Completed Kata:      1068
 #+TBLFM: $12=$4+$5+$6+$7+$8+$9+$10+$11
 
 https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/solutions/cpp
-
-https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/solutions/c
 
 https://www.codewars.com/kata/58880c6e79a0a3e459000004/solutions/c?filter=me&sort=best_practice&invalids=false
