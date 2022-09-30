@@ -158,13 +158,13 @@ Total Completed Kata:      1068
 <td class="org-right">36.3%</td>
 <td class="org-right">253</td>
 <td class="org-right">104</td>
-<td class="org-right">18</td>
+<td class="org-right">19</td>
 <td class="org-right">4</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">379</td>
+<td class="org-right">380</td>
 </tr>
 
 
@@ -190,61 +190,61 @@ Total Completed Kata:      1068
 <td class="org-right">45.7%</td>
 <td class="org-right">65</td>
 <td class="org-right">32</td>
-<td class="org-right">10</td>
+<td class="org-right">11</td>
 <td class="org-right">3</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">111</td>
+<td class="org-right">112</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">8.7%</td>
+<td class="org-right">10.6%</td>
 <td class="org-right">56</td>
 <td class="org-right">29</td>
-<td class="org-right">3</td>
+<td class="org-right">4</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">90</td>
+<td class="org-right">91</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C++</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">1.7%</td>
+<td class="org-right">3.6%</td>
 <td class="org-right">50</td>
 <td class="org-right">23</td>
+<td class="org-right">3</td>
 <td class="org-right">2</td>
-<td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">77</td>
+<td class="org-right">78</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Rust</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">1.2%</td>
+<td class="org-right">3.1%</td>
 <td class="org-right">45</td>
 <td class="org-right">18</td>
-<td class="org-right">4</td>
+<td class="org-right">5</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">69</td>
+<td class="org-right">71</td>
 </tr>
 
 
@@ -267,16 +267,16 @@ Total Completed Kata:      1068
 <tr>
 <td class="org-left">Java</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">89.5%</td>
+<td class="org-right">94.8%</td>
 <td class="org-right">56</td>
 <td class="org-right">17</td>
-<td class="org-right">1</td>
+<td class="org-right">2</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">76</td>
+<td class="org-right">77</td>
 </tr>
 
 
@@ -345,6 +345,22 @@ Total Completed Kata:      1068
 
 
 <tr>
+<td class="org-left">D</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">7.2%</td>
+<td class="org-right">13</td>
+<td class="org-right">8</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">24</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Racket</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">5.9%</td>
@@ -366,7 +382,7 @@ Total Completed Kata:      1068
 <td class="org-right">5.2%</td>
 <td class="org-right">22</td>
 <td class="org-right">8</td>
-<td class="org-right">2</td>
+<td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -389,22 +405,6 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">34</td>
-</tr>
-
-
-<tr>
-<td class="org-left">D</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">2.0%</td>
-<td class="org-right">13</td>
-<td class="org-right">8</td>
-<td class="org-right">1</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">23</td>
 </tr>
 
 
