@@ -174,13 +174,13 @@ Total Completed Kata:      1068
 <td class="org-right">56.5%</td>
 <td class="org-right">126</td>
 <td class="org-right">37</td>
-<td class="org-right">7</td>
+<td class="org-right">8</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">172</td>
+<td class="org-right">173</td>
 </tr>
 
 
