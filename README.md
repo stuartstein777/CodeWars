@@ -233,6 +233,22 @@ Total Completed Kata:      1068
 
 
 <tr>
+<td class="org-left">Rust</td>
+<td class="org-left">5 kyu</td>
+<td class="org-right">1.2%</td>
+<td class="org-right">45</td>
+<td class="org-right">18</td>
+<td class="org-right">4</td>
+<td class="org-right">3</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">69</td>
+</tr>
+
+
+<tr>
 <td class="org-left">TypeScript</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">94.8%</td>
@@ -261,22 +277,6 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">76</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Rust</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">88.2%</td>
-<td class="org-right">44</td>
-<td class="org-right">18</td>
-<td class="org-right">4</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">67</td>
 </tr>
 
 
@@ -1001,4 +1001,6 @@ Total Completed Kata:      1068
 </tbody>
 </table>
 
-<https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/go>
+<https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/d>
+<https://www.codewars.com/kata/5556282156230d0e5e000089/solutions/rust>
+<https://www.codewars.com/kata/54da539698b8a2ad76000228/train/rust>
