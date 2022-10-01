@@ -217,8 +217,8 @@ Total Completed Kata:      1069
 <tr>
 <td class="org-left">Rust</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">9.9%</td>
-<td class="org-right">58</td>
+<td class="org-right">12.4%</td>
+<td class="org-right">63</td>
 <td class="org-right">18</td>
 <td class="org-right">5</td>
 <td class="org-right">3</td>
@@ -226,14 +226,14 @@ Total Completed Kata:      1069
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">84</td>
+<td class="org-right">88</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C++</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">4.6%</td>
+<td class="org-right">6.5%</td>
 <td class="org-right">52</td>
 <td class="org-right">23</td>
 <td class="org-right">4</td>
@@ -281,7 +281,7 @@ Total Completed Kata:      1069
 <tr>
 <td class="org-left">PHP</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">34.6%</td>
+<td class="org-right">35.9%</td>
 <td class="org-right">35</td>
 <td class="org-right">8</td>
 <td class="org-right">2</td>
@@ -457,8 +457,8 @@ Total Completed Kata:      1069
 <tr>
 <td class="org-left">F#</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">85.7%</td>
-<td class="org-right">17</td>
+<td class="org-right">89.3%</td>
+<td class="org-right">18</td>
 <td class="org-right">7</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
@@ -466,7 +466,7 @@ Total Completed Kata:      1069
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">26</td>
+<td class="org-right">27</td>
 </tr>
 
 
