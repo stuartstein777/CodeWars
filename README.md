@@ -217,8 +217,8 @@ Total Completed Kata:      1068
 <tr>
 <td class="org-left">Rust</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">8.0%</td>
-<td class="org-right">54</td>
+<td class="org-right">8.5%</td>
+<td class="org-right">55</td>
 <td class="org-right">18</td>
 <td class="org-right">5</td>
 <td class="org-right">3</td>
@@ -226,7 +226,7 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">80</td>
+<td class="org-right">81</td>
 </tr>
 
 
@@ -1006,3 +1006,4 @@ Total Completed Kata:      1068
 <https://www.codewars.com/kata/54da539698b8a2ad76000228/train/rust>
 <https://www.codewars.com/kata/583710ccaa6717322c000105/solutions/rust>
 <https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/rust>
+<https://www.codewars.com/kata/5715eaedb436cf5606000381/solutions/rust>
