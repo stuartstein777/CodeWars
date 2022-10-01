@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1068
+Total Completed Kata:      1069
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -121,16 +121,16 @@ Total Completed Kata:      1068
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">19.1%</td>
+<td class="org-right">19.2%</td>
 <td class="org-right">263</td>
-<td class="org-right">179</td>
+<td class="org-right">180</td>
 <td class="org-right">66</td>
 <td class="org-right">15</td>
 <td class="org-right">5</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">529</td>
+<td class="org-right">530</td>
 </tr>
 
 
@@ -185,32 +185,32 @@ Total Completed Kata:      1068
 <tr>
 <td class="org-left">Go</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">47.6%</td>
+<td class="org-right">48.3%</td>
 <td class="org-right">65</td>
-<td class="org-right">32</td>
+<td class="org-right">33</td>
 <td class="org-right">11</td>
 <td class="org-right">3</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">112</td>
+<td class="org-right">113</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">11.6%</td>
+<td class="org-right">13.0%</td>
 <td class="org-right">58</td>
-<td class="org-right">29</td>
+<td class="org-right">31</td>
 <td class="org-right">4</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">93</td>
+<td class="org-right">95</td>
 </tr>
 
 
@@ -407,6 +407,22 @@ Total Completed Kata:      1068
 
 
 <tr>
+<td class="org-left">Dart</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">2.0%</td>
+<td class="org-right">24</td>
+<td class="org-right">7</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">32</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Kotlin</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">1.3%</td>
@@ -419,22 +435,6 @@ Total Completed Kata:      1068
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">26</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Dart</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">0.7%</td>
-<td class="org-right">24</td>
-<td class="org-right">7</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">32</td>
 </tr>
 
 
