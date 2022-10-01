@@ -217,8 +217,8 @@ Total Completed Kata:      1069
 <tr>
 <td class="org-left">Rust</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">9.4%</td>
-<td class="org-right">57</td>
+<td class="org-right">9.9%</td>
+<td class="org-right">58</td>
 <td class="org-right">18</td>
 <td class="org-right">5</td>
 <td class="org-right">3</td>
@@ -266,7 +266,7 @@ Total Completed Kata:      1069
 <td class="org-left">Java</td>
 <td class="org-left">5 kyu</td>
 <td class="org-right">0.0%</td>
-<td class="org-right">60</td>
+<td class="org-right">61</td>
 <td class="org-right">17</td>
 <td class="org-right">2</td>
 <td class="org-right">2</td>
