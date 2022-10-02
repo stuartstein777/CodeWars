@@ -69,10 +69,18 @@ Total Completed Kata:      1076
 *All Language Stats*
 
 https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/d
+
 https://www.codewars.com/kata/5556282156230d0e5e000089/solutions/rust
+
 https://www.codewars.com/kata/54da539698b8a2ad76000228/train/rust
+
 https://www.codewars.com/kata/583710ccaa6717322c000105/solutions/rust
+
 https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/rust
+
 https://www.codewars.com/kata/58acfe4ae0201e1708000075/solutions/csharp
+
 https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust
+
 https://www.codewars.com/kata/search/my-languages?q=%22Simple+Fun+%23%22&order_by=sort_date+desc&language=my-languages&beta=false&xids=
+
