@@ -9,19 +9,19 @@ Total Completed Kata:      1073
 | Language       | KYU   |     % |   8 |   7 |   6 |  5 | 4 | 3 | 2 | 1 | Total |
 |----------------+-------+-------+-----+-----+-----+----+---+---+---+---+-------|
 | Clojure        | 3 kyu | 31.9% |  60 | 175 | 106 | 24 | 6 |   | 1 |   |   372 |
-| C#             | 3 kyu | 20.5% | 263 | 180 |  71 | 15 | 5 | 1 |   |   |   535 |
-| JavaScript     | 4 kyu | 37.5% | 256 | 104 |  19 |  4 |   |   |   |   |   383 |
-| Python	 | 4 kyu | 37.2% | 176 | 110 |  29 |  7 |   |   |   |   |   322 |
-| Ruby           | 5 kyu | 56.5% | 127 |  37 |   8 |  2 |   |   |   |   |   174 |
+| C#             | 3 kyu | 20.5% | 263 | 181 |  71 | 15 | 5 | 1 |   |   |   535 |
+| Python	 | 4 kyu | 38.1% | 177 | 111 |  30 |  7 |   |   |   |   |   324 |
+| JavaScript     | 4 kyu | 37.5% | 256 | 105 |  19 |  4 |   |   |   |   |   383 |
+| Ruby           | 5 kyu | 59.4% | 128 |  37 |   8 |  2 |   |   |   |   |   175 |
 | Go             | 5 kyu | 48.3% |  65 |  33 |  11 |  3 | 1 |   |   |   |   113 |
-| C              | 5 kyu | 18.4% |  60 |  31 |   6 |  2 |   |   |   |   |    99 |
+| C              | 5 kyu | 18.8% |  61 |  32 |   6 |  2 |   |   |   |   |   100 |
 | Rust           | 5 kyu | 12.4% |  63 |  18 |   5 |  3 |   |   |   |   |    89 |
-| C++            | 5 kyu |  6.5% |  52 |  23 |   4 |  2 |   |   |   |   |    81 |
+| C++            | 5 kyu |  7.0% |  54 |  23 |   4 |  2 |   |   |   |   |    83 |
 | TypeScript     | 5 kyu |  3.9% |  57 |  24 |   5 |    |   |   |   |   |    86 |
-| Java           | 5 kyu |  2.4% |  61 |  17 |   3 |  2 |   |   |   |   |    83 |
-| PHP            | 6 kyu | 35.9% |  35 |   8 |   2 |  1 |   |   |   |   |    46 |
+| Java           | 5 kyu |  2.4% |  62 |  18 |   3 |  2 |   |   |   |   |    84 |
+| PHP            | 6 kyu | 37.3% |  36 |   8 |   2 |  1 |   |   |   |   |    47 |
 | CoffeeScript   | 6 kyu | 32.7% |  43 |   9 |   1 |    |   |   |   |   |    53 |
-| Haskell        | 6 kyu | 15.7% |  35 |  10 |     |    |   |   |   |   |    45 |
+| Haskell        | 6 kyu | 15.7% |  35 |  11 |     |    |   |   |   |   |    45 |
 | Crystal        | 6 kyu | 13.1% |  32 |   8 |   1 |    |   |   |   |   |    41 |
 | Julia          | 6 kyu | 10.5% |  22 |   8 |   3 |    |   |   |   |   |    33 |
 | D              | 6 kyu |  8.5% |  14 |   8 |   3 |  1 |   |   |   |   |    26 |
@@ -29,7 +29,7 @@ Total Completed Kata:      1073
 | Elixir         | 6 kyu |  3.9% |  28 |   6 |   1 |    |   |   |   |   |    35 |
 | Dart           | 6 kyu |  2.0% |  24 |   7 |   1 |    |   |   |   |   |    32 |
 | Kotlin         | 6 kyu |  1.3% |  20 |   5 |     |  1 |   |   |   |   |    26 |
-| Groovy         | 6 kyu |  1.3% |  18 |   3 |   1 |  1 |   |   |   |   |    23 |
+| Groovy         | 6 kyu |  2.6% |  19 |   4 |   1 |  1 |   |   |   |   |    24 |
 | F#             | 7 kyu | 89.3% |  18 |   7 |   2 |    |   |   |   |   |    27 |
 | Objective-C    | 7 kyu | 83.9% |   8 |   3 |     |  2 |   |   |   |   |    13 |
 | Nim            | 7 kyu | 71.4% |   7 |   3 |   2 |  1 |   |   |   |   |    13 |
@@ -73,5 +73,4 @@ https://www.codewars.com/kata/5556282156230d0e5e000089/solutions/rust
 https://www.codewars.com/kata/54da539698b8a2ad76000228/train/rust
 https://www.codewars.com/kata/583710ccaa6717322c000105/solutions/rust
 https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/rust
-https://www.codewars.com/kata/5715eaedb436cf5606000381/solutions/rust
-https://www.codewars.com/kata/58885a7bf06a3d466e0000e3/solutions/csharp
+
