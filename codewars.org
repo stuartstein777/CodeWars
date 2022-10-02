@@ -9,12 +9,12 @@ Total Completed Kata:      1073
 | Language       | KYU   |     % |   8 |   7 |   6 |  5 | 4 | 3 | 2 | 1 | Total |
 |----------------+-------+-------+-----+-----+-----+----+---+---+---+---+-------|
 | Clojure        | 3 kyu | 31.9% |  60 | 175 | 106 | 24 | 6 |   | 1 |   |   372 |
-| C#             | 3 kyu | 20.2% | 263 | 180 |  70 | 15 | 5 | 1 |   |   |   534 |
+| C#             | 3 kyu | 20.5% | 263 | 180 |  71 | 15 | 5 | 1 |   |   |   535 |
 | JavaScript     | 4 kyu | 37.5% | 256 | 104 |  19 |  4 |   |   |   |   |   383 |
 | Python	 | 4 kyu | 37.2% | 176 | 110 |  29 |  7 |   |   |   |   |   322 |
 | Ruby           | 5 kyu | 56.5% | 127 |  37 |   8 |  2 |   |   |   |   |   174 |
 | Go             | 5 kyu | 48.3% |  65 |  33 |  11 |  3 | 1 |   |   |   |   113 |
-| C              | 5 kyu | 15.9% |  60 |  31 |   5 |  2 |   |   |   |   |    98 |
+| C              | 5 kyu | 18.4% |  60 |  31 |   6 |  2 |   |   |   |   |    99 |
 | Rust           | 5 kyu | 12.4% |  63 |  18 |   5 |  3 |   |   |   |   |    89 |
 | C++            | 5 kyu |  6.5% |  52 |  23 |   4 |  2 |   |   |   |   |    81 |
 | TypeScript     | 5 kyu |  3.9% |  57 |  24 |   5 |    |   |   |   |   |    86 |
@@ -74,3 +74,4 @@ https://www.codewars.com/kata/54da539698b8a2ad76000228/train/rust
 https://www.codewars.com/kata/583710ccaa6717322c000105/solutions/rust
 https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/rust
 https://www.codewars.com/kata/5715eaedb436cf5606000381/solutions/rust
+https://www.codewars.com/kata/58885a7bf06a3d466e0000e3/solutions/csharp
