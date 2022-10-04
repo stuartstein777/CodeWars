@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1078
+Total Completed Kata:      1079
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -121,16 +121,16 @@ Total Completed Kata:      1078
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">21.7%</td>
+<td class="org-right">22.2%</td>
 <td class="org-right">263</td>
 <td class="org-right">183</td>
-<td class="org-right">72</td>
+<td class="org-right">74</td>
 <td class="org-right">16</td>
 <td class="org-right">5</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">540</td>
+<td class="org-right">541</td>
 </tr>
 
 
@@ -1016,3 +1016,5 @@ Total Completed Kata:      1078
 <https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust>
 
 <https://www.codewars.com/kata/search/my-languages?q=%22Simple+Fun+%23%22&order_by=sort_date+desc&language=my-languages&beta=false&xids>=
+
+<https://www.codewars.com/kata/5894318275f2c75695000146/solutions/csharp>
