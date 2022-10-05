@@ -9,7 +9,7 @@ Total Completed Kata:      1080
 | Language       | KYU   |     % |   8 |   7 |   6 |  5 | 4 | 3 | 2 | 1 | Total |
 |----------------+-------+-------+-----+-----+-----+----+---+---+---+---+-------|
 | Clojure        | 3 kyu | 31.9% |  60 | 175 | 106 | 24 | 6 |   | 1 |   |   372 |
-| C#             | 3 kyu | 22.2% | 263 | 183 |  74 | 16 | 6 | 1 |   |   |   541 |
+| C#             | 3 kyu | 24.0% | 263 | 183 |  74 | 16 | 6 | 1 |   |   |   541 |
 | Python	 | 4 kyu | 38.7% | 177 | 112 |  30 |  7 |   |   |   |   |   326 |
 | JavaScript     | 4 kyu | 38.0% | 256 | 106 |  19 |  4 |   |   |   |   |   385 |
 | Ruby           | 5 kyu | 60.9% | 128 |  39 |   8 |  2 |   |   |   |   |   177 |
@@ -85,3 +85,8 @@ https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust
 https://www.codewars.com/kata/search/my-languages?q=%22Simple+Fun+%23%22&order_by=sort_date+desc&language=my-languages&beta=false&xids=
 
 https://www.codewars.com/kata/5894318275f2c75695000146/solutions/csharp
+
+In Progress:
+
+https://www.codewars.com/kata/54c1bf903f0696f04600068b/train/csharp
+
