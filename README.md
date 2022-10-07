@@ -137,8 +137,8 @@ Total Completed Kata:      1083
 <tr>
 <td class="org-left">Python</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">38.7%</td>
-<td class="org-right">177</td>
+<td class="org-right">38.8%</td>
+<td class="org-right">178</td>
 <td class="org-right">112</td>
 <td class="org-right">30</td>
 <td class="org-right">7</td>
@@ -146,15 +146,15 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">326</td>
+<td class="org-right">327</td>
 </tr>
 
 
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">38.0%</td>
-<td class="org-right">256</td>
+<td class="org-right">38.2%</td>
+<td class="org-right">257</td>
 <td class="org-right">106</td>
 <td class="org-right">19</td>
 <td class="org-right">4</td>
@@ -162,15 +162,15 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">385</td>
+<td class="org-right">386</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Ruby</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">60.9%</td>
-<td class="org-right">128</td>
+<td class="org-right">61.4%</td>
+<td class="org-right">129</td>
 <td class="org-right">39</td>
 <td class="org-right">8</td>
 <td class="org-right">2</td>
@@ -178,7 +178,7 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">177</td>
+<td class="org-right">178</td>
 </tr>
 
 
@@ -201,8 +201,8 @@ Total Completed Kata:      1083
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">20.3%</td>
-<td class="org-right">61</td>
+<td class="org-right">20.8%</td>
+<td class="org-right">62</td>
 <td class="org-right">33</td>
 <td class="org-right">6</td>
 <td class="org-right">2</td>
@@ -210,7 +210,7 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">102</td>
+<td class="org-right">103</td>
 </tr>
 
 
@@ -233,8 +233,8 @@ Total Completed Kata:      1083
 <tr>
 <td class="org-left">C++</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">8.2%</td>
-<td class="org-right">54</td>
+<td class="org-right">8.7%</td>
+<td class="org-right">55</td>
 <td class="org-right">24</td>
 <td class="org-right">4</td>
 <td class="org-right">2</td>
@@ -242,18 +242,34 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">84</td>
+<td class="org-right">85</td>
 </tr>
 
 
 <tr>
 <td class="org-left">TypeScript</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">4.6%</td>
-<td class="org-right">57</td>
+<td class="org-right">5.1%</td>
+<td class="org-right">58</td>
 <td class="org-right">25</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">88</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Java</td>
+<td class="org-left">5 kyu</td>
+<td class="org-right">4.8%</td>
+<td class="org-right">63</td>
+<td class="org-right">19</td>
+<td class="org-right">3</td>
+<td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -263,26 +279,10 @@ Total Completed Kata:      1083
 
 
 <tr>
-<td class="org-left">Java</td>
-<td class="org-left">5 kyu</td>
-<td class="org-right">3.8%</td>
-<td class="org-right">62</td>
-<td class="org-right">19</td>
-<td class="org-right">3</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">86</td>
-</tr>
-
-
-<tr>
 <td class="org-left">PHP</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">39.2%</td>
-<td class="org-right">36</td>
+<td class="org-right">40.5%</td>
+<td class="org-right">37</td>
 <td class="org-right">9</td>
 <td class="org-right">2</td>
 <td class="org-right">1</td>
@@ -290,15 +290,15 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">48</td>
+<td class="org-right">49</td>
 </tr>
 
 
 <tr>
 <td class="org-left">CoffeeScript</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">34.6%</td>
-<td class="org-right">43</td>
+<td class="org-right">35.9%</td>
+<td class="org-right">44</td>
 <td class="org-right">10</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
@@ -306,7 +306,7 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">54</td>
+<td class="org-right">55</td>
 </tr>
 
 
@@ -323,6 +323,22 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">46</td>
+</tr>
+
+
+<tr>
+<td class="org-left">D</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">13.7%</td>
+<td class="org-right">14</td>
+<td class="org-right">8</td>
+<td class="org-right">3</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">26</td>
 </tr>
 
 
@@ -345,11 +361,27 @@ Total Completed Kata:      1083
 <tr>
 <td class="org-left">Julia</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">10.5%</td>
-<td class="org-right">22</td>
+<td class="org-right">13.1%</td>
+<td class="org-right">23</td>
 <td class="org-right">8</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">34</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Racket</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">9.8%</td>
+<td class="org-right">25</td>
+<td class="org-right">5</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -359,42 +391,10 @@ Total Completed Kata:      1083
 
 
 <tr>
-<td class="org-left">D</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">8.5%</td>
-<td class="org-right">14</td>
-<td class="org-right">8</td>
-<td class="org-right">3</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">26</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Racket</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">7.2%</td>
-<td class="org-right">24</td>
-<td class="org-right">5</td>
-<td class="org-right">2</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">32</td>
-</tr>
-
-
-<tr>
 <td class="org-left">Groovy</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">4.6%</td>
-<td class="org-right">19</td>
+<td class="org-right">5.9%</td>
+<td class="org-right">20</td>
 <td class="org-right">4</td>
 <td class="org-right">1</td>
 <td class="org-right">1</td>
@@ -402,7 +402,7 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">25</td>
+<td class="org-right">26</td>
 </tr>
 
 
@@ -423,6 +423,22 @@ Total Completed Kata:      1083
 
 
 <tr>
+<td class="org-left">Kotlin</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">2.6%</td>
+<td class="org-right">21</td>
+<td class="org-right">5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">27</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Dart</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">2.0%</td>
@@ -435,22 +451,6 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">32</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Kotlin</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">1.3%</td>
-<td class="org-right">20</td>
-<td class="org-right">5</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">26</td>
 </tr>
 
 
@@ -503,6 +503,22 @@ Total Completed Kata:      1083
 
 
 <tr>
+<td class="org-left">R</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">48.2%</td>
+<td class="org-right">12</td>
+<td class="org-right">5</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">18</td>
+</tr>
+
+
+<tr>
 <td class="org-left">VB</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">48.2%</td>
@@ -531,22 +547,6 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">22</td>
-</tr>
-
-
-<tr>
-<td class="org-left">R</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">44.6%</td>
-<td class="org-right">11</td>
-<td class="org-right">5</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">17</td>
 </tr>
 
 
@@ -1002,10 +1002,6 @@ Total Completed Kata:      1083
 **All Language Stats**
 
 <https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/d>
-
-<https://www.codewars.com/kata/5556282156230d0e5e000089/solutions/rust>
-
-<https://www.codewars.com/kata/54da539698b8a2ad76000228/train/rust>
 
 <https://www.codewars.com/kata/583710ccaa6717322c000105/solutions/rust>
 
