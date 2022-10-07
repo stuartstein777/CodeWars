@@ -153,8 +153,8 @@ Total Completed Kata:      1083
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">38.2%</td>
-<td class="org-right">257</td>
+<td class="org-right">38.4%</td>
+<td class="org-right">258</td>
 <td class="org-right">106</td>
 <td class="org-right">19</td>
 <td class="org-right">4</td>
@@ -162,15 +162,15 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">386</td>
+<td class="org-right">387</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Ruby</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">61.4%</td>
-<td class="org-right">129</td>
+<td class="org-right">61.8%</td>
+<td class="org-right">130</td>
 <td class="org-right">39</td>
 <td class="org-right">8</td>
 <td class="org-right">2</td>
@@ -178,7 +178,7 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">178</td>
+<td class="org-right">179</td>
 </tr>
 
 
@@ -249,8 +249,8 @@ Total Completed Kata:      1083
 <tr>
 <td class="org-left">TypeScript</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">5.1%</td>
-<td class="org-right">58</td>
+<td class="org-right">5.6%</td>
+<td class="org-right">59</td>
 <td class="org-right">25</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
@@ -258,15 +258,15 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">88</td>
+<td class="org-right">89</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Java</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">4.8%</td>
-<td class="org-right">63</td>
+<td class="org-right">5.3%</td>
+<td class="org-right">64</td>
 <td class="org-right">19</td>
 <td class="org-right">3</td>
 <td class="org-right">2</td>
@@ -274,7 +274,7 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">87</td>
+<td class="org-right">88</td>
 </tr>
 
 
