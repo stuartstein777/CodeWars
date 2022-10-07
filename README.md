@@ -313,8 +313,8 @@ Total Completed Kata:      1083
 <tr>
 <td class="org-left">Haskell</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">17.6%</td>
-<td class="org-right">35</td>
+<td class="org-right">19.0%</td>
+<td class="org-right">36</td>
 <td class="org-right">11</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -322,7 +322,7 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">46</td>
+<td class="org-right">47</td>
 </tr>
 
 
@@ -346,7 +346,7 @@ Total Completed Kata:      1083
 <td class="org-left">Crystal</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">13.1%</td>
-<td class="org-right">32</td>
+<td class="org-right">33</td>
 <td class="org-right">8</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
@@ -354,7 +354,7 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">41</td>
+<td class="org-right">42</td>
 </tr>
 
 
@@ -553,8 +553,8 @@ Total Completed Kata:      1083
 <tr>
 <td class="org-left">Lua</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">30.4%</td>
-<td class="org-right">14</td>
+<td class="org-right">33.9%</td>
+<td class="org-right">15</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -562,7 +562,23 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">17</td>
+<td class="org-right">18</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Swift</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">26.8%</td>
+<td class="org-right">10</td>
+<td class="org-right">5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">15</td>
 </tr>
 
 
@@ -579,22 +595,6 @@ Total Completed Kata:      1083
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">7</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Swift</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">23.2%</td>
-<td class="org-right">9</td>
-<td class="org-right">5</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">14</td>
 </tr>
 
 
@@ -1002,8 +1002,6 @@ Total Completed Kata:      1083
 **All Language Stats**
 
 <https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/d>
-
-<https://www.codewars.com/kata/583710ccaa6717322c000105/solutions/rust>
 
 <https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/rust>
 

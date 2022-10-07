@@ -21,9 +21,9 @@ Total Completed Kata:      1083
 | Java           | 5 kyu |  4.8% |  63 |  19 |   3 |  2 |   |   |   |   |    87 |
 | PHP            | 6 kyu | 40.5% |  37 |   9 |   2 |  1 |   |   |   |   |    49 |
 | CoffeeScript   | 6 kyu | 35.9% |  44 |  10 |   1 |    |   |   |   |   |    55 |
-| Haskell        | 6 kyu | 17.6% |  35 |  11 |     |    |   |   |   |   |    46 |
+| Haskell        | 6 kyu | 19.0% |  36 |  11 |     |    |   |   |   |   |    47 |
 | D              | 6 kyu | 13.7% |  14 |   8 |   3 |  1 |   |   |   |   |    26 |
-| Crystal        | 6 kyu | 13.1% |  32 |   8 |   1 |    |   |   |   |   |    41 |
+| Crystal        | 6 kyu | 13.1% |  33 |   8 |   1 |    |   |   |   |   |    42 |
 | Julia          | 6 kyu | 13.1% |  23 |   8 |   3 |    |   |   |   |   |    34 |
 | Racket         | 6 kyu |  9.8% |  25 |   5 |   2 |  1 |   |   |   |   |    33 |
 | Groovy         | 6 kyu |  5.9% |  20 |   4 |   1 |  1 |   |   |   |   |    26 |
@@ -36,9 +36,9 @@ Total Completed Kata:      1083
 | R              | 7 kyu | 48.2% |  12 |   5 |   1 |    |   |   |   |   |    18 |
 | VB             | 7 kyu | 48.2% |   7 |   4 |     |  1 |   |   |   |   |    12 |
 | SQL            | 7 kyu | 44.6% |  21 |   1 |     |    |   |   |   |   |    22 |
-| Lua            | 7 kyu | 30.4% |  14 |   3 |     |    |   |   |   |   |    17 |
+| Lua            | 7 kyu | 33.9% |  15 |   3 |     |    |   |   |   |   |    18 |
+| Swift          | 7 kyu | 26.8% |  10 |   5 |     |    |   |   |   |   |    15 |
 | Haxe           | 7 kyu | 26.8% |   4 |   2 |     |  1 |   |   |   |   |     7 |
-| Swift          | 7 kyu | 23.2% |   9 |   5 |     |    |   |   |   |   |    14 |
 | Elm            | 7 kyu | 21.4% |  13 |   2 |     |    |   |   |   |   |    15 |
 | CFML           | 7 kyu | 21.4% |   9 |   4 |     |    |   |   |   |   |    13 |
 | OCaml          | 7 kyu | 17.9% |   9 |   5 |     |    |   |   |   |   |    14 |
@@ -69,8 +69,6 @@ Total Completed Kata:      1083
 *All Language Stats*
 
 https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/d
-
-https://www.codewars.com/kata/583710ccaa6717322c000105/solutions/rust
 
 https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/rust
 
