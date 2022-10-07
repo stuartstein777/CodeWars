@@ -1003,8 +1003,6 @@ Total Completed Kata:      1083
 
 <https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/d>
 
-<https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/rust>
-
 <https://www.codewars.com/kata/58acfe4ae0201e1708000075/solutions/csharp>
 
 <https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust>
