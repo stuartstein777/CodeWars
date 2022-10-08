@@ -1,6 +1,6 @@
 ![codewars badge](https://www.codewars.com/users/qmstuart/badges/large)
 
-Total Completed Kata:      1083
+Total Completed Kata:      1084
 
 |                        | KYU-> | 8 | 7 |  6 |  5 |  4 | 3 | 2 | 1 |
 | Unsolved Clojure Katas |    99 | 0 | 1 | 42 | 35 | 17 | 2 | 1 | 1 |
@@ -9,18 +9,18 @@ Total Completed Kata:      1083
 | Language       | KYU   |     % |   8 |   7 |   6 |  5 | 4 | 3 | 2 | 1 | Total |
 |----------------+-------+-------+-----+-----+-----+----+---+---+---+---+-------|
 | Clojure        | 3 kyu | 31.9% |  60 | 175 | 106 | 24 | 6 |   | 1 |   |   372 |
-| C#             | 3 kyu | 25.8% | 263 | 183 |  74 | 16 | 7 | 1 |   |   |   544 |
-| Python	 | 4 kyu | 38.8% | 178 | 112 |  30 |  7 |   |   |   |   |   327 |
+| C#             | 3 kyu | 25.9% | 263 | 184 |  74 | 16 | 7 | 1 |   |   |   545 |
+| Python	 | 4 kyu | 39.0% | 179 | 112 |  30 |  7 |   |   |   |   |   328 |
 | JavaScript     | 4 kyu | 38.4% | 258 | 106 |  19 |  4 |   |   |   |   |   387 |
-| Ruby           | 5 kyu | 61.8% | 130 |  39 |   8 |  2 |   |   |   |   |   179 |
-| Go             | 5 kyu | 54.1% |  65 |  34 |  11 |  4 | 1 |   |   |   |   114 |
-| C              | 5 kyu | 20.8% |  62 |  33 |   6 |  2 |   |   |   |   |   103 |
-| Rust           | 5 kyu | 12.8% |  63 |  18 |   5 |  3 |   |   |   |   |    89 |
+| Ruby           | 5 kyu | 62.3% | 131 |  39 |   8 |  2 |   |   |   |   |   180 |
+| Go             | 5 kyu | 54.8% |  66 |  35 |  11 |  4 | 1 |   |   |   |   117 |
+| C              | 5 kyu | 23.4% |  62 |  34 |   7 |  2 |   |   |   |   |   105 |
+| Rust           | 5 kyu | 13.5% |  63 |  19 |   5 |  3 |   |   |   |   |    90 |
 | C++            | 5 kyu |  8.7% |  55 |  24 |   4 |  2 |   |   |   |   |    85 |
-| TypeScript     | 5 kyu |  5.6% |  59 |  25 |   5 |    |   |   |   |   |    89 |
-| Java           | 5 kyu |  5.3% |  64 |  19 |   3 |  2 |   |   |   |   |    88 |
+| TypeScript     | 5 kyu |  6.0% |  59 |  25 |   5 |    |   |   |   |   |    89 |
+| Java           | 5 kyu |  5.8% |  65 |  19 |   3 |  2 |   |   |   |   |    89 |
 | PHP            | 6 kyu | 40.5% |  37 |   9 |   2 |  1 |   |   |   |   |    49 |
-| CoffeeScript   | 6 kyu | 35.9% |  44 |  10 |   1 |    |   |   |   |   |    55 |
+| CoffeeScript   | 6 kyu | 37.3% |  45 |  10 |   1 |    |   |   |   |   |    56 |
 | Haskell        | 6 kyu | 19.0% |  36 |  11 |     |    |   |   |   |   |    47 |
 | D              | 6 kyu | 13.7% |  14 |   8 |   3 |  1 |   |   |   |   |    26 |
 | Crystal        | 6 kyu | 13.1% |  33 |   8 |   1 |    |   |   |   |   |    42 |
@@ -68,12 +68,9 @@ Total Completed Kata:      1083
 
 *All Language Stats*
 
-https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/d
-
 https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust
-
 https://www.codewars.com/kata/search/my-languages?q=%22Simple+Fun+%23%22&order_by=sort_date+desc&language=my-languages&beta=false&xids=
-
 https://www.codewars.com/kata/5894318275f2c75695000146/solutions/csharp
-
-
+https://www.codewars.com/kata/583f158ea20cfcbeb400000a/solutions/go
+https://www.codewars.com/kata/586f6741c66d18c22800010a/solutions/rust
+https://www.codewars.com/kata/546f922b54af40e1e90001da/train/rust
