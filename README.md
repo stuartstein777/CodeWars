@@ -43,7 +43,7 @@ Total Completed Kata:      1086
 
 <tr>
 <td class="org-left">Unsolved Clojure Katas</td>
-<td class="org-right">99</td>
+<td class="org-right">98</td>
 <td class="org-right">0</td>
 <td class="org-right">1</td>
 <td class="org-right">42</td>
