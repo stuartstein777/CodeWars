@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1088
+Total Completed Kata:      1089
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -121,16 +121,16 @@ Total Completed Kata:      1088
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">26.4%</td>
+<td class="org-right">26.5%</td>
 <td class="org-right">263</td>
-<td class="org-right">186</td>
+<td class="org-right">187</td>
 <td class="org-right">75</td>
 <td class="org-right">16</td>
 <td class="org-right">7</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">548</td>
+<td class="org-right">549</td>
 </tr>
 
 
@@ -203,14 +203,14 @@ Total Completed Kata:      1088
 <td class="org-left">5 kyu</td>
 <td class="org-right">23.4%</td>
 <td class="org-right">62</td>
-<td class="org-right">34</td>
+<td class="org-right">35</td>
 <td class="org-right">7</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">105</td>
+<td class="org-right">106</td>
 </tr>
 
 
@@ -377,16 +377,16 @@ Total Completed Kata:      1088
 <tr>
 <td class="org-left">Racket</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">9.8%</td>
+<td class="org-right">11.8%</td>
 <td class="org-right">25</td>
-<td class="org-right">5</td>
+<td class="org-right">6</td>
 <td class="org-right">2</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">33</td>
+<td class="org-right">34</td>
 </tr>
 
 
@@ -407,34 +407,34 @@ Total Completed Kata:      1088
 
 
 <tr>
-<td class="org-left">Elixir</td>
+<td class="org-left">Kotlin</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">3.9%</td>
-<td class="org-right">28</td>
+<td class="org-right">4.6%</td>
+<td class="org-right">21</td>
 <td class="org-right">6</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">35</td>
+<td class="org-right">28</td>
 </tr>
 
 
 <tr>
-<td class="org-left">Kotlin</td>
+<td class="org-left">Elixir</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">2.6%</td>
-<td class="org-right">21</td>
-<td class="org-right">5</td>
-<td class="org-right">&#xa0;</td>
+<td class="org-right">3.9%</td>
+<td class="org-right">28</td>
+<td class="org-right">7</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">27</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">36</td>
 </tr>
 
 
@@ -583,6 +583,22 @@ Total Completed Kata:      1088
 
 
 <tr>
+<td class="org-left">Elm</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">26.8%</td>
+<td class="org-right">13</td>
+<td class="org-right">3</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">16</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Haxe</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">26.8%</td>
@@ -595,22 +611,6 @@ Total Completed Kata:      1088
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">7</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Elm</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">21.4%</td>
-<td class="org-right">13</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">15</td>
 </tr>
 
 
