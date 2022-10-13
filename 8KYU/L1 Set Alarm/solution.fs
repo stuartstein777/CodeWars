@@ -1,0 +1,1 @@
+let setAlarm (employed: bool) (vacation: bool) = employed && not vacation
