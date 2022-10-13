@@ -162,7 +162,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">388</td>
+<td class="org-right">389</td>
 </tr>
 
 
@@ -178,15 +178,15 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">180</td>
+<td class="org-right">181</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Go</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">58.7%</td>
-<td class="org-right">73</td>
+<td class="org-right">59.2%</td>
+<td class="org-right">74</td>
 <td class="org-right">35</td>
 <td class="org-right">11</td>
 <td class="org-right">4</td>
@@ -194,7 +194,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">122</td>
+<td class="org-right">125</td>
 </tr>
 
 
@@ -210,7 +210,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">106</td>
+<td class="org-right">107</td>
 </tr>
 
 
@@ -226,7 +226,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">91</td>
+<td class="org-right">92</td>
 </tr>
 
 
@@ -242,7 +242,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">85</td>
+<td class="org-right">86</td>
 </tr>
 
 
@@ -258,7 +258,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">90</td>
+<td class="org-right">91</td>
 </tr>
 
 
@@ -274,7 +274,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">89</td>
+<td class="org-right">90</td>
 </tr>
 
 
@@ -290,15 +290,15 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">49</td>
+<td class="org-right">50</td>
 </tr>
 
 
 <tr>
 <td class="org-left">CoffeeScript</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">38.6%</td>
-<td class="org-right">46</td>
+<td class="org-right">39.9%</td>
+<td class="org-right">47</td>
 <td class="org-right">10</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
@@ -306,7 +306,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">56</td>
+<td class="org-right">57</td>
 </tr>
 
 
@@ -322,7 +322,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">47</td>
+<td class="org-right">48</td>
 </tr>
 
 
@@ -338,7 +338,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">42</td>
+<td class="org-right">43</td>
 </tr>
 
 
@@ -354,7 +354,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">34</td>
+<td class="org-right">35</td>
 </tr>
 
 
@@ -386,7 +386,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">34</td>
+<td class="org-right">35</td>
 </tr>
 
 
@@ -418,7 +418,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">36</td>
+<td class="org-right">37</td>
 </tr>
 
 
@@ -450,7 +450,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">32</td>
+<td class="org-right">33</td>
 </tr>
 
 
@@ -466,7 +466,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">27</td>
+<td class="org-right">28</td>
 </tr>
 
 
@@ -514,7 +514,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">18</td>
+<td class="org-right">19</td>
 </tr>
 
 
@@ -578,7 +578,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">16</td>
+<td class="org-right">17</td>
 </tr>
 
 
@@ -658,7 +658,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">10</td>
+<td class="org-right">11</td>
 </tr>
 
 
