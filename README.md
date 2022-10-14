@@ -121,16 +121,16 @@ Total Completed Kata:      1091
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">26.9%</td>
+<td class="org-right">27.1%</td>
 <td class="org-right">263</td>
 <td class="org-right">188</td>
-<td class="org-right">76</td>
+<td class="org-right">77</td>
 <td class="org-right">16</td>
 <td class="org-right">7</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">551</td>
+<td class="org-right">552</td>
 </tr>
 
 
