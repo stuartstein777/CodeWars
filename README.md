@@ -185,8 +185,8 @@ Total Completed Kata:      1089
 <tr>
 <td class="org-left">Go</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">59.2%</td>
-<td class="org-right">74</td>
+<td class="org-right">60.1%</td>
+<td class="org-right">76</td>
 <td class="org-right">35</td>
 <td class="org-right">11</td>
 <td class="org-right">4</td>
@@ -194,15 +194,15 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">125</td>
+<td class="org-right">127</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">24.6%</td>
-<td class="org-right">63</td>
+<td class="org-right">25.6%</td>
+<td class="org-right">65</td>
 <td class="org-right">35</td>
 <td class="org-right">7</td>
 <td class="org-right">2</td>
@@ -210,7 +210,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">107</td>
+<td class="org-right">109</td>
 </tr>
 
 
@@ -306,7 +306,7 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">57</td>
+<td class="org-right">58</td>
 </tr>
 
 
@@ -391,22 +391,6 @@ Total Completed Kata:      1089
 
 
 <tr>
-<td class="org-left">Groovy</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">5.9%</td>
-<td class="org-right">20</td>
-<td class="org-right">4</td>
-<td class="org-right">1</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">26</td>
-</tr>
-
-
-<tr>
 <td class="org-left">Elixir</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">7.2%</td>
@@ -419,6 +403,22 @@ Total Completed Kata:      1089
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">37</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Groovy</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">5.9%</td>
+<td class="org-right">20</td>
+<td class="org-right">4</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">26</td>
 </tr>
 
 
