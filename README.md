@@ -601,8 +601,8 @@ Total Completed Kata:      1095
 <tr>
 <td class="org-left">Swift</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">26.8%</td>
-<td class="org-right">10</td>
+<td class="org-right">30.4%</td>
+<td class="org-right">11</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -610,7 +610,7 @@ Total Completed Kata:      1095
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">15</td>
+<td class="org-right">16</td>
 </tr>
 
 
@@ -649,8 +649,8 @@ Total Completed Kata:      1095
 <tr>
 <td class="org-left">OCaml</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">17.9%</td>
-<td class="org-right">9</td>
+<td class="org-right">21.4%</td>
+<td class="org-right">10</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -658,15 +658,15 @@ Total Completed Kata:      1095
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">14</td>
+<td class="org-right">15</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Reason</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">8.9%</td>
-<td class="org-right">8</td>
+<td class="org-right">12.5%</td>
+<td class="org-right">9</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -674,7 +674,7 @@ Total Completed Kata:      1095
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">11</td>
+<td class="org-right">12</td>
 </tr>
 
 
@@ -729,24 +729,24 @@ Total Completed Kata:      1095
 <tr>
 <td class="org-left">Prolog</td>
 <td class="org-left">8 kyu</td>
-<td class="org-right">85.0%</td>
-<td class="org-right">3</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
+<td class="org-right">95.0%</td>
 <td class="org-right">5</td>
+<td class="org-right">3</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">8</td>
 </tr>
 
 
 <tr>
 <td class="org-left">PowerShell</td>
 <td class="org-left">8 kyu</td>
-<td class="org-right">85.0%</td>
-<td class="org-right">4</td>
+<td class="org-right">95.0%</td>
+<td class="org-right">5</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -754,15 +754,15 @@ Total Completed Kata:      1095
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">7</td>
+<td class="org-right">8</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Solidity</td>
 <td class="org-left">8 kyu</td>
-<td class="org-right">70.0%</td>
-<td class="org-right">4</td>
+<td class="org-right">90.0%</td>
+<td class="org-right">6</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -770,7 +770,7 @@ Total Completed Kata:      1095
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">6</td>
+<td class="org-right">8</td>
 </tr>
 
 
@@ -794,7 +794,7 @@ Total Completed Kata:      1095
 <td class="org-left">Fortran</td>
 <td class="org-left">8 kyu</td>
 <td class="org-right">35.0%</td>
-<td class="org-right">2</td>
+<td class="org-right">3</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -802,7 +802,7 @@ Total Completed Kata:      1095
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">3</td>
+<td class="org-right">4</td>
 </tr>
 
 
@@ -1025,3 +1025,4 @@ Total Completed Kata:      1095
 <https://www.codewars.com/kata/546f922b54af40e1e90001da/train/rust>
 <https://www.codewars.com/kata/5c230f017f74a2e1c300004f/train/csharp>
 <https://www.codewars.com/kata/59b7571bbf10a48c75000070/solutions/csharp>
+<https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/rust>
