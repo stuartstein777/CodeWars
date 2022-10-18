@@ -146,7 +146,7 @@ Total Completed Kata:      1104
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">391</td>
+<td class="org-right">392</td>
 </tr>
 
 
@@ -162,7 +162,7 @@ Total Completed Kata:      1104
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">329</td>
+<td class="org-right">330</td>
 </tr>
 
 
@@ -226,7 +226,7 @@ Total Completed Kata:      1104
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">95</td>
+<td class="org-right">96</td>
 </tr>
 
 
