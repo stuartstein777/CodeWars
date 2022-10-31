@@ -9,12 +9,12 @@ Total Completed Kata:      1105
 | Language       | KYU   |     % |   8 |   7 |   6 |  5 | 4 | 3 | 2 | 1 | Total |
 |----------------+-------+-------+-----+-----+-----+----+---+---+---+---+-------|
 | Clojure        | 3 kyu | 33.6% |  60 | 175 | 106 | 24 | 7 |   | 1 |   |   373 |
-| C#             | 3 kyu | 30.3% | 263 | 196 |  81 | 18 | 7 | 1 |   |   |   566 |
+| C#             | 3 kyu | 30.6% | 265 | 196 |  81 | 18 | 7 | 1 |   |   |   568 |
 | JavaScript     | 4 kyu | 40.0% | 260 | 108 |  20 |  4 |   |   |   |   |   392 |
 | Python	 | 4 kyu | 39.5% | 180 | 113 |  30 |  7 |   |   |   |   |   330 |
 | Go             | 5 kyu | 63.5% |  80 |  37 |  11 |  4 | 1 |   |   |   |   133 |
 | Ruby           | 5 kyu | 63.3% | 132 |  39 |   8 |  2 |   |   |   |   |   181 |
-| C              | 5 kyu | 28.5% |  68 |  37 |   7 |  2 |   |   |   |   |   114 |
+| C              | 5 kyu | 29.0% |  69 |  37 |   7 |  2 |   |   |   |   |   115 |
 | Rust           | 5 kyu | 16.9% |  67 |  21 |   5 |  3 |   |   |   |   |    96 |
 | C++            | 5 kyu |  9.2% |  56 |  25 |   4 |  2 |   |   |   |   |    87 |
 | TypeScript     | 5 kyu |  8.0% |  63 |  25 |   5 |    |   |   |   |   |    93 |
@@ -25,7 +25,7 @@ Total Completed Kata:      1105
 | Crystal        | 6 kyu | 15.7% |  34 |   8 |   1 |    |   |   |   |   |    43 |
 | Racket         | 6 kyu | 14.4% |  27 |   6 |   2 |  1 |   |   |   |   |    36 |
 | Julia          | 6 kyu | 14.4% |  25 |   8 |   3 |    |   |   |   |   |    36 |
-| D              | 6 kyu | 13.7% |  14 |   8 |   3 |  1 |   |   |   |   |    26 |
+| D              | 6 kyu | 13.7% |  15 |   8 |   3 |  1 |   |   |   |   |    27 |
 | Elixir         | 6 kyu |  7.2% |  29 |   7 |   1 |    |   |   |   |   |    37 |
 | Groovy         | 6 kyu |  5.9% |  20 |   4 |   1 |  1 |   |   |   |   |    26 |
 | Kotlin         | 6 kyu |  4.6% |  21 |   6 |     |  1 |   |   |   |   |    28 |
@@ -78,3 +78,5 @@ https://www.codewars.com/kata/546f922b54af40e1e90001da/train/rust
 https://www.codewars.com/kata/5c230f017f74a2e1c300004f/train/csharp
 https://www.codewars.com/kata/59b7571bbf10a48c75000070/solutions/csharp
 https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/rust
+
+
