@@ -218,7 +218,7 @@ Total Completed Kata:      1112
 <td class="org-left">Rust</td>
 <td class="org-left">5 kyu</td>
 <td class="org-right">18.8%</td>
-<td class="org-right">67</td>
+<td class="org-right">68</td>
 <td class="org-right">21</td>
 <td class="org-right">6</td>
 <td class="org-right">3</td>
