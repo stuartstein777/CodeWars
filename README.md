@@ -137,7 +137,7 @@ Total Completed Kata:      1112
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">40.2%</td>
+<td class="org-right">40.4%</td>
 <td class="org-right">261</td>
 <td class="org-right">108</td>
 <td class="org-right">20</td>
@@ -1021,7 +1021,5 @@ Total Completed Kata:      1112
 <https://www.codewars.com/kata/search/my-languages?q=%22Simple+Fun+%23%22&order_by=sort_date+desc&language=my-languages&beta=false&xids>=
 <https://www.codewars.com/kata/5894318275f2c75695000146/solutions/csharp>
 <https://www.codewars.com/kata/583f158ea20cfcbeb400000a/solutions/go>
-<https://www.codewars.com/kata/586f6741c66d18c22800010a/solutions/rust>
 <https://www.codewars.com/kata/546f922b54af40e1e90001da/train/rust>
-<https://www.codewars.com/kata/5c230f017f74a2e1c300004f/train/csharp>
 <https://www.codewars.com/kata/59b7571bbf10a48c75000070/solutions/csharp>

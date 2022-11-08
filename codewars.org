@@ -10,7 +10,7 @@ Total Completed Kata:      1112
 |----------------+-------+-------+-----+-----+-----+----+---+---+---+---+-------|
 | Clojure        | 3 kyu | 33.9% |  60 | 175 | 107 | 24 | 7 |   | 1 |   |   374 |
 | C#             | 3 kyu | 31.6% | 265 | 201 |  83 | 18 | 7 | 1 |   |   |   575 |
-| JavaScript     | 4 kyu | 40.2% | 261 | 108 |  20 |  4 |   |   |   |   |   393 |
+| JavaScript     | 4 kyu | 40.4% | 261 | 108 |  20 |  4 |   |   |   |   |   393 |
 | Python	 | 4 kyu | 39.5% | 180 | 113 |  30 |  7 |   |   |   |   |   330 |
 | Go             | 5 kyu | 68.1% |  80 |  37 |  12 |  4 | 1 |   |   |   |   134 |
 | Ruby           | 5 kyu | 63.3% | 132 |  39 |   8 |  2 |   |   |   |   |   181 |
@@ -73,9 +73,7 @@ https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust
 https://www.codewars.com/kata/search/my-languages?q=%22Simple+Fun+%23%22&order_by=sort_date+desc&language=my-languages&beta=false&xids=
 https://www.codewars.com/kata/5894318275f2c75695000146/solutions/csharp
 https://www.codewars.com/kata/583f158ea20cfcbeb400000a/solutions/go
-https://www.codewars.com/kata/586f6741c66d18c22800010a/solutions/rust
 https://www.codewars.com/kata/546f922b54af40e1e90001da/train/rust
-https://www.codewars.com/kata/5c230f017f74a2e1c300004f/train/csharp
 https://www.codewars.com/kata/59b7571bbf10a48c75000070/solutions/csharp
 
 
