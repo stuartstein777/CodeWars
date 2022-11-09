@@ -1015,7 +1015,5 @@ Total Completed Kata:      1112
 </tbody>
 </table>
 
-**All Language Stats**
-
 <https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust>
 <https://www.codewars.com/kata/59b7571bbf10a48c75000070/solutions/csharp>
