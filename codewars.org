@@ -66,9 +66,3 @@ Total Completed Kata:      1112
 | Lean           | 8 kyu |  0.0% |     |     |     |    |   |   |   |   |     0 |
 | RISC-V         | 8 kyu |  0.0% |     |     |     |    |   |   |   |   |     0 |
 #+TBLFM: $12=$4+$5+$6+$7+$8+$9+$10+$11
-
-https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust
-https://www.codewars.com/kata/59b7571bbf10a48c75000070/solutions/csharp
-
-
-
