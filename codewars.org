@@ -10,14 +10,14 @@ Total Completed Kata:      1112
 |----------------+-------+-------+-----+-----+-----+----+---+---+---+---+-------|
 | Clojure        | 3 kyu | 33.9% |  60 | 175 | 107 | 24 | 7 |   | 1 |   |   374 |
 | C#             | 3 kyu | 31.6% | 265 | 201 |  83 | 18 | 7 | 1 |   |   |   575 |
-| JavaScript     | 4 kyu | 40.4% | 261 | 108 |  20 |  4 |   |   |   |   |   393 |
+| JavaScript     | 4 kyu | 40.7% | 261 | 109 |  20 |  4 |   |   |   |   |   394 |
 | Python	 | 4 kyu | 39.5% | 180 | 113 |  30 |  7 |   |   |   |   |   330 |
 | Go             | 5 kyu | 68.1% |  80 |  37 |  12 |  4 | 1 |   |   |   |   134 |
 | Ruby           | 5 kyu | 63.3% | 132 |  39 |   8 |  2 |   |   |   |   |   181 |
 | C              | 5 kyu | 30.9% |  69 |  37 |   8 |  2 |   |   |   |   |   116 |
 | Rust           | 5 kyu | 19.3% |  68 |  21 |   6 |  3 |   |   |   |   |    98 |
 | C++            | 5 kyu | 11.1% |  56 |  25 |   5 |  2 |   |   |   |   |    88 |
-| TypeScript     | 5 kyu |  8.0% |  64 |  25 |   5 |    |   |   |   |   |    94 |
+| TypeScript     | 5 kyu |  8.5% |  64 |  25 |   5 |    |   |   |   |   |    94 |
 | Java           | 5 kyu |  6.3% |  66 |  19 |   3 |  2 |   |   |   |   |    90 |
 | PHP            | 6 kyu | 43.1% |  39 |   9 |   2 |  1 |   |   |   |   |    51 |
 | CoffeeScript   | 6 kyu | 39.9% |  47 |  10 |   1 |    |   |   |   |   |    58 |
@@ -73,7 +73,6 @@ https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust
 https://www.codewars.com/kata/search/my-languages?q=%22Simple+Fun+%23%22&order_by=sort_date+desc&language=my-languages&beta=false&xids=
 https://www.codewars.com/kata/5894318275f2c75695000146/solutions/csharp
 https://www.codewars.com/kata/583f158ea20cfcbeb400000a/solutions/go
-https://www.codewars.com/kata/546f922b54af40e1e90001da/train/rust
 https://www.codewars.com/kata/59b7571bbf10a48c75000070/solutions/csharp
 
 
