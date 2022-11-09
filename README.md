@@ -217,16 +217,16 @@ Total Completed Kata:      1112
 <tr>
 <td class="org-left">Rust</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">19.3%</td>
+<td class="org-right">24.4%</td>
 <td class="org-right">68</td>
 <td class="org-right">21</td>
 <td class="org-right">6</td>
-<td class="org-right">3</td>
+<td class="org-right">4</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">98</td>
+<td class="org-right">99</td>
 </tr>
 
 
@@ -1018,7 +1018,4 @@ Total Completed Kata:      1112
 **All Language Stats**
 
 <https://www.codewars.com/kata/58b38256e51f1c2af0000081/solutions/rust>
-<https://www.codewars.com/kata/search/my-languages?q=%22Simple+Fun+%23%22&order_by=sort_date+desc&language=my-languages&beta=false&xids>=
-<https://www.codewars.com/kata/5894318275f2c75695000146/solutions/csharp>
-<https://www.codewars.com/kata/583f158ea20cfcbeb400000a/solutions/go>
 <https://www.codewars.com/kata/59b7571bbf10a48c75000070/solutions/csharp>
