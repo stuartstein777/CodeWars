@@ -1,5 +1,5 @@
 class Solution {
     public static boolean hero(int bullets, int dragons) {
-      return bullets >= dragons * 2;
+      return bullets >= dragons * 2.0;
     }
 }

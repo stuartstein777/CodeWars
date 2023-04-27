@@ -105,16 +105,16 @@ Total Completed Kata:      1121
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">37.1%</td>
+<td class="org-right">37.2%</td>
 <td class="org-right">265</td>
-<td class="org-right">204</td>
+<td class="org-right">205</td>
 <td class="org-right">84</td>
 <td class="org-right">18</td>
 <td class="org-right">7</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">580</td>
+<td class="org-right">581</td>
 </tr>
 
 
@@ -153,16 +153,16 @@ Total Completed Kata:      1121
 <tr>
 <td class="org-left">Python</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">39.6%</td>
+<td class="org-right">39.9%</td>
 <td class="org-right">181</td>
-<td class="org-right">113</td>
+<td class="org-right">114</td>
 <td class="org-right">30</td>
 <td class="org-right">7</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">331</td>
+<td class="org-right">332</td>
 </tr>
 
 
