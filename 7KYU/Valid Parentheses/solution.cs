@@ -21,3 +21,4 @@ public class Kata
     return !stack.Any();
   } 
 }
+
