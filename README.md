@@ -169,8 +169,8 @@ Total Completed Kata:      1131
 <tr>
 <td class="org-left">Go</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">8.9%</td>
-<td class="org-right">84</td>
+<td class="org-right">9.4%</td>
+<td class="org-right">87</td>
 <td class="org-right">42</td>
 <td class="org-right">25</td>
 <td class="org-right">9</td>
@@ -178,7 +178,7 @@ Total Completed Kata:      1131
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">161</td>
+<td class="org-right">164</td>
 </tr>
 
 
