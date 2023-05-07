@@ -1,6 +1,6 @@
 ![codewars badge](https://www.codewars.com/users/qmstuart/badges/large)
 
-Total Completed Kata:      1134
+Total Completed Kata:      1135
 
 |                        | KYU-> | 8 | 7 |  6 |  5 |  4 | 3 | 2 | 1 |
 | Unsolved Clojure Katas |    97 | 0 | 1 | 41 | 35 | 16 | 2 | 1 | 1 |
@@ -12,7 +12,7 @@ Total Completed Kata:      1134
 | Clojure      | 3 kyu | 34.6% |  60 | 175 | 109 | 24 | 7 |   | 1 |   |   376 |
 | JavaScript   | 4 kyu | 43.0% | 261 | 109 |  20 |  5 |   |   |   |   |   395 |
 | Python       | 4 kyu | 39.9% | 181 | 114 |  30 |  7 |   |   |   |   |   332 |
-| Go           | 4 kyu | 26.4% |  88 |  48 |  28 | 16 | 1 |   |   |   |   181 |
+| Go           | 4 kyu | 27.1% |  88 |  48 |  29 | 16 | 1 |   |   |   |   182 |
 | Ruby         | 5 kyu | 64.7% | 135 |  39 |   8 |  2 |   |   |   |   |   184 |
 | C            | 5 kyu | 45.7% |  72 |  43 |  10 |  3 |   |   |   |   |   128 |
 | Rust         | 5 kyu | 31.9% |  69 |  22 |   6 |  5 |   |   |   |   |   102 |
