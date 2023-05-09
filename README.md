@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1138
+Total Completed Kata:      1139
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
