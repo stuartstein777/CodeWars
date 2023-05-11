@@ -91,3 +91,7 @@
      (map #(str %))
      (map #(str " " %))
      (str/join ""))
+
+
+(rem 2824 91)
+(Math/floor (/ 2824 91.0))
