@@ -153,16 +153,16 @@ Total Completed Kata:      1143
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">43.0%</td>
+<td class="org-right">43.7%</td>
 <td class="org-right">261</td>
 <td class="org-right">109</td>
-<td class="org-right">20</td>
+<td class="org-right">21</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">395</td>
+<td class="org-right">396</td>
 </tr>
 
 
