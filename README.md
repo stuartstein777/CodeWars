@@ -121,16 +121,16 @@ Total Completed Kata:      1146
 <tr>
 <td class="org-left">Clojure</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">34.6%</td>
+<td class="org-right">34.9%</td>
 <td class="org-right">60</td>
 <td class="org-right">175</td>
-<td class="org-right">109</td>
+<td class="org-right">110</td>
 <td class="org-right">24</td>
 <td class="org-right">7</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">376</td>
+<td class="org-right">377</td>
 </tr>
 
 
