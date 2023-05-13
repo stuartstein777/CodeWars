@@ -89,26 +89,17 @@
 
 ;; -----------------------------------------------------
 
-(defn is-perfect-square? [n]
-  (let [sqrt-n (int (Math/sqrt n))]
-    (and (integer? sqrt-n)
-         (= (* sqrt-n sqrt-n) n))))
-  
-(defn sum-of-squared-divisors [n]
-  (let [ssd (->> (range 1 (inc (int (Math/sqrt n))))
-                 (filter #(= (rem n %) 0))
-                 (mapcat (fn [i] 
-                           (if (not= i (/ n i))
-                              [(* i i) (* (/ n i) (/ n i))]
-                             [(* i i)])))
-                 (reduce +))]
-    (when (is-perfect-square? ssd)
-      [n ssd])))
+(defn diagonal [row diag-start]
+  (loop [last 1
+         cur-row (inc diag-start)
+         sum 1] 
+    (prn last cur-row sum)
+    (if (> cur-row row)
+      sum
+      (let [element (* last (/ cur-row (- cur-row diag-start)))]
+        (prn "element: " element")
+        (recur element (inc cur-row) (+ sum element))))))
 
-(defn list-squared [m n]
-    (->> (range m (inc n))
-         (map sum-of-squared-divisors)
-         (remove nil?)))
+(diagonal 20 3)
 
-(list-squared 1 250)
-
+(int (* 4 (/ 8 5)))
