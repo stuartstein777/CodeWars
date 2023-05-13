@@ -87,40 +87,28 @@
 "└───┴───┴───┘"
 
 
-(->> (range 10)
-     (map #(str %))
-     (map #(str " " %))
-     (str/join ""))
-
-
-(rem 2824 91)
-(Math/floor (/ 2824 91.0))
-
 ;; -----------------------------------------------------
 
-(defn gcd [a b]
-  (if (zero? a)
-    b
-    (recur (rem b a) a)))
+(defn is-perfect-square? [n]
+  (let [sqrt-n (int (Math/sqrt n))]
+    (and (integer? sqrt-n)
+         (= (* sqrt-n sqrt-n) n))))
+  
+(defn sum-of-squared-divisors [n]
+  (let [ssd (->> (range 1 (inc (int (Math/sqrt n))))
+                 (filter #(= (rem n %) 0))
+                 (mapcat (fn [i] 
+                           (if (not= i (/ n i))
+                              [(* i i) (* (/ n i) (/ n i))]
+                             [(* i i)])))
+                 (reduce +))]
+    (when (is-perfect-square? ssd)
+      [n ssd])))
 
-(defn all-co-prime-pairwise? [xs]
-  (let [pairs (set (for [x xs
-                         y xs
-                         :when (not= x y)]
-                     [x y]))]
-    (every? #(= 1 (gcd (first %) (second %))) pairs)))
+(defn list-squared [m n]
+    (->> (range m (inc n))
+         (map sum-of-squared-divisors)
+         (remove nil?)))
 
-(defn fromNb2Str
-  [n arr]
-  (cond
-    (> (reduce * 1 arr) n) "Not applicable"
-    (not (all-co-prime-pairwise? arr)) "Not applicable"
-    :else
-    (as-> arr o
-         (map #(str (mod % n)) o)
-         (str/join "--" o)
-         (str "-" o))))
-
-
-         
+(list-squared 1 250)
 
