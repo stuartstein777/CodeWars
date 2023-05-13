@@ -32,3 +32,17 @@ func Reverse(s string) string {
 	return string(runes)
 }
   
+func gcd(a, b int) int {
+	if a == 0 {
+		return b
+	}
+	return gcd(b%a, a)
+}
+
+func RemoveItem[T any](idx int, xs []T) []T {
+	if idx == 0 {
+		return xs[1:]
+	} else {
+		return append(xs[:idx], xs[idx+1:]...)
+	}
+}
