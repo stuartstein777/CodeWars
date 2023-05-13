@@ -88,18 +88,3 @@
 
 
 ;; -----------------------------------------------------
-
-(defn diagonal [row diag-start]
-  (loop [last 1
-         cur-row (inc diag-start)
-         sum 1] 
-    (prn last cur-row sum)
-    (if (> cur-row row)
-      sum
-      (let [element (* last (/ cur-row (- cur-row diag-start)))]
-        (prn "element: " element")
-        (recur element (inc cur-row) (+ sum element))))))
-
-(diagonal 20 3)
-
-(int (* 4 (/ 8 5)))
