@@ -1,42 +1,33 @@
 package main
 
-import (
-	"fmt"
-	"strings"
-)
+import "fmt"
 
-// func Fusc(n int) int {
-// 	total := 0
-// 	for n != 0 {
-// 		if n == 1 {
-// 			total += 1
-// 		}
-
-// 		if n&1 == 0 {
-// 			n /= 2
-// 		} else {
-// 			n = (n - 1) / 2
-// 		}
-// 	}
-// 	return total
-// }
-
-func main() {
-	var d = "abcd\nefgh\nijkl\nmnop"
-	k := 2
-	v := 3
-	lines := strings.Split(d, "\n")
-	res := []string{}
-
-	for _, l := range lines {
-		s := ""
-		for _, c := range l {
-			s += strings.Repeat(string(c), k)
+func Solution(mtrx [][]rune) bool {
+	for i := 0; i < len(mtrx); i++ {
+		arrowFound := false
+		targetFound := false
+		for j := 0; j < len(mtrx[i]); j++ {
+			if mtrx[i][j] == '>' {
+				arrowFound = true
+			} else if mtrx[i][j] == 'x' {
+				return arrowFound
+			}
 		}
-		for i := 0; i < v; i++ {
-			res = append(res, s)
+
+		if arrowFound && !targetFound {
+			return false
 		}
 	}
+	return false
+}
 
-	fmt.Println(strings.Join(res, "\n"))
+func main() {
+	mx := [][]rune{
+		{' ', ' ', ' ', ' ', ' '},
+		{' ', ' ', ' ', ' ', ' '},
+		{'>', ' ', ' ', ' ', 'x'},
+		{' ', ' ', ' ', ' ', ' '},
+		{' ', ' ', ' ', ' ', ' '}}
+
+	fmt.Println(Solution(mx))
 }
