@@ -1,29 +1,21 @@
 package main
 
-import (
-	"fmt"
-	"strconv"
-)
-
-func MaxRot(n int64) int64 {
-	max := n
-	str := fmt.Sprintf("%d", n)
-	l := len(str)
-
-	for i := 0; i < l-1; i++ {
-		str = str[:i] + str[i+1:] + str[i:i+1]
-		fmt.Println(str)
-		v, _ := strconv.ParseInt(str, 10, 64)
-
-		if v > max {
-			max = v
+func RoundToNext5(n int) int {
+	for i := 0; i < 5; i++ {
+		m := n + i
+		if m%5 == 0 {
+			return m
 		}
 	}
-	return max
+	return n
 }
 
 func main() {
-	fmt.Println(MaxRot(56789))
+	println(RoundToNext5(2))
+	println(RoundToNext5(3))
+	println(RoundToNext5(12))
+	println(RoundToNext5(-2))
+	println(RoundToNext5(-5))
 }
 
 /*
