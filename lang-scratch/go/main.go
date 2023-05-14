@@ -1,29 +1,13 @@
 package main
 
-func RoundToNext5(n int) int {
-	for i := 0; i < 5; i++ {
-		m := n + i
-		if m%5 == 0 {
-			return m
-		}
-	}
-	return n
-}
+import (
+	"crypto/md5"
+	"fmt"
+	"io"
+)
 
 func main() {
-	println(RoundToNext5(2))
-	println(RoundToNext5(3))
-	println(RoundToNext5(12))
-	println(RoundToNext5(-2))
-	println(RoundToNext5(-5))
+	h := md5.New()
+	io.WriteString(h, "The fog is getting thicker!")
+	println(fmt.Sprint("%x", h.Sum))
 }
-
-/*
-
-56789
-67895
-68957
-68579
-68597
-
-*/
