@@ -1,7 +1,6 @@
-package main
+package kata
 
 import (
-	"fmt"
 	"strings"
 )
 
@@ -33,9 +32,8 @@ func HorMirror(s string) string {
 	return strings.Join(xs, "\n")
 }
 
-func main() {
-	s := "abcd\nefgh\nijkl\nmnop"
-	fmt.Println(VertMirror(s))
-	fmt.Println("----------------------")
-	fmt.Println(HorMirror(s))
+type FParam func(string) string
+
+func Oper(f FParam, x string) string {
+	return f(x)
 }
