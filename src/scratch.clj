@@ -95,6 +95,10 @@
        (take-nth 2))
   )
 
-(14 12 9 8 7 5 4 3 2)
-(14    9   7   4   2)
 
+(let [n 111848884464
+      digits (->> n str (map (comp read-string str)))]
+  (->> (partition-by identity digits)
+       (map (fn [xs] (str (count xs) (first xs))))
+       (str/join "")
+       (parse-long)))

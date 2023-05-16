@@ -72,6 +72,5 @@ func main() {
 		romanNumerals += strings.Repeat(kv.roman, q)
 		dec -= kv.decimal * q
 	}
-
 	fmt.Println(romanNumerals)
 }
