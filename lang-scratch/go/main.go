@@ -44,71 +44,34 @@ func Solution(grid [][]rune) bool {
 	return false
 }
 
-func ToGrid(s string) [][]rune {
-	splits := strings.Split(s, "\n")
-	grid := make([][]rune, len(splits))
-	for i, v := range splits {
-		grid[i] = []rune(v)
-	}
-	return grid
-}
-
-func ToStr(grid [][]rune) string {
-	s := ""
-	for _, v := range grid {
-		s += string(v) + "\n"
-	}
-	return s
-}
-
-func Diag1Sym(s string) string {
-	grid := ToGrid(s)
-	l := len(grid)
-	res := []string{}
-	for i := 0; i < l; i++ {
-		r := ""
-		for j := 0; j < l; j++ {
-			r += string(grid[j][i])
-		}
-		res = append(res, r)
-	}
-
-	return strings.Join(res, "\n")
-}
-
-func Rot90Clock(s string) string {
-	grid := ToGrid(s)
-	l := len(grid)
-	res := []string{}
-	for i := 0; i < l; i++ {
-		r := ""
-		for j := l - 1; j >= 0; j-- {
-			r += string(grid[j][i])
-		}
-		res = append(res, r)
-	}
-
-	return strings.Join(res, "\n")
-}
-
-func SelfieAndDiag(s string) string {
-	grid := ToGrid(s)
-	diag := strings.Split(Diag1Sym(s), "\n")
-	res := []string{}
-
-	for i := 0; i < len(grid); i++ {
-		s := string(grid[i]) + "|" + string(diag[i])
-		res = append(res, s)
-	}
-
-	return strings.Join(res, "\n")
+type DecimalToRoman struct {
+	decimal int
+	roman   string
 }
 
 func main() {
-	s := "abcd\nefgh\nijkl\nmnop"
-	fmt.Println(Diag1Sym(s))
-	fmt.Println("------------------")
-	fmt.Println(Rot90Clock(s))
-	fmt.Println("------------------")
-	fmt.Println(SelfieAndDiag(s))
+	dec := 1990
+	numerals := []DecimalToRoman{
+		{1000, "M"},
+		{900, "CM"},
+		{500, "D"},
+		{400, "CD"},
+		{100, "C"},
+		{90, "XC"},
+		{50, "L"},
+		{40, "XL"},
+		{10, "X"},
+		{9, "IX"},
+		{5, "V"},
+		{4, "IV"},
+		{1, "I"}}
+
+	romanNumerals := ""
+	for _, kv := range numerals {
+		q := dec / kv.decimal
+		romanNumerals += strings.Repeat(kv.roman, q)
+		dec -= kv.decimal * q
+	}
+
+	fmt.Println(romanNumerals)
 }
