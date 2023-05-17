@@ -1,10 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"strings"
-)
-
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
 	for i := ci; i < rows; i++ {
 		if grid[i][cj] == lookingFor {
@@ -44,33 +39,6 @@ func Solution(grid [][]rune) bool {
 	return false
 }
 
-type DecimalToRoman struct {
-	decimal int
-	roman   string
-}
-
 func main() {
-	dec := 1990
-	numerals := []DecimalToRoman{
-		{1000, "M"},
-		{900, "CM"},
-		{500, "D"},
-		{400, "CD"},
-		{100, "C"},
-		{90, "XC"},
-		{50, "L"},
-		{40, "XL"},
-		{10, "X"},
-		{9, "IX"},
-		{5, "V"},
-		{4, "IV"},
-		{1, "I"}}
 
-	romanNumerals := ""
-	for _, kv := range numerals {
-		q := dec / kv.decimal
-		romanNumerals += strings.Repeat(kv.roman, q)
-		dec -= kv.decimal * q
-	}
-	fmt.Println(romanNumerals)
 }
