@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
 	for i := ci; i < rows; i++ {
 		if grid[i][cj] == lookingFor {
@@ -39,6 +41,37 @@ func Solution(grid [][]rune) bool {
 	return false
 }
 
-func main() {
+func GetIndexOf2LargestItems(xs []int) []int {
+	if xs[0] >= xs[2] && xs[1] >= xs[2] {
+		return []int{0, 1}
+	}
 
+	if xs[0] >= xs[1] && xs[2] >= xs[1] {
+		return []int{0, 2}
+	}
+
+	return []int{1, 2}
+}
+
+func CanPlay(xs []int) bool {
+	return (xs[0] > 0 && xs[1] > 0) ||
+		(xs[0] > 0 && xs[2] > 0) ||
+		(xs[1] > 0 && xs[2] > 0)
+}
+
+func Solve(xs []int) int {
+	daysPlayed := 0
+
+	for CanPlay(xs) {
+		ys := GetIndexOf2LargestItems(xs)
+		xs[ys[0]] -= 1
+		xs[ys[1]] -= 1
+		daysPlayed += 1
+	}
+
+	return daysPlayed
+}
+
+func main() {
+	fmt.Println(Solve([]int{12, 12, 12}))
 }
