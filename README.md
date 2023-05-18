@@ -109,12 +109,12 @@ Total Completed Kata:      1165
 <td class="org-right">266</td>
 <td class="org-right">210</td>
 <td class="org-right">91</td>
-<td class="org-right">21</td>
+<td class="org-right">22</td>
 <td class="org-right">8</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">598</td>
+<td class="org-right">599</td>
 </tr>
 
 
