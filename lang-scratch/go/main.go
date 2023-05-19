@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math"
+	"strings"
 )
 
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
@@ -116,29 +117,55 @@ func CalculateDistance(x1, y1, x2, y2 float64) float64 {
 
 //-------------------------------------------------------------
 
-func HighestRank(nums []int) int {
-	freqs := make(map[int]int)
-	largestCnt := 0
-	var largest int
-	for _, n := range nums {
-		cnt, found := freqs[n]
-		cnt += 1
-		if found {
-			freqs[n] = cnt + 1
-		} else {
-			freqs[n] = 1
-		}
-		if cnt > largestCnt {
-			largest = n
-			largestCnt = cnt
-		} else if cnt == largestCnt && n > largest {
-			largest = n
+func row(xs string) string {
+	w := len(xs)
+	s := []string{}
+	for i := 0; i < w; i++ {
+		s = append(s, " "+string(xs[i])+" ")
+	}
+	return "|" + strings.Join(s, "|") + "|"
+}
+
+func seperator(w int) string {
+	s := []string{}
+	for i := 0; i < w; i++ {
+		s = append(s, "---")
+	}
+	return "+" + strings.Join(s, "+") + "+"
+}
+
+func Dot(w, h int, parts []string) string {
+	rows := []string{}
+	rows = append(rows, seperator(w))
+	for i := 0; i < h; i++ {
+		rows = append(rows, row(parts[i]))
+		if h-i > 1 {
+			rows = append(rows, seperator(w))
 		}
 	}
-	return largest
+	rows = append(rows, seperator(w))
+	return strings.Join(rows, "\n")
+}
+
+func Partition(s string, n int) []string {
+	res := []string{}
+	for i := 0; i < len(s); i += n {
+		res = append(res, s[i:i+n])
+	}
+	return res
 }
 
 func main() {
-	xs := []int{2, 1, 5, 3}
-	fmt.Println(HighestRank(xs))
+	s := "codewars"
+	rows := 3
+	columns := 3
+	l := len(s)
+	if l < rows*columns {
+		s += strings.Repeat(" ", rows*columns-l)
+	}
+
+	parts := Partition(s, columns)
+	fmt.Println(fmt.Sprint(parts))
+	fmt.Println(Dot(columns, rows, parts))
+
 }
