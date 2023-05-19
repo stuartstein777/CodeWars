@@ -114,53 +114,31 @@ func CalculateDistance(x1, y1, x2, y2 float64) float64 {
 	return roundFloat(math.Sqrt(math.Pow(x2-x1, 2)+math.Pow(y2-y1, 2)), 10)
 }
 
-func NumberToDigits(n int) ([]int, int) {
-	var digits []int
-	l := 0
-	for {
-		if n == 0 {
-			break
-		}
-		r := n % 10
-		n /= 10
-		digits = append(digits, r)
-		l += 1
-	}
+//-------------------------------------------------------------
 
-	return digits, l
-}
-
-func Thirt(n int) int {
-	powers := []int{1, 10, 9, 12, 3, 4}
-	x := 0
-	for {
-		digits, l := NumberToDigits(n)
-		x += 1
-		fmt.Println(fmt.Sprint(digits))
-		res := 0
-		powerIdx := 0
-		for i := 0; i < l; i++ {
-			d := digits[i] * powers[powerIdx]
-			res += d
-			powerIdx += 1
-			fmt.Printf("%d,", d)
-			if powerIdx > 5 {
-				powerIdx = 0
-			}
-		}
-		fmt.Println()
-		fmt.Printf("n: %d, res: %d\n", n, res)
-		if res == n {
-			return res
+func HighestRank(nums []int) int {
+	freqs := make(map[int]int)
+	largestCnt := 0
+	var largest int
+	for _, n := range nums {
+		cnt, found := freqs[n]
+		cnt += 1
+		if found {
+			freqs[n] = cnt + 1
 		} else {
-			n = res
+			freqs[n] = 1
+		}
+		if cnt > largestCnt {
+			largest = n
+			largestCnt = cnt
+		} else if cnt == largestCnt && n > largest {
+			largest = n
 		}
 	}
-
+	return largest
 }
 
 func main() {
-
-	fmt.Println(Thirt(8529))
-
+	xs := []int{2, 1, 5, 3}
+	fmt.Println(HighestRank(xs))
 }
