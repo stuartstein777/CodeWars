@@ -88,17 +88,24 @@
 
 
 ;; -----------------------------------------------------
-(let [xs [5 7 9 4 3 2 12 14 8]]
-  (->> xs
-       sort
-       reverse
-       (take-nth 2))
-  )
+(defn debug [msg n]
+  (prn msg n)
+  n)
 
+(defn number->digits [num]
+  (->> num str (map (comp read-string str))))
 
-(let [n 111848884464
-      digits (->> n str (map (comp read-string str)))]
-  (->> (partition-by identity digits)
-       (map (fn [xs] (str (count xs) (first xs))))
-       (str/join "")
-       (parse-long)))
+(defn thirt [n]
+  (let [pow-divs [1 10 9 12 3 4]
+        res (->> (number->digits n)
+                 (reverse)
+                 (debug "digits")
+                 (map (fn [a b] (* a b)) (cycle pow-divs))
+                 (debug "mapped")
+                 (reduce +))] 
+    (prn "n: " n " , res: " res)
+  (if (= n res)
+    res
+    (recur res))))
+
+(thirt 8529)

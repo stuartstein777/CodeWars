@@ -1,8 +1,8 @@
 package main
 
 import (
+	"fmt"
 	"math"
-	"strings"
 )
 
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
@@ -114,18 +114,53 @@ func CalculateDistance(x1, y1, x2, y2 float64) float64 {
 	return roundFloat(math.Sqrt(math.Pow(x2-x1, 2)+math.Pow(y2-y1, 2)), 10)
 }
 
-func main() {
+func NumberToDigits(n int) ([]int, int) {
+	var digits []int
+	l := 0
+	for {
+		if n == 0 {
+			break
+		}
+		r := n % 10
+		n /= 10
+		digits = append(digits, r)
+		l += 1
+	}
 
-	morseCode := ".... . -.--   .--- ..- -.. ."
+	return digits, l
+}
 
-	trimmed := strings.Trim(morseCode, " ")
-	words := strings.Split(trimmed, "   ")
-	res := []string{}
-	for _, word := range words {
-		letters := strings.Split(word, " ")
-		for _, letter := range letters {
-			res = append(res, MorseCode[letter])
+func Thirt(n int) int {
+	powers := []int{1, 10, 9, 12, 3, 4}
+	x := 0
+	for {
+		digits, l := NumberToDigits(n)
+		x += 1
+		fmt.Println(fmt.Sprint(digits))
+		res := 0
+		powerIdx := 0
+		for i := 0; i < l; i++ {
+			d := digits[i] * powers[powerIdx]
+			res += d
+			powerIdx += 1
+			fmt.Printf("%d,", d)
+			if powerIdx > 5 {
+				powerIdx = 0
+			}
+		}
+		fmt.Println()
+		fmt.Printf("n: %d, res: %d\n", n, res)
+		if res == n {
+			return res
+		} else {
+			n = res
 		}
 	}
+
+}
+
+func main() {
+
+	fmt.Println(Thirt(8529))
 
 }
