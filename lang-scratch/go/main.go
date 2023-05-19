@@ -1,5 +1,10 @@
 package main
 
+import (
+	"math"
+	"strings"
+)
+
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
 	for i := ci; i < rows; i++ {
 		if grid[i][cj] == lookingFor {
@@ -46,5 +51,81 @@ func replaceAtIndex(s string, r rune, idx int) string {
 	return string(out)
 }
 
+// func GetNeighboursWithinRange(x, y, r int) [][]int {
+// 	res := [][]int{}
+
+// 	for Δx := -r; Δx <= r; Δx++ {
+// 		for Δy := -r; Δy <= r; Δy++ {
+// 			if Δx != 0 || Δy != 0 {
+// 				res = append(res, []int{x + Δx, y + Δy})
+// 			}
+// 		}
+// 	}
+
+//		return res
+//	}
+
+type Coord struct {
+	ΔX float64
+	ΔY float64
+}
+
+// func GetNeighboursWithinRange(x, y, r int) map[Coord]interface{} {
+// 	res := make(map[Coord]interface{})
+
+// 	// only need to the absolute values of x and y, distances are
+// 	// the same in all directions.
+// 	for Δx := -r; Δx <= r; Δx++ {
+// 		for Δy := -r; Δy <= r; Δy++ {
+// 			if Δx != 0 || Δy != 0 {
+// 				coord := Coord{ΔX: x + Δx, ΔY: y + Δy}
+// 				if _, ok := res[coord]; !ok {
+// 					res[coord] = nil
+// 				}
+// 			}
+// 		}
+// 	}
+
+// 	return res
+// }
+
+func GetNeighboursWithinRange(x, y, r int) map[Coord]interface{} {
+	res := make(map[Coord]interface{})
+	for Δx := 0; Δx <= r; Δx++ {
+		for Δy := 0; Δy <= r; Δy++ {
+			if Δx != 0 || Δy != 0 {
+				coord := Coord{ΔX: math.Abs(float64(x) + float64(Δx)), ΔY: math.Abs(float64(y) + float64(Δy))}
+				if _, ok := res[coord]; !ok {
+					res[coord] = nil
+				}
+			}
+		}
+	}
+
+	return res
+}
+
+func roundFloat(val float64, precision uint) float64 {
+	ratio := math.Pow(10, float64(precision))
+	return math.Round(val*ratio) / ratio
+}
+
+func CalculateDistance(x1, y1, x2, y2 float64) float64 {
+	return roundFloat(math.Sqrt(math.Pow(x2-x1, 2)+math.Pow(y2-y1, 2)), 10)
+}
+
 func main() {
+
+	morseCode := ".... . -.--   .--- ..- -.. ."
+
+	trimmed := strings.Trim(morseCode, " ")
+	words := strings.Split(trimmed, "   ")
+	res := []string{}
+	for _, word := range words {
+		letters := strings.Split(word, " ")
+		for _, letter := range letters {
+			res = append(res, MorseCode[letter])
+		}
+	}
+
 }
