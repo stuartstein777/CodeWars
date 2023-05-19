@@ -46,3 +46,10 @@ func RemoveItem[T any](idx int, xs []T) []T {
 		return append(xs[:idx], xs[idx+1:]...)
 	}
 }
+
+// Replace rune in a string at specified index
+func replaceAtIndex(s string, r rune, idx int) string {
+	out := []rune(s)
+	out[idx] = r
+	return string(out)
+}
