@@ -1,8 +1,9 @@
 package main
 
 import (
-	"fmt"
 	"math"
+	"strconv"
+	"strings"
 )
 
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
@@ -116,19 +117,28 @@ func CalculateDistance(x1, y1, x2, y2 float64) float64 {
 
 //-------------------------------------------------------------
 
-func main() {
+func FizzBuzzCuckooClock(time string) string {
+	split := strings.Split(time, ":")
+	hour, _ := strconv.Atoi(split[0])
+	hour = hour % 12
+	min, _ := strconv.Atoi(split[1])
 
-	digits := 5
-	pi := []int{3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5, 8, 9, 7, 9, 3, 2, 3, 8, 4, 6, 2, 6, 4, 3, 3, 8, 3, 2, 7, 9, 5, 0, 2, 8, 8, 4, 1, 9, 7, 1, 6,
-		9, 3, 9, 9, 3, 7, 5, 1, 0, 5, 8, 2, 0, 9, 7, 4, 9, 4, 4, 5, 9, 2, 3, 0, 7, 8, 1, 6, 4, 0, 6, 2, 8, 6, 2, 0, 8, 9, 9, 8, 6, 2,
-		8, 0, 3, 4, 8, 2, 5, 3, 4, 2, 1, 1, 7, 0, 6, 7, 9}
-
-	res := 0
-
-	for i := 0; i < digits; i++ {
-		res += pi[i] * pi[i]
+	if min == 0 {
+		return strings.Repeat("Cuckoo ", hour)
+	} else if min == 30 {
+		return "Cuckoo "
+	} else if min%3 == 0 && min%5 == 0 {
+		return "Fizz Buzz"
+	} else if min%3 == 0 {
+		return "Fizz"
+	} else if min%5 == 0 {
+		return "Buzz"
+	} else {
+		return "tick"
 	}
+}
 
-	res = int(math.Ceil(math.Sqrt(float64(res))))
-	fmt.Println(res)
+func main() {
+	time := "8:33"
+	println(FizzBuzzCuckooClock(time))
 }
