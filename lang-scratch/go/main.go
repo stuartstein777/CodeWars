@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"math"
-	"strings"
 )
 
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
@@ -117,55 +116,19 @@ func CalculateDistance(x1, y1, x2, y2 float64) float64 {
 
 //-------------------------------------------------------------
 
-func row(xs string) string {
-	w := len(xs)
-	s := []string{}
-	for i := 0; i < w; i++ {
-		s = append(s, " "+string(xs[i])+" ")
-	}
-	return "|" + strings.Join(s, "|") + "|"
-}
-
-func seperator(w int) string {
-	s := []string{}
-	for i := 0; i < w; i++ {
-		s = append(s, "---")
-	}
-	return "+" + strings.Join(s, "+") + "+"
-}
-
-func Dot(w, h int, parts []string) string {
-	rows := []string{}
-	rows = append(rows, seperator(w))
-	for i := 0; i < h; i++ {
-		rows = append(rows, row(parts[i]))
-		if h-i > 1 {
-			rows = append(rows, seperator(w))
-		}
-	}
-	rows = append(rows, seperator(w))
-	return strings.Join(rows, "\n")
-}
-
-func Partition(s string, n int) []string {
-	res := []string{}
-	for i := 0; i < len(s); i += n {
-		res = append(res, s[i:i+n])
-	}
-	return res
-}
-
 func main() {
-	s := "codewars"
-	rows := 3
-	columns := 3
-	l := len(s)
-	if l < rows*columns {
-		s += strings.Repeat(" ", rows*columns-l)
+
+	digits := 5
+	pi := []int{3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5, 8, 9, 7, 9, 3, 2, 3, 8, 4, 6, 2, 6, 4, 3, 3, 8, 3, 2, 7, 9, 5, 0, 2, 8, 8, 4, 1, 9, 7, 1, 6,
+		9, 3, 9, 9, 3, 7, 5, 1, 0, 5, 8, 2, 0, 9, 7, 4, 9, 4, 4, 5, 9, 2, 3, 0, 7, 8, 1, 6, 4, 0, 6, 2, 8, 6, 2, 0, 8, 9, 9, 8, 6, 2,
+		8, 0, 3, 4, 8, 2, 5, 3, 4, 2, 1, 1, 7, 0, 6, 7, 9}
+
+	res := 0
+
+	for i := 0; i < digits; i++ {
+		res += pi[i] * pi[i]
 	}
 
-	parts := Partition(s, columns)
-	fmt.Println(fmt.Sprint(parts))
-	fmt.Println(Dot(columns, rows, parts))
-
+	res = int(math.Ceil(math.Sqrt(float64(res))))
+	fmt.Println(res)
 }
