@@ -1,9 +1,8 @@
 package main
 
 import (
+	"fmt"
 	"math"
-	"strconv"
-	"strings"
 )
 
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
@@ -117,28 +116,53 @@ func CalculateDistance(x1, y1, x2, y2 float64) float64 {
 
 //-------------------------------------------------------------
 
-func FizzBuzzCuckooClock(time string) string {
-	split := strings.Split(time, ":")
-	hour, _ := strconv.Atoi(split[0])
-	hour = hour % 12
-	min, _ := strconv.Atoi(split[1])
+func FindCats(yard []string) [][]int {
+	cats := [][]int{}
 
-	if min == 0 {
-		return strings.Repeat("Cuckoo ", hour)
-	} else if min == 30 {
-		return "Cuckoo "
-	} else if min%3 == 0 && min%5 == 0 {
-		return "Fizz Buzz"
-	} else if min%3 == 0 {
-		return "Fizz"
-	} else if min%5 == 0 {
-		return "Buzz"
-	} else {
-		return "tick"
+	for i, row := range yard {
+		l := len(row)
+		for j := 0; j < l; j++ {
+			cell := row[j]
+			if cell != '-' {
+				cats = append(cats, []int{i, j})
+			}
+		}
 	}
+	return cats
+}
+
+func Distance(xy1, xy2 []int) float64 {
+	x1 := float64(xy1[0])
+	y1 := float64(xy1[1])
+	x2 := float64(xy2[0])
+	y2 := float64(xy2[1])
+
+	return math.Sqrt(math.Pow(math.Abs(x2-x1), 2) + math.Pow(math.Abs(y2-y1), 2))
 }
 
 func main() {
-	time := "8:33"
-	println(FizzBuzzCuckooClock(time))
+	yard := []string{
+		"-----------L",
+		"--R---------",
+		"------------",
+		"------------",
+		"------------",
+		"--M---------"}
+
+	cats := FindCats(yard)
+	minDistance := 4
+
+	fmt.Println(fmt.Sprint(cats))
+	l := len(cats)
+	for i := 0; i < l; i++ {
+		for j := i + 1; j < l; j++ {
+			d := Distance(cats[i], cats[j])
+			fmt.Println(fmt.Sprintf("%v, %v, %v", cats[i], cats[j], d))
+			if d < float64(minDistance) {
+				fmt.Println("fight!")
+				return
+			}
+
+		}
+	}
 }
