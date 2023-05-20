@@ -149,6 +149,20 @@ func interpreter(source, input string) string {
 				outputBit = 0
 			}
 			output = fmt.Sprint(outputBit) + output
+		} else if c == '<' {
+			pointer--
+		} else if c == '>' {
+			pointer++
+		} else if c == '[' {
+			if _, ok := tape[pointer]; !ok {
+				pointer = jumpTable[pointer]
+			}
+		} else if c == ']' {
+			if _, ok := tape[pointer]; ok {
+				pointer = jumpTable[pointer]
+			}
+		} else if c == ',' {
+			// read input.
 		}
 	}
 
