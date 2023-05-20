@@ -1,10 +1,6 @@
 package main
 
-import (
-	"fmt"
-	"math"
-	"strconv"
-)
+import "fmt"
 
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
 	for i := ci; i < rows; i++ {
@@ -52,75 +48,35 @@ func replaceAtIndex(s string, r rune, idx int) string {
 	return string(out)
 }
 
-// func GetNeighboursWithinRange(x, y, r int) [][]int {
-// 	res := [][]int{}
+// -------------------------------------------------------------
+// fmt.Println(strconv.FormatInt(int64(c), 2)) conver to binary
+func GetBracketJumpTable(s string) map[int]int {
+	stack := []int{}
+	stackIdx := -1
+	jumpTable := map[int]int{}
 
-// 	for Δx := -r; Δx <= r; Δx++ {
-// 		for Δy := -r; Δy <= r; Δy++ {
-// 			if Δx != 0 || Δy != 0 {
-// 				res = append(res, []int{x + Δx, y + Δy})
-// 			}
-// 		}
-// 	}
-
-//		return res
-//	}
-
-type Coord struct {
-	ΔX float64
-	ΔY float64
-}
-
-// func GetNeighboursWithinRange(x, y, r int) map[Coord]interface{} {
-// 	res := make(map[Coord]interface{})
-
-// 	// only need to the absolute values of x and y, distances are
-// 	// the same in all directions.
-// 	for Δx := -r; Δx <= r; Δx++ {
-// 		for Δy := -r; Δy <= r; Δy++ {
-// 			if Δx != 0 || Δy != 0 {
-// 				coord := Coord{ΔX: x + Δx, ΔY: y + Δy}
-// 				if _, ok := res[coord]; !ok {
-// 					res[coord] = nil
-// 				}
-// 			}
-// 		}
-// 	}
-
-// 	return res
-// }
-
-func GetNeighboursWithinRange(x, y, r int) map[Coord]interface{} {
-	res := make(map[Coord]interface{})
-	for Δx := 0; Δx <= r; Δx++ {
-		for Δy := 0; Δy <= r; Δy++ {
-			if Δx != 0 || Δy != 0 {
-				coord := Coord{ΔX: math.Abs(float64(x) + float64(Δx)), ΔY: math.Abs(float64(y) + float64(Δy))}
-				if _, ok := res[coord]; !ok {
-					res[coord] = nil
-				}
-			}
+	for idx, c := range s {
+		// if it's a [, put its index on the stack
+		if c == '[' {
+			stack = append(stack, idx)
+			stackIdx++
+		} else if c == ']' {
+			// if its a ], pop the latest [ off the stack
+			// store the indexes in the map
+			open := stack[stackIdx]
+			jumpTable[open] = idx
+			jumpTable[idx] = open
+			stack = stack[:stackIdx]
+			stackIdx--
 		}
 	}
 
-	return res
+	return jumpTable
 }
-
-func roundFloat(val float64, precision uint) float64 {
-	ratio := math.Pow(10, float64(precision))
-	return math.Round(val*ratio) / ratio
-}
-
-func CalculateDistance(x1, y1, x2, y2 float64) float64 {
-	return roundFloat(math.Sqrt(math.Pow(x2-x1, 2)+math.Pow(y2-y1, 2)), 10)
-}
-
-//-------------------------------------------------------------
 
 func main() {
-	s := "abc"
+	s := "[<<;,[;][>>]]"
+	jumpTable := GetBracketJumpTable(s)
 
-	for _, c := range s {
-		fmt.Println(strconv.FormatInt(int64(c), 2))
-	}
+	fmt.Printf("%v\n", jumpTable)
 }
