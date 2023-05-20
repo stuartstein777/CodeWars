@@ -60,7 +60,7 @@ func inputToBinaryString(s string) string {
 
 	for _, c := range s {
 		cb := strconv.FormatInt(int64(c), 2)
-		b += cb
+		b = cb + b
 	}
 
 	return b
@@ -104,6 +104,7 @@ func binaryOutputToString(output string) string {
 	// if its not a multiple of len, we need to pad it.
 	l := len(output)
 	fmt.Printf("output len: %d\n", l)
+	fmt.Printf("output bin: %s\n", output)
 	if l%8 != 0 {
 		output = padWithZerosToMultipleOfEight(output, l)
 	}
@@ -120,13 +121,16 @@ func binaryOutputToString(output string) string {
 	return s
 }
 
-func interpreter(source, input string) string {
+func Boolfuck(source, input string) string {
 	pointer := 0
 	output := ""
 	tape := make(map[int]bool)
-
 	jumpTable := getBracketJumpTable(source)
 	binaryInput := inputToBinaryString(input)
+
+	inputLen := len(binaryInput)
+	inputPtr := inputLen - 1
+
 	fmt.Printf("%v\n", jumpTable)
 	fmt.Printf("%s\n", binaryInput)
 
@@ -163,6 +167,12 @@ func interpreter(source, input string) string {
 			}
 		} else if c == ',' {
 			// read input.
+			if inputLen == 0 || inputPtr > inputLen-1 || inputPtr < 0 {
+				tape[pointer] = false
+			} else {
+				tape[pointer] = binaryInput[inputPtr] == '1'
+				inputPtr--
+			}
 		}
 	}
 
@@ -170,8 +180,68 @@ func interpreter(source, input string) string {
 }
 
 func main() {
-	//;
-	source := ";;;+;+;;+;+;\n+;+;+;+;;+;;+;\n;;+;;+;+;;+;\n;;+;;+;+;;+;\n+;;;;+;+;;+;\n;;+;;+;+;+;;\n;;;;;+;+;;\n+;;;+;+;;;+;\n+;;;;+;+;;+;\n;+;+;;+;;;+;\n;;+;;+;+;;+;\n;;+;+;;+;;+;\n+;+;;;;+;+;;\n;+;+;+"
-	input := ""
-	fmt.Println(interpreter(source, input))
+
+	// fmt.Println()
+	// fmt.Println()
+	// fmt.Println()
+	// // Print Hello, world!
+	// source := ";;;+;+;;+;+;\n+;+;+;+;;+;;+;\n;;+;;+;+;;+;\n;;+;;+;+;;+;\n+;;;;+;+;;+;\n;;+;;+;+;+;;\n;;;;;+;+;;\n+;;;+;+;;;+;\n+;;;;+;+;;+;\n;+;+;;+;;;+;\n;;+;;+;+;;+;\n;;+;+;;+;;+;\n+;+;;;;+;+;;\n;+;+;+"
+	// input := ""
+	// fmt.Println(Boolfuck(source, input))
+
+	// fmt.Println("======================================")
+	// // Print Codewars
+	source := ">,>,>,>,>,>,>,>,>+<<<<<<<<+[>+]<[<]>>>>>>>>>[+<<<<<<<<[>]+<[+<]>;>;>;>;>;>;>;>;>+<<<<<<<<+[>+]<[<]>>>>>>>>>[+<<<<<<<<[>]+<[+<]>>>>>>>>>+<<<<<<<<+[>+]<[<]>>>>>>>>>[+]+<<<<<<<<+[>+]<[<]>>>>>>>>>]<[+<]>,>,>,>,>,>,>,>,>+<<<<<<<<+[>+]<[<]>>>>>>>>>]<[+<]"
+	// //source := ">,>,>,>,>,>,>,>,<<<<<<<<;>;>;>;>;>;>;>;"
+	input := "Codewars"
+	fmt.Println(Boolfuck(source, input))
+
+	//source := ">,>,>,>,>,>,>,>,>>,>,>,>,>,>,>,>,<<<<<<<<+<<<<<<<<+[>+]<[<]>>>>>>>>>[+<<<<<<<<[>]+<[+<]>>>>>>>>>>>>>>>>>>+<<<<<<<<+[>+]<[<]>>>>>>>>>[+<<<<<<<<[>]+<[+<]>>>>>>>>>+<<<<<<<<+[>+]<[<]>>>>>>>>>[+]>[>]+<[+<]>>>>>>>>>[+]>[>]+<[+<]>>>>>>>>>[+]<<<<<<<<<<<<<<<<<<+<<<<<<<<+[>+]<[<]>>>>>>>>>]<[+<]>>>>>>>>>>>>>>>>>>>>>>>>>>>+<<<<<<<<+[>+]<[<]>>>>>>>>>[+<<<<<<<<[>]+<[+<]>>>>>>>>>+<<<<<<<<+[>+]<[<]>>>>>>>>>[+]<<<<<<<<<<<<<<<<<<<<<<<<<<[>]+<[+<]>>>>>>>>>[+]>>>>>>>>>>>>>>>>>>+<<<<<<<<+[>+]<[<]>>>>>>>>>]<[+<]<<<<<<<<<<<<<<<<<<+<<<<<<<<+[>+]<[<]>>>>>>>>>[+]+<<<<<<<<+[>+]<[<]>>>>>>>>>]<[+<]>>>>>>>>>>>>>>>>>>>;>;>;>;>;>;>;>;<<<<<<<<"
+	//input, _ := strconv.Unquote("0809")
+	//fmt.Println(Boolfuck(source, input))
 }
+
+/*
+11000011
+
+"Hello"
+01001000 01100101 01101100 01101100 01101111
+H        e        l        l         o
+0110111101101100011011000110010101001000
+
+"Codewars"
+01000011	01101111	01100100	01100101	01110111	01100001	01110010	01110011
+C			o			d			e			w			a			r			s
+0111001101110010011000010111011101100101011001000110111101000011
+
+abc
+cba < read right to left
+BYtes are read in little endian order
+
+01100001 << first bit read is 1
+a
+
+
+
+-- For dealing with input
+
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	str := "\x08\x09"
+	bytes := []byte(str)
+
+	result := ""
+	for _, b := range bytes {
+		result += fmt.Sprintf("%d", b)
+	}
+
+	fmt.Println(result) // Output: 89
+}
+
+
+*/

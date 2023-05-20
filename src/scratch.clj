@@ -88,24 +88,19 @@
 
 
 ;; -----------------------------------------------------
-(defn debug [msg n]
-  (prn msg n)
-  n)
 
-(defn number->digits [num]
-  (->> num str (map (comp read-string str))))
+(defn going[n]
+  (loop [factorial 1.0
+         sum 0.0
+         res 0.0
+         i 1]
+    (if (> i n)
+      res
+      (let [nfactorial (*' factorial i)]
+        (recur nfactorial
+               (+' sum nfactorial)
+               (*' (/ 1.0 factorial) sum)
+               (inc i)))
+      )))
 
-(defn thirt [n]
-  (let [pow-divs [1 10 9 12 3 4]
-        res (->> (number->digits n)
-                 (reverse)
-                 (debug "digits")
-                 (map (fn [a b] (* a b)) (cycle pow-divs))
-                 (debug "mapped")
-                 (reduce +))] 
-    (prn "n: " n " , res: " res)
-  (if (= n res)
-    res
-    (recur res))))
-
-(thirt 8529)
+(going 5)
