@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strconv"
+)
 
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
 	for i := ci; i < rows; i++ {
@@ -49,8 +52,20 @@ func replaceAtIndex(s string, r rune, idx int) string {
 }
 
 // -------------------------------------------------------------
-// fmt.Println(strconv.FormatInt(int64(c), 2)) conver to binary
-func GetBracketJumpTable(s string) map[int]int {
+// boolfuck interpreter
+
+func inputToBinaryString(s string) string {
+	b := ""
+
+	for _, c := range s {
+		cb := strconv.FormatInt(int64(c), 2)
+		b += cb
+	}
+
+	return b
+}
+
+func getBracketJumpTable(s string) map[int]int {
 	stack := []int{}
 	stackIdx := -1
 	jumpTable := map[int]int{}
@@ -74,9 +89,28 @@ func GetBracketJumpTable(s string) map[int]int {
 	return jumpTable
 }
 
-func main() {
-	s := "[<<;,[;][>>]]"
-	jumpTable := GetBracketJumpTable(s)
+func binaryOutputToString(output string) string {
+	return output
+}
 
+func interpreter(input, source string) string {
+	pointer := 0
+	output := ""
+
+	jumpTable := getBracketJumpTable(source)
+	binaryInput := inputToBinaryString(input)
 	fmt.Printf("%v\n", jumpTable)
+	fmt.Printf("%s\n", binaryInput)
+
+	for idx, c := range source {
+
+	}
+
+	return binaryOutputToString(output)
+}
+
+func main() {
+	source := "[<<;,[;][>>]]"
+	input := "helloWorld"
+	fmt.Println(interpreter(source, input))
 }
