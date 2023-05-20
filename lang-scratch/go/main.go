@@ -179,8 +179,28 @@ func Boolfuck(source, input string) string {
 	return binaryOutputToString(output)
 }
 
+func Gcdi(a, b int) int {
+	if a == 0 {
+		return b
+	}
+	return Gcdi(b%a, a)
+}
+
+func Lcmu(x, y int) int {
+	gcd := Gcdi(x, y)
+	if x < 0 {
+		x = -x
+	}
+	if y < 0 {
+		y = -y
+	}
+
+	return (x * y) / gcd
+}
+
 func main() {
 
+	fmt.Println(Lcmu(18, 5))
 	// fmt.Println()
 	// fmt.Println()
 	// fmt.Println()
