@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"strconv"
+	"strings"
 )
 
 func ScanDown(grid [][]rune, ci, cj, rows int, lookingFor rune) bool {
@@ -89,28 +90,74 @@ func getBracketJumpTable(s string) map[int]int {
 	return jumpTable
 }
 
-func binaryOutputToString(output string) string {
-	return output
+func padWithZerosToMultipleOfEight(output string, l int) string {
+	toPad := 8 - (l % 8)
+	fmt.Printf("padding with %d zeros.\n", toPad)
+	return strings.Repeat("0", toPad) + output
+
 }
 
-func interpreter(input, source string) string {
+// break into 8 bit chunks, convert that binary to
+// int, convert that to rune and add to string.
+func binaryOutputToString(output string) string {
+
+	// if its not a multiple of len, we need to pad it.
+	l := len(output)
+	fmt.Printf("output len: %d\n", l)
+	if l%8 != 0 {
+		output = padWithZerosToMultipleOfEight(output, l)
+	}
+	s := ""
+	for i := 0; i < l; i += 8 {
+		c := output[i : i+8]
+		fmt.Printf("%s\n", c)
+		n, _ := strconv.ParseInt(c, 2, 64)
+		s = string(rune(n)) + s
+		fmt.Printf("output char: %s\n", string(rune(n)))
+		fmt.Printf("%d\n", n)
+	}
+	// reverse output
+	return s
+}
+
+func interpreter(source, input string) string {
 	pointer := 0
 	output := ""
+	tape := make(map[int]bool)
 
 	jumpTable := getBracketJumpTable(source)
 	binaryInput := inputToBinaryString(input)
 	fmt.Printf("%v\n", jumpTable)
 	fmt.Printf("%s\n", binaryInput)
 
-	for idx, c := range source {
-
+	for _, c := range source {
+		if c == '+' {
+			if v, ok := tape[pointer]; ok {
+				tape[pointer] = !v
+			} else {
+				tape[pointer] = true
+			}
+		} else if c == ';' {
+			outputBit := 0
+			if v, ok := tape[pointer]; ok {
+				if v {
+					outputBit = 1
+				} else {
+					outputBit = 0
+				}
+			} else {
+				outputBit = 0
+			}
+			output = fmt.Sprint(outputBit) + output
+		}
 	}
 
 	return binaryOutputToString(output)
 }
 
 func main() {
-	source := "[<<;,[;][>>]]"
-	input := "helloWorld"
+	//;
+	source := ";;;+;+;;+;+;\n+;+;+;+;;+;;+;\n;;+;;+;+;;+;\n;;+;;+;+;;+;\n+;;;;+;+;;+;\n;;+;;+;+;+;;\n;;;;;+;+;;\n+;;;+;+;;;+;\n+;;;;+;+;;+;\n;+;+;;+;;;+;\n;;+;;+;+;;+;\n;;+;+;;+;;+;\n+;+;;;;+;+;;\n;+;+;+"
+	input := ""
 	fmt.Println(interpreter(source, input))
 }
