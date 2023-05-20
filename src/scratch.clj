@@ -89,18 +89,4 @@
 
 ;; -----------------------------------------------------
 
-(defn going[n]
-  (loop [factorial 1.0
-         sum 0.0
-         res 0.0
-         i 1]
-    (if (> i n)
-      res
-      (let [nfactorial (*' factorial i)]
-        (recur nfactorial
-               (+' sum nfactorial)
-               (*' (/ 1.0 factorial) sum)
-               (inc i)))
-      )))
-
-(going 5)
+(reductions + 5 [1 2 3])
