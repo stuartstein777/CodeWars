@@ -1,0 +1,1 @@
+def interlockable(a: Long, b: Long): Boolean = (a & b) == 0
