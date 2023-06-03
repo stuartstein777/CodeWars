@@ -217,9 +217,97 @@ func Solve(s string, a, b int) string {
 	return s1 + sr + s2
 }
 
+//------------------------------
+
+type SnakesLadders struct {
+	P1Square        int
+	P2Square        int
+	SnakeAndLadders map[int]int
+	WhosTurn        int
+}
+
+func (sl *SnakesLadders) NewGame() {
+	sl.P1Square = 0
+	sl.P2Square = 0
+	sl.WhosTurn = 1
+	sl.SnakeAndLadders = map[int]int{
+		2:  38,
+		7:  14,
+		8:  31,
+		15: 26,
+		16: 6,
+		21: 42,
+		36: 44,
+		46: 25,
+		49: 11,
+		51: 67,
+		62: 19,
+		64: 60,
+		71: 91,
+		78: 98,
+		89: 68,
+		87: 94,
+		92: 88,
+		95: 75,
+		99: 80}
+}
+
+func (sl *SnakesLadders) Play(die1, die2 int) string {
+
+	if sl.P1Square == 100 || sl.P2Square == 100 {
+		return "Game over!"
+	}
+	toMove := die1 + die2
+	if sl.WhosTurn == 1 {
+		sl.P1Square += toMove
+		if sl.P1Square > 100 {
+			sl.P1Square = 100 - (sl.P1Square - 100)
+		}
+		if sl.P1Square == 100 {
+			return "Player 1 Wins!"
+		}
+		if v, ok := sl.SnakeAndLadders[sl.P1Square]; ok {
+			sl.P1Square = v
+		}
+		if die1 != die2 {
+			sl.WhosTurn = 2
+		}
+		return "Player 1 is on square " + strconv.Itoa(sl.P1Square)
+	} else {
+		sl.P2Square += toMove
+		if sl.P2Square > 100 {
+			sl.P2Square = 100 - (sl.P2Square - 100)
+		}
+		if sl.P2Square == 100 {
+			return "Player 2 Wins!"
+		}
+		if v, ok := sl.SnakeAndLadders[sl.P2Square]; ok {
+			sl.P2Square = v
+		}
+		if die1 != die2 {
+			sl.WhosTurn = 1
+		}
+		return "Player 2 is on square " + strconv.Itoa(sl.P2Square)
+	}
+}
+
 func main() {
 
-	fmt.Println(Solve("codingIsFun", 2, 200))
+	game := SnakesLadders{}
+	game.NewGame()
+	fmt.Println(game.Play(1, 4))
+	fmt.Println(game.Play(1, 2))
+	fmt.Println(game.Play(2, 5))
+	fmt.Println(game.Play(4, 5))
+	fmt.Println(game.Play(2, 1))
+	fmt.Println(game.Play(2, 5))
+	fmt.Println(game.Play(1, 3))
+	fmt.Println(game.Play(5, 3))
+	fmt.Println(game.Play(5, 1))
+	fmt.Println(game.Play(3, 1))
+	fmt.Println(game.Play(4, 3))
+	fmt.Println(game.Play(3, 4))
+	fmt.Println(game.Play(5, 2))
 
 	// fmt.Println()
 	// fmt.Println()
