@@ -259,10 +259,38 @@ func LCM(nums ...int64) *big.Int {
 	return res
 }
 
+func isVowel(c rune) bool {
+	return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'
+}
+
 func main() {
 
-	fmt.Printf("%v\n", LCM(2, 5))
+	// Consonant value
 
+	xs := "strength"
+	max := 0
+	cur := 0
+
+	for _, c := range xs {
+		if isVowel(c) {
+			if cur > max {
+				max = cur
+			}
+			cur = 0
+		} else {
+			cur += int(c) - 96
+		}
+	}
+
+	if cur > max {
+		max = cur
+	}
+
+	fmt.Println(max)
+
+	// ---------------------------------------------
+
+	// Deal with Boolfuck interpreter as array of bytes ?
 	// fmt.Println()
 	// fmt.Println()
 	// fmt.Println()
