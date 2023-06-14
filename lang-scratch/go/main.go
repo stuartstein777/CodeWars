@@ -265,9 +265,6 @@ func isVowel(c rune) bool {
 
 func main() {
 
-	// Consonant value
-
-	xs := "strength"
 	max := 0
 	cur := 0
 
