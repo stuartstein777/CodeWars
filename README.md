@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1226
+Total Completed Kata:      1227
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -137,16 +137,16 @@ Total Completed Kata:      1226
 <tr>
 <td class="org-left">Go</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">1.0%</td>
+<td class="org-right">1.3%</td>
 <td class="org-right">88</td>
 <td class="org-right">103</td>
-<td class="org-right">72</td>
+<td class="org-right">73</td>
 <td class="org-right">22</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">290</td>
+<td class="org-right">291</td>
 </tr>
 
 

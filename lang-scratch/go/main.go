@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math/big"
+	"sort"
 	"strconv"
 	"strings"
 )
@@ -259,31 +260,42 @@ func LCM(nums ...int64) *big.Int {
 	return res
 }
 
-func isVowel(c rune) bool {
-	return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'
-}
+// 2 3 3 4 5 5 6 8 9 9 10
+// last = 2
+// i           |         v    | last
+// 0		   |		 2	  | 2
+// 1		   |		 3    | 2
+// 2		   |		 3    | 3
+// 3		   |		 4	  | 3
+// 4		   |		 5	  | 4
+// 5		   |		 5    | 5
+// 6		   |		 6    | 5
+// 7		   |		 8    | 6  (v - last > 1)
 
 func main() {
 
-	max := 0
-	cur := 0
+	arr := []int{10, 9, 8, 9, 6, 1, 2, 4, 3, 2, 5, 5, 3}
+	sort.Ints(arr)
+	occured := make(map[int]int)
+	dupes := []int{}
+	last := arr[0]
+	missing := -1
 
-	for _, c := range xs {
-		if isVowel(c) {
-			if cur > max {
-				max = cur
-			}
-			cur = 0
-		} else {
-			cur += int(c) - 96
+	for i := 0; i < len(arr); i++ {
+		v := arr[i]
+		if v != last && v-last > 1 {
+			missing = v
 		}
+		if _, ok := occured[v]; ok {
+			dupes = append(dupes, v)
+		} else {
+			occured[v] = 1
+		}
+		last = v
 	}
 
-	if cur > max {
-		max = cur
-	}
-
-	fmt.Println(max)
+	fmt.Printf("%v\n", dupes)
+	fmt.Printf("%v\n", missing)
 
 	// ---------------------------------------------
 
