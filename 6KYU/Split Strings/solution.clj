@@ -21,4 +21,5 @@
   (let [r (map (partial apply str) (partition-all 2 s))]
     (if (= 1 (count (last r)))
       (assoc (vec r) (dec (count r)) (str (last r) "_"))
-      r)))	
+      r)))
+
