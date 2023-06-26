@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"math/big"
-	"sort"
 	"strconv"
 	"strings"
 )
@@ -274,28 +273,29 @@ func LCM(nums ...int64) *big.Int {
 
 func main() {
 
-	arr := []int{10, 9, 8, 9, 6, 1, 2, 4, 3, 2, 5, 5, 3}
-	sort.Ints(arr)
-	occured := make(map[int]int)
-	dupes := []int{}
-	last := arr[0]
-	missing := -1
+	n := 5
+	b := strconv.FormatInt(int64(n), 2)
+	if len(b) < 8 {
+		b = strings.Repeat("0", 8-len(b)) + b
+	}
+	b = b[len(b)-8:]
+	fmt.Printf("%v\n", b)
 
-	for i := 0; i < len(arr); i++ {
-		v := arr[i]
-		if v != last && v-last > 1 {
-			missing = v
+	res := "P"
+	cur := "P"
+
+	for i := len(b) - 1; i >= 0; i-- {
+		if b[i] == '1' {
+			if cur == "P" {
+				cur = "L"
+			} else {
+				cur = "P"
+			}
 		}
-		if _, ok := occured[v]; ok {
-			dupes = append(dupes, v)
-		} else {
-			occured[v] = 1
-		}
-		last = v
+		res += cur
 	}
 
-	fmt.Printf("%v\n", dupes)
-	fmt.Printf("%v\n", missing)
+	fmt.Printf("%v\n", res)
 
 	// ---------------------------------------------
 
