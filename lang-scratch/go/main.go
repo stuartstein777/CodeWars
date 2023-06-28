@@ -273,30 +273,6 @@ func LCM(nums ...int64) *big.Int {
 
 func main() {
 
-	n := 5
-	b := strconv.FormatInt(int64(n), 2)
-	if len(b) < 8 {
-		b = strings.Repeat("0", 8-len(b)) + b
-	}
-	b = b[len(b)-8:]
-	fmt.Printf("%v\n", b)
-
-	res := "P"
-	cur := "P"
-
-	for i := len(b) - 1; i >= 0; i-- {
-		if b[i] == '1' {
-			if cur == "P" {
-				cur = "L"
-			} else {
-				cur = "P"
-			}
-		}
-		res += cur
-	}
-
-	fmt.Printf("%v\n", res)
-
 	// ---------------------------------------------
 
 	// Deal with Boolfuck interpreter as array of bytes ?
