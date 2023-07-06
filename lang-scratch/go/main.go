@@ -271,37 +271,7 @@ func LCM(nums ...int64) *big.Int {
 // 6		   |		 6    | 5
 // 7		   |		 8    | 6  (v - last > 1)
 
-func Amidakuji(ar []string) []int {
-	res := make([]int, len(ar[0])+1)
-
-	for i := 0; i < len(res); i++ {
-		res[i] = i
-	}
-
-	fmt.Printf("%v\n", res)
-	for _, s := range ar {
-		for i := 0; i < len(s); i++ {
-			if s[i] == '1' {
-				res[i], res[i+1] = res[i+1], res[i]
-			}
-		}
-	}
-	return res
-}
-
 func main() {
-
-	input := []string{
-		"001001",
-		"010000",
-		"100100",
-		"001000",
-		"100101",
-		"010010",
-		"101001",
-		"010100"}
-
-	fmt.Printf("%v\n", Amidakuji(input))
 
 	// ---------------------------------------------
 
