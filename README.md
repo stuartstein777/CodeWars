@@ -744,9 +744,9 @@ Total Completed Kata:      1243
 
 <tr>
 <td class="org-left">PowerShell</td>
-<td class="org-left">8 kyu</td>
-<td class="org-right">95.0%</td>
-<td class="org-right">5</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">1.8%</td>
+<td class="org-right">6</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -754,7 +754,7 @@ Total Completed Kata:      1243
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">8</td>
+<td class="org-right">9</td>
 </tr>
 
 

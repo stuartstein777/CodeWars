@@ -48,7 +48,7 @@ Total Completed Kata:      1243
 | Erlang       | 7 kyu |  0.0% |   7 |   2 |     |    |   |   |   |   |     9 |
 | PureScript   | 7 kyu |  0.0% |   7 |   2 |     |    |   |   |   |   |     9 |
 | Common Lisp  | 7 kyu |  0.0% |   3 |   4 |     |    |   |   |   |   |     7 |
-| PowerShell   | 8 kyu | 95.0% |   5 |   3 |     |    |   |   |   |   |     8 |
+| PowerShell   | 7 kyu |  1.8% |   6 |   3 |     |    |   |   |   |   |     9 |
 | Solidity     | 8 kyu | 90.0% |   6 |   2 |     |    |   |   |   |   |     8 |
 | Raku         | 8 kyu | 45.0% |   3 |   1 |     |    |   |   |   |   |     4 |
 | Fortran      | 8 kyu | 35.0% |   3 |   1 |     |    |   |   |   |   |     4 |
