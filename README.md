@@ -249,16 +249,16 @@ Total Completed Kata:      1243
 <tr>
 <td class="org-left">TypeScript</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">10.1%</td>
+<td class="org-right">10.9</td>
 <td class="org-right">66</td>
-<td class="org-right">25</td>
+<td class="org-right">26</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">96</td>
+<td class="org-right">97</td>
 </tr>
 
 
