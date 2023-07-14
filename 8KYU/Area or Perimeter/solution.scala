@@ -1,0 +1,1 @@
+def areaOrPerimeter(l: Int, w: Int): Int = if (l == w) l * w else l * 2 + w * 2
