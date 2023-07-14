@@ -359,13 +359,13 @@ Total Completed Kata:      1243
 
 
 <tr>
-<td class="org-left">Racket</td>
+<td class="org-left">Julia</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">17.0%</td>
-<td class="org-right">29</td>
-<td class="org-right">6</td>
-<td class="org-right">2</td>
-<td class="org-right">1</td>
+<td class="org-right">19.0%</td>
+<td class="org-right">26</td>
+<td class="org-right">9</td>
+<td class="org-right">3</td>
+<td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -375,13 +375,13 @@ Total Completed Kata:      1243
 
 
 <tr>
-<td class="org-left">Julia</td>
+<td class="org-left">Racket</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">19.0%</td>
-<td class="org-right">26</td>
-<td class="org-right">9</td>
-<td class="org-right">3</td>
-<td class="org-right">&#xa0;</td>
+<td class="org-right">17.0%</td>
+<td class="org-right">29</td>
+<td class="org-right">6</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -633,9 +633,9 @@ Total Completed Kata:      1243
 <tr>
 <td class="org-left">OCaml</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">21.4%</td>
+<td class="org-right">26.8%</td>
 <td class="org-right">10</td>
-<td class="org-right">5</td>
+<td class="org-right">6</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
