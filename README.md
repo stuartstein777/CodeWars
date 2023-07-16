@@ -162,7 +162,7 @@ Total Completed Kata:      1246
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">405</td>
+<td class="org-right">406</td>
 </tr>
 
 
@@ -178,7 +178,7 @@ Total Completed Kata:      1246
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">336</td>
+<td class="org-right">337</td>
 </tr>
 
 
@@ -194,15 +194,15 @@ Total Completed Kata:      1246
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">187</td>
+<td class="org-right">188</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">51.4%</td>
-<td class="org-right">74</td>
+<td class="org-right">51.9%</td>
+<td class="org-right">75</td>
 <td class="org-right">47</td>
 <td class="org-right">11</td>
 <td class="org-right">3</td>
@@ -210,7 +210,7 @@ Total Completed Kata:      1246
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">135</td>
+<td class="org-right">136</td>
 </tr>
 
 
@@ -226,15 +226,15 @@ Total Completed Kata:      1246
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">105</td>
+<td class="org-right">106</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C++</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">22.2%</td>
-<td class="org-right">61</td>
+<td class="org-right">22.7%</td>
+<td class="org-right">62</td>
 <td class="org-right">29</td>
 <td class="org-right">5</td>
 <td class="org-right">3</td>
@@ -242,7 +242,7 @@ Total Completed Kata:      1246
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">98</td>
+<td class="org-right">99</td>
 </tr>
 
 
@@ -274,7 +274,7 @@ Total Completed Kata:      1246
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">91</td>
+<td class="org-right">92</td>
 </tr>
 
 
