@@ -1,0 +1,1 @@
+def zeroFuel(distance: Int, mpg: Int, fuel: Int): Boolean = mpg * fuel >= distance
