@@ -342,30 +342,37 @@ func main() {
 
 */
 
-func ordinalSuffix(n int) string {
-	j := n % 10
-	k := n % 100
-
-	if j == 1 && k != 11 {
-		return "st"
-	} else if j == 2 && k != 12 {
-		return "nd"
-	} else if j == 3 && k != 13 {
-		return "rd"
-	} else {
-		return "th"
+func AscendDescend(length, minimum, maximum int) string {
+	if maximum < minimum || length == 0 {
+		return ""
 	}
+	res := fmt.Sprintf("%d", minimum)
+	ascending := true
+	n := minimum
+
+	for {
+		if len(res) >= length {
+			break
+		}
+		if minimum != maximum {
+			if ascending && n < maximum {
+				n++
+			} else if ascending && n == maximum {
+				n--
+				ascending = false
+			} else if !ascending && n > minimum {
+				n--
+			} else if !ascending && n == minimum {
+				n++
+				ascending = true
+			}
+		}
+		res += fmt.Sprintf("%d", n)
+	}
+
+	return string(res[:length])
 }
 
 func main() {
-	year := "2013"
-	y, _ := strconv.Atoi(year)
-	century := 0
-
-	if y % 100 == 0 {
-		century = y / 100
-	} else {
-		century = y / 100 + 1
-	}
-	return fmt.Sprintf("%d%s century", century, ordinalSuffix(century)
+	fmt.Printf("%v\n", AscendDescend(11, 3, 7))
 }
