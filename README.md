@@ -105,16 +105,16 @@ Total Completed Kata:      1246
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">55.4%</td>
+<td class="org-right">55.7%</td>
 <td class="org-right">266</td>
 <td class="org-right">233</td>
-<td class="org-right">108</td>
+<td class="org-right">109</td>
 <td class="org-right">23</td>
 <td class="org-right">9</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">641</td>
+<td class="org-right">642</td>
 </tr>
 
 
@@ -137,16 +137,16 @@ Total Completed Kata:      1246
 <tr>
 <td class="org-left">Go</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">3.7%</td>
+<td class="org-right">4.2%</td>
 <td class="org-right">89</td>
 <td class="org-right">109</td>
-<td class="org-right">77</td>
+<td class="org-right">79</td>
 <td class="org-right">23</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">303</td>
+<td class="org-right">305</td>
 </tr>
 
 
@@ -156,13 +156,13 @@ Total Completed Kata:      1246
 <td class="org-right">47.7%</td>
 <td class="org-right">264</td>
 <td class="org-right">113</td>
-<td class="org-right">24</td>
+<td class="org-right">25</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">406</td>
+<td class="org-right">407</td>
 </tr>
 
 
@@ -201,16 +201,16 @@ Total Completed Kata:      1246
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">52.9%</td>
+<td class="org-right">54.8%</td>
 <td class="org-right">77</td>
 <td class="org-right">47</td>
-<td class="org-right">11</td>
+<td class="org-right">12</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">138</td>
+<td class="org-right">139</td>
 </tr>
 
 
@@ -233,16 +233,16 @@ Total Completed Kata:      1246
 <tr>
 <td class="org-left">C++</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">23.2%</td>
+<td class="org-right">25.1%</td>
 <td class="org-right">63</td>
 <td class="org-right">29</td>
-<td class="org-right">5</td>
+<td class="org-right">6</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">100</td>
+<td class="org-right">101</td>
 </tr>
 
 
