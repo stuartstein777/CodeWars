@@ -342,37 +342,56 @@ func main() {
 
 */
 
-func AscendDescend(length, minimum, maximum int) string {
-	if maximum < minimum || length == 0 {
-		return ""
-	}
-	res := fmt.Sprintf("%d", minimum)
-	ascending := true
-	n := minimum
-
-	for {
-		if len(res) >= length {
-			break
-		}
-		if minimum != maximum {
-			if ascending && n < maximum {
-				n++
-			} else if ascending && n == maximum {
-				n--
-				ascending = false
-			} else if !ascending && n > minimum {
-				n--
-			} else if !ascending && n == minimum {
-				n++
-				ascending = true
-			}
-		}
-		res += fmt.Sprintf("%d", n)
-	}
-
-	return string(res[:length])
-}
-
 func main() {
-	fmt.Printf("%v\n", AscendDescend(11, 3, 7))
+	m := 21
+	n := 22
+	resolution := 7
+
+	completePatternsRows := m / (2 * resolution)
+	completePatternsColumns := n / (2 * resolution)
+	blackSquareRows := completePatternsRows * (resolution * n)
+	blackSquareColumns := completePatternsColumns * (resolution * m)
+
+	remainingRows := m % (2 * resolution)
+	remaingColumns := n % (2 * resolution)
+
+	if remainingRows >= resolution {
+		blackSquareRows += ((remainingRows - resolution) * n)
+	}
+
+	if remaingColumns >= resolution {
+		blackSquareColumns += ((remaingColumns - resolution) * m)
+	}
+
+	blackSquares := blackSquareRows + blackSquareColumns
+
+	fmt.Println(blackSquares)
 }
+
+/*
+m = 5
+n = 6
+resolution = 3
+
+# Step 1
+complete_patterns_rows = m // (2*resolution)
+complete_patterns_columns = n // (2*resolution)
+
+# Step 2
+black_squares_rows = complete_patterns_rows * (resolution*n)
+black_squares_columns = complete_patterns_columns * (resolution*m)
+
+# Step 3
+remaining_rows = m % (2*resolution)
+remaining_columns = n % (2*resolution)
+
+# Step 4
+if remaining_rows >= resolution:
+    black_squares_rows += ((remaining_rows - resolution) * n)
+if remaining_columns >= resolution:
+    black_squares_columns += ((remaining_columns - resolution) * m)
+
+black_squares = black_squares_rows + black_squares_columns
+
+print(black_squares)
+*/
