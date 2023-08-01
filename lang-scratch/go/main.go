@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math/big"
+	"net/netip"
 	"strconv"
 	"strings"
 )
@@ -343,20 +344,10 @@ func main() {
 */
 
 func main() {
-	arr := []int{3, 4, 3, 2, 3, 1, 3, 3}
-	l := len(arr)
-	freqs := make(map[int]int)
 
-	for _, i := range arr {
-		freqs[i] += 1
-	}
+	_, err := netip.ParseAddr("12.255.56.1")
 
-	for k, v := range freqs {
-		fmt.Printf("%d\n", v)
-		if v > l/2 {
-			fmt.Printf("Dominator: %d\n", k)
-		}
-	}
+	fmt.Printf("%v\n", err)
 
 }
 
