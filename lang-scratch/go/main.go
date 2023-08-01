@@ -343,29 +343,15 @@ func main() {
 */
 
 func main() {
-	m := 21
-	n := 22
-	resolution := 7
+	seconds := 60
 
-	completePatternsRows := m / (2 * resolution)
-	completePatternsColumns := n / (2 * resolution)
-	blackSquareRows := completePatternsRows * (resolution * n)
-	blackSquareColumns := completePatternsColumns * (resolution * m)
+	hours := seconds / 3600
+	seconds -= hours * 3600
+	minutes := seconds / 60
+	seconds -= minutes * 60
 
-	remainingRows := m % (2 * resolution)
-	remaingColumns := n % (2 * resolution)
+	fmt.Printf("%02d:%02d:%02d\n", hours, minutes, seconds)
 
-	if remainingRows >= resolution {
-		blackSquareRows += ((remainingRows - resolution) * n)
-	}
-
-	if remaingColumns >= resolution {
-		blackSquareColumns += ((remaingColumns - resolution) * m)
-	}
-
-	blackSquares := blackSquareRows + blackSquareColumns
-
-	fmt.Println(blackSquares)
 }
 
 /*
