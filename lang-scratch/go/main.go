@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"math/big"
-	"net/netip"
 	"strconv"
 	"strings"
 )
@@ -344,11 +343,19 @@ func main() {
 */
 
 func main() {
+	//        012345
+	input := "abc"
+	length := len(input)
+	if length&1 != 0 {
+		input = input + "_"
+	}
+	res := []string{}
 
-	_, err := netip.ParseAddr("12.255.56.1")
-
-	fmt.Printf("%v\n", err)
-
+	for i := 0; i <= length-1; i += 2 {
+		res = append(res, input[i:i+2])
+	}
+	fmt.Printf("%s\n", input)
+	fmt.Printf("%v\n", res)
 }
 
 /*
