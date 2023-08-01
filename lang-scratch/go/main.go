@@ -343,14 +343,20 @@ func main() {
 */
 
 func main() {
-	seconds := 60
+	arr := []int{3, 4, 3, 2, 3, 1, 3, 3}
+	l := len(arr)
+	freqs := make(map[int]int)
 
-	hours := seconds / 3600
-	seconds -= hours * 3600
-	minutes := seconds / 60
-	seconds -= minutes * 60
+	for _, i := range arr {
+		freqs[i] += 1
+	}
 
-	fmt.Printf("%02d:%02d:%02d\n", hours, minutes, seconds)
+	for k, v := range freqs {
+		fmt.Printf("%d\n", v)
+		if v > l/2 {
+			fmt.Printf("Dominator: %d\n", k)
+		}
+	}
 
 }
 
