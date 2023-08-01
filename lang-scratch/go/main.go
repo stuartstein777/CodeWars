@@ -343,19 +343,50 @@ func main() {
 */
 
 func main() {
-	//        012345
-	input := "abc"
-	length := len(input)
-	if length&1 != 0 {
-		input = input + "_"
-	}
-	res := []string{}
+	// alphabet := map[rune]rune{
+	// 	'a': 'b',
+	// 	'b': 'c',
+	// 	'c': 'd',
+	// 	'd': 'e',
+	// 	'e': 'f',
+	// 	'f': 'g',
+	// 	'g': 'h',
+	// 	'h': 'i',
+	// 	'i': 'j',
+	// 	'j': 'k',
+	// 	'k': 'l',
+	// 	'l': 'm',
+	// 	'm': 'n',
+	// 	'n': 'o',
+	// 	'o': 'p',
+	// 	'p': 'q',
+	// 	'q': 'r',
+	// 	's': 't',
+	// 	't': 'u',
+	// 	'u': 'v',
+	// 	'v': 'w',
+	// 	'w': 'x',
+	// 	'x': 'y',
+	// 	'y': 'z'}
 
-	for i := 0; i <= length-1; i += 2 {
-		res = append(res, input[i:i+2])
+	chars := []rune{'a', 'b', 'c', 'e', 'f', 'g', 'h', 'i', 'j'}
+	l := len(chars) - 1
+	//res := ' '
+
+	for i := 0; i < l; i++ {
+		if chars[i+1] != chars[i]+1 {
+			fmt.Printf("%c\n", chars[i]+1)
+		}
 	}
-	fmt.Printf("%s\n", input)
-	fmt.Printf("%v\n", res)
+
+	// for i := 0; i < l; i++ {
+	// 	if chars[i+1] != alphabet[chars[i]] {
+	// 		res = alphabet[chars[i]]
+	// 	}
+	// }
+
+	//fmt.Printf("%c\n", res)
+
 }
 
 /*
