@@ -1,0 +1,1 @@
+def arrayPlusArray(xs: Seq[Int], ys: Seq[Int]): Int = xs.sum + ys.sum
