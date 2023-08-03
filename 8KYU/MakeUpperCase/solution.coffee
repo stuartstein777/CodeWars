@@ -1,0 +1,2 @@
+makeUpperCase = (str) ->
+  str.toUpperCase()
