@@ -345,8 +345,8 @@ Total Completed Kata:      1252
 <tr>
 <td class="org-left">Julia</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">21.6%</td>
-<td class="org-right">28</td>
+<td class="org-right">22.9%</td>
+<td class="org-right">29</td>
 <td class="org-right">9</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
@@ -354,7 +354,7 @@ Total Completed Kata:      1252
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">40</td>
+<td class="org-right">41</td>
 </tr>
 
 
@@ -585,8 +585,8 @@ Total Completed Kata:      1252
 <tr>
 <td class="org-left">Lua</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">37.5%</td>
-<td class="org-right">16</td>
+<td class="org-right">41.1%</td>
+<td class="org-right">17</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -594,7 +594,7 @@ Total Completed Kata:      1252
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">19</td>
+<td class="org-right">20</td>
 </tr>
 
 
