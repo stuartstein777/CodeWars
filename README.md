@@ -153,8 +153,8 @@ Total Completed Kata:      1252
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">49.2%</td>
-<td class="org-right">268</td>
+<td class="org-right">49.3%</td>
+<td class="org-right">269</td>
 <td class="org-right">113</td>
 <td class="org-right">25</td>
 <td class="org-right">5</td>
@@ -162,15 +162,15 @@ Total Completed Kata:      1252
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">411</td>
+<td class="org-right">412</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Python</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">42.2%</td>
-<td class="org-right">183</td>
+<td class="org-right">42.4%</td>
+<td class="org-right">184</td>
 <td class="org-right">116</td>
 <td class="org-right">32</td>
 <td class="org-right">7</td>
@@ -178,7 +178,7 @@ Total Completed Kata:      1252
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">338</td>
+<td class="org-right">339</td>
 </tr>
 
 
@@ -201,8 +201,8 @@ Total Completed Kata:      1252
 <tr>
 <td class="org-left">Ruby</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">72.5%</td>
-<td class="org-right">142</td>
+<td class="org-right">72.9%</td>
+<td class="org-right">143</td>
 <td class="org-right">43</td>
 <td class="org-right">9</td>
 <td class="org-right">2</td>
@@ -210,7 +210,7 @@ Total Completed Kata:      1252
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">196</td>
+<td class="org-right">197</td>
 </tr>
 
 
