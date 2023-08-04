@@ -1,6 +1,6 @@
 ![codewars badge](https://www.codewars.com/users/qmstuart/badges/large)
 
-Total Completed Kata:      1252
+Total Completed Kata:      1255
 
 |                        | KYU-> | 8 | 7 |  6 |  5 |  4 | 3 | 2 | 1 |
 | Unsolved Clojure Katas |    95 | 0 | 1 | 38 | 34 | 16 | 2 | 1 | 1 |
@@ -12,7 +12,7 @@ Total Completed Kata:      1252
 | Clojure      | 3 kyu | 35.8% |  60 | 175 | 111 | 25 |  7 |   | 1 |   |   379 |
 | Go           | 3 kyu |  6.3% |  89 | 112 |  83 | 24 |  5 |   |   |   |   313 |
 | JavaScript   | 4 kyu | 49.3% | 269 | 113 |  25 |  5 |    |   |   |   |   412 |
-| Python       | 4 kyu | 42.4% | 184 | 116 |  32 |  7 |    |   |   |   |   339 |
+| Python       | 4 kyu | 42.6% | 185 | 116 |  32 |  7 |    |   |   |   |   340 |
 | C            | 5 kyu | 73.9% |  81 |  53 |  16 |  4 |    |   |   |   |   154 |
 | Ruby         | 5 kyu | 72.9% | 143 |  43 |   9 |  2 |    |   |   |   |   197 |
 | Rust         | 5 kyu | 34.5% |  70 |  25 |   6 |  5 |    |   |   |   |   106 |
@@ -60,7 +60,7 @@ Total Completed Kata:      1252
 | Factor       | 8 kyu | 10.0% |   1 |     |     |    |    |   |   |   |     1 |
 | Forth        | 8 kyu | 10.0% |   1 |     |     |    |    |   |   |   |     1 |
 | Idris        | 8 kyu | 10.0% |   1 |     |     |    |    |   |   |   |     1 |
-| NASM         | 8 kyu |  0.0% |     |     |     |    |    |   |   |   |     0 |
+| NASM         | 8 kyu | 10.0% |   1 |     |     |    |    |   |   |   |     0 |
 | Brainfuck    | 8 kyu |  0.0% |     |     |     |    |    |   |   |   |     0 |
 | λ Calculus   | 8 kyu |  0.0% |     |     |     |    |    |   |   |   |     0 |
 | Lean         | 8 kyu |  0.0% |     |     |     |    |    |   |   |   |     0 |
