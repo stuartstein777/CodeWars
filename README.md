@@ -505,8 +505,8 @@ Total Completed Kata:      1252
 <tr>
 <td class="org-left">Nim</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">75.0%</td>
-<td class="org-right">7</td>
+<td class="org-right">78.6%</td>
+<td class="org-right">8</td>
 <td class="org-right">3</td>
 <td class="org-right">2</td>
 <td class="org-right">1</td>
@@ -514,7 +514,7 @@ Total Completed Kata:      1252
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">13</td>
+<td class="org-right">14</td>
 </tr>
 
 
@@ -633,8 +633,8 @@ Total Completed Kata:      1252
 <tr>
 <td class="org-left">OCaml</td>
 <td class="org-left">7 kyu</td>
-<td class="org-right">26.8%</td>
-<td class="org-right">10</td>
+<td class="org-right">30.4%</td>
+<td class="org-right">11</td>
 <td class="org-right">6</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -642,7 +642,7 @@ Total Completed Kata:      1252
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">16</td>
+<td class="org-right">17</td>
 </tr>
 
 
