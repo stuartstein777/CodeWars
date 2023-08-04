@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1251
+Total Completed Kata:      1252
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -183,6 +183,22 @@ Total Completed Kata:      1251
 
 
 <tr>
+<td class="org-left">C</td>
+<td class="org-left">5 kyu</td>
+<td class="org-right">73.2%</td>
+<td class="org-right">81</td>
+<td class="org-right">52</td>
+<td class="org-right">16</td>
+<td class="org-right">4</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">153</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Ruby</td>
 <td class="org-left">5 kyu</td>
 <td class="org-right">72.5%</td>
@@ -195,22 +211,6 @@ Total Completed Kata:      1251
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">196</td>
-</tr>
-
-
-<tr>
-<td class="org-left">C</td>
-<td class="org-left">5 kyu</td>
-<td class="org-right">71.3%</td>
-<td class="org-right">81</td>
-<td class="org-right">52</td>
-<td class="org-right">15</td>
-<td class="org-right">4</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">152</td>
 </tr>
 
 
