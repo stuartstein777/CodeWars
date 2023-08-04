@@ -743,6 +743,22 @@ Total Completed Kata:      1252
 
 
 <tr>
+<td class="org-left">Solidity</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">0.0%</td>
+<td class="org-right">7</td>
+<td class="org-right">2</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">9</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Common Lisp</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">0.0%</td>
@@ -755,22 +771,6 @@ Total Completed Kata:      1252
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">7</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Solidity</td>
-<td class="org-left">8 kyu</td>
-<td class="org-right">90.0%</td>
-<td class="org-right">6</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">8</td>
 </tr>
 
 
