@@ -1,6 +1,6 @@
 ![codewars badge](https://www.codewars.com/users/qmstuart/badges/large)
 
-Total Completed Kata:      1256
+Total Completed Kata:      1257
 
 |                        | KYU-> | 8 | 7 |  6 |  5 |  4 | 3 | 2 | 1 |
 | Unsolved Clojure Katas |    95 | 0 | 1 | 38 | 34 | 16 | 2 | 1 | 1 |
@@ -11,9 +11,9 @@ Total Completed Kata:      1256
 | C#           | 3 kyu | 62.4% | 266 | 234 | 109 | 23 | 10 | 3 |   |   |   645 |
 | Clojure      | 3 kyu | 35.8% |  60 | 175 | 111 | 25 |  7 |   | 1 |   |   379 |
 | Go           | 3 kyu |  6.3% |  89 | 112 |  83 | 24 |  5 |   |   |   |   313 |
-| JavaScript   | 4 kyu | 49.3% | 269 | 113 |  25 |  5 |    |   |   |   |   412 |
-| Python       | 4 kyu | 42.6% | 185 | 116 |  32 |  7 |    |   |   |   |   340 |
-| C            | 5 kyu | 74.6% |  81 |  54 |  16 |  4 |    |   |   |   |   155 |
+| JavaScript   | 4 kyu | 49.6% | 269 | 114 |  25 |  5 |    |   |   |   |   413 |
+| Python       | 4 kyu | 42.8% | 185 | 117 |  32 |  7 |    |   |   |   |   341 |
+| C            | 5 kyu | 75.4% |  81 |  55 |  16 |  4 |    |   |   |   |   156 |
 | Ruby         | 5 kyu | 72.9% | 143 |  43 |   9 |  2 |    |   |   |   |   197 |
 | Rust         | 5 kyu | 34.5% |  70 |  25 |   6 |  5 |    |   |   |   |   106 |
 | C++          | 5 kyu | 26.8% |  65 |  30 |   6 |  3 |    |   |   |   |   104 |
@@ -29,7 +29,7 @@ Total Completed Kata:      1256
 | Kotlin       | 6 kyu | 10.5% |  24 |   7 |     |  1 |    |   |   |   |    32 |
 | Groovy       | 6 kyu | 10.5% |  22 |   5 |   1 |  1 |    |   |   |   |    29 |
 | Elixir       | 6 kyu |  9.8% |  30 |   7 |   1 |    |    |   |   |   |    38 |
-| Scala        | 6 kyu |  5.9% |  26 |  11 |     |    |    |   |   |   |    37 |
+| Scala        | 6 kyu |  7.8% |  26 |  12 |     |    |    |   |   |   |    38 |
 | Dart         | 6 kyu |  4.6% |  26 |   7 |   1 |    |    |   |   |   |    34 |
 | F#           | 6 kyu |  3.3% |  19 |   9 |   2 |    |    |   |   |   |    30 |
 | Objective-C  | 7 kyu | 87.5% |   9 |   3 |     |  2 |    |   |   |   |    14 |

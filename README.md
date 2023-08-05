@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1256
+Total Completed Kata:      1257
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -153,48 +153,48 @@ Total Completed Kata:      1256
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">49.3%</td>
+<td class="org-right">49.6%</td>
 <td class="org-right">269</td>
-<td class="org-right">113</td>
+<td class="org-right">114</td>
 <td class="org-right">25</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">412</td>
+<td class="org-right">413</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Python</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">42.6%</td>
+<td class="org-right">42.8%</td>
 <td class="org-right">185</td>
-<td class="org-right">116</td>
+<td class="org-right">117</td>
 <td class="org-right">32</td>
 <td class="org-right">7</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">340</td>
+<td class="org-right">341</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">74.6%</td>
+<td class="org-right">75.4%</td>
 <td class="org-right">81</td>
-<td class="org-right">54</td>
+<td class="org-right">55</td>
 <td class="org-right">16</td>
 <td class="org-right">4</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">155</td>
+<td class="org-right">156</td>
 </tr>
 
 
@@ -441,16 +441,16 @@ Total Completed Kata:      1256
 <tr>
 <td class="org-left">Scala</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">5.9%</td>
+<td class="org-right">7.8%</td>
 <td class="org-right">26</td>
-<td class="org-right">11</td>
+<td class="org-right">12</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">37</td>
+<td class="org-right">38</td>
 </tr>
 
 
