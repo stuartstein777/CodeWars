@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"math/big"
 	"strconv"
 	"strings"
 )
@@ -219,6 +218,29 @@ func Solve(s string, a, b int) string {
 }
 
 // ------------------------------
+/*
+func gcd(a, b uint16) uint16 {
+	if b == 0 {
+		return a
+	}
+	return gcd(b, a%b)
+}
+
+func lcm(a, b uint16) uint16 {
+	if a == 0 {
+		return 0
+	} else {
+		g := gcd(a, b)
+		x := a * b
+		res := x / g
+		return res
+	}
+}
+
+func NbrOfLaps(x, y uint16) [2]uint16 {
+	return [2]uint16{lcm(x, y) / x, lcm(x, y) / y}
+}
+
 func gcd(a, b *big.Int) *big.Int {
 	if b.Cmp(big.NewInt(0)) == 0 {
 		return a
@@ -258,7 +280,7 @@ func LCM(nums ...int64) *big.Int {
 
 	return res
 }
-
+*/
 // 2 3 3 4 5 5 6 8 9 9 10
 // last = 2
 // i           |         v    | last
@@ -342,64 +364,54 @@ func main() {
 
 */
 
-func fold(xs []int) []int {
-	l := len(xs)
-	res := []int{}
-
-	for i, j := 0, l-1; i < l/2; i, j = i+1, j-1 {
-		res = append(res, xs[i]+xs[j])
+func gcd(a, b int) int {
+	if b == 0 {
+		return a
 	}
-
-	if l&1 == 1 {
-		res = append(res, xs[int32(l/2)])
-	}
-	return res
+	return gcd(b, a%b)
 }
 
-func FoldArray(xs []int, runs int) []int {
-	res := make([]int, len(xs))
-
-	copy(res, xs[:])
-	fmt.Printf("xs: %v\n", xs)
-	fmt.Printf("res: %v\n", res)
-
-	for i := 0; i < runs; i++ {
-		res = fold(res)
+func lcm(a, b int) int {
+	if a == 0 {
+		return 0
+	} else {
+		g := gcd(a, b)
+		x := a * b
+		res := x / g
+		return res
 	}
-	return res
+}
+
+func NbrOfLaps(x, y uint16) [2]uint16 {
+	fmt.Printf("%d %d\n", x, y)
+	lcm := lcm(int(x), int(y))
+	fmt.Printf("lcm: %d\n", lcm)
+	xl := uint16(lcm / int(x))
+	yl := uint16(lcm / int(y))
+	return [2]uint16{xl, yl}
 }
 
 func main() {
-
-	xs := []int{1, 2, 3, 4, 5}
-	res := FoldArray(xs, 2)
-	fmt.Println(res)
+	fmt.Printf("%v\n", NbrOfLaps(6223, 2367))
 }
 
 /*
-m = 5
-n = 6
-resolution = 3
 
-# Step 1
-complete_patterns_rows = m // (2*resolution)
-complete_patterns_columns = n // (2*resolution)
+(defn gcd [a b]
+  (if (zero? b)
+    a
+    (recur b (mod a b))))
 
-# Step 2
-black_squares_rows = complete_patterns_rows * (resolution*n)
-black_squares_columns = complete_patterns_columns * (resolution*m)
+(defn greatest-common-divisor [xs]
+  (reduce gcd xs))
 
-# Step 3
-remaining_rows = m % (2*resolution)
-remaining_columns = n % (2*resolution)
 
-# Step 4
-if remaining_rows >= resolution:
-    black_squares_rows += ((remaining_rows - resolution) * n)
-if remaining_columns >= resolution:
-    black_squares_columns += ((remaining_columns - resolution) * m)
+(defn lcm [a b]
+  (if (zero? a) 0
+      (let [g (gcd a b)]
+        (/ (* a b) g))))
 
-black_squares = black_squares_rows + black_squares_columns
+(defn least-common-multiple [xs]
+  (reduce lcm xs))
 
-print(black_squares)
 */
