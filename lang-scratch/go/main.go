@@ -342,51 +342,38 @@ func main() {
 
 */
 
-func main() {
-	// alphabet := map[rune]rune{
-	// 	'a': 'b',
-	// 	'b': 'c',
-	// 	'c': 'd',
-	// 	'd': 'e',
-	// 	'e': 'f',
-	// 	'f': 'g',
-	// 	'g': 'h',
-	// 	'h': 'i',
-	// 	'i': 'j',
-	// 	'j': 'k',
-	// 	'k': 'l',
-	// 	'l': 'm',
-	// 	'm': 'n',
-	// 	'n': 'o',
-	// 	'o': 'p',
-	// 	'p': 'q',
-	// 	'q': 'r',
-	// 	's': 't',
-	// 	't': 'u',
-	// 	'u': 'v',
-	// 	'v': 'w',
-	// 	'w': 'x',
-	// 	'x': 'y',
-	// 	'y': 'z'}
+func fold(xs []int) []int {
+	l := len(xs)
+	res := []int{}
 
-	chars := []rune{'a', 'b', 'c', 'e', 'f', 'g', 'h', 'i', 'j'}
-	l := len(chars) - 1
-	//res := ' '
-
-	for i := 0; i < l; i++ {
-		if chars[i+1] != chars[i]+1 {
-			fmt.Printf("%c\n", chars[i]+1)
-		}
+	for i, j := 0, l-1; i < l/2; i, j = i+1, j-1 {
+		res = append(res, xs[i]+xs[j])
 	}
 
-	// for i := 0; i < l; i++ {
-	// 	if chars[i+1] != alphabet[chars[i]] {
-	// 		res = alphabet[chars[i]]
-	// 	}
-	// }
+	if l&1 == 1 {
+		res = append(res, xs[int32(l/2)])
+	}
+	return res
+}
 
-	//fmt.Printf("%c\n", res)
+func FoldArray(xs []int, runs int) []int {
+	res := make([]int, len(xs))
 
+	copy(res, xs[:])
+	fmt.Printf("xs: %v\n", xs)
+	fmt.Printf("res: %v\n", res)
+
+	for i := 0; i < runs; i++ {
+		res = fold(res)
+	}
+	return res
+}
+
+func main() {
+
+	xs := []int{1, 2, 3, 4, 5}
+	res := FoldArray(xs, 2)
+	fmt.Println(res)
 }
 
 /*
