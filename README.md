@@ -186,7 +186,7 @@ Total Completed Kata:      1260
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
 <td class="org-right">75.8%</td>
-<td class="org-right">82</td>
+<td class="org-right">83</td>
 <td class="org-right">55</td>
 <td class="org-right">16</td>
 <td class="org-right">4</td>
@@ -194,7 +194,7 @@ Total Completed Kata:      1260
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">157</td>
+<td class="org-right">158</td>
 </tr>
 
 
@@ -281,8 +281,8 @@ Total Completed Kata:      1260
 <tr>
 <td class="org-left">PHP</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">51.0%</td>
-<td class="org-right">42</td>
+<td class="org-right">52.3%</td>
+<td class="org-right">43</td>
 <td class="org-right">11</td>
 <td class="org-right">2</td>
 <td class="org-right">1</td>
@@ -290,15 +290,15 @@ Total Completed Kata:      1260
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">56</td>
+<td class="org-right">57</td>
 </tr>
 
 
 <tr>
 <td class="org-left">CoffeeScript</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">45.8%</td>
-<td class="org-right">50</td>
+<td class="org-right">47.1%</td>
+<td class="org-right">51</td>
 <td class="org-right">11</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
@@ -306,7 +306,7 @@ Total Completed Kata:      1260
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">62</td>
+<td class="org-right">63</td>
 </tr>
 
 
