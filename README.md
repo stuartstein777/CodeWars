@@ -391,6 +391,22 @@ Total Completed Kata:      1260
 
 
 <tr>
+<td class="org-left">Scala</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">10.5%</td>
+<td class="org-right">28</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">40</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Kotlin</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">10.5%</td>
@@ -435,22 +451,6 @@ Total Completed Kata:      1260
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">38</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Scala</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">9.2%</td>
-<td class="org-right">27</td>
-<td class="org-right">12</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">39</td>
 </tr>
 
 
