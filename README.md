@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1261
+Total Completed Kata:      1262
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -105,16 +105,16 @@ Total Completed Kata:      1261
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">62.5%</td>
+<td class="org-right">62.6%</td>
 <td class="org-right">266</td>
-<td class="org-right">235</td>
+<td class="org-right">236</td>
 <td class="org-right">109</td>
 <td class="org-right">23</td>
 <td class="org-right">10</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">646</td>
+<td class="org-right">647</td>
 </tr>
 
 
@@ -153,16 +153,16 @@ Total Completed Kata:      1261
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">50.6%</td>
+<td class="org-right">50.8%</td>
 <td class="org-right">269</td>
-<td class="org-right">115</td>
+<td class="org-right">116</td>
 <td class="org-right">26</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">415</td>
+<td class="org-right">416</td>
 </tr>
 
 
@@ -210,7 +210,7 @@ Total Completed Kata:      1261
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">198</td>
+<td class="org-right">199</td>
 </tr>
 
 
@@ -265,16 +265,16 @@ Total Completed Kata:      1261
 <tr>
 <td class="org-left">Java</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">9.2%</td>
+<td class="org-right">9.9%</td>
 <td class="org-right">68</td>
-<td class="org-right">21</td>
+<td class="org-right">22</td>
 <td class="org-right">3</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">93</td>
+<td class="org-right">95</td>
 </tr>
 
 
