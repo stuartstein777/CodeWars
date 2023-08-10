@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1262
+Total Completed Kata:      1263
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -105,9 +105,9 @@ Total Completed Kata:      1262
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">62.6%</td>
+<td class="org-right">62.7%</td>
 <td class="org-right">266</td>
-<td class="org-right">236</td>
+<td class="org-right">237</td>
 <td class="org-right">109</td>
 <td class="org-right">23</td>
 <td class="org-right">10</td>
@@ -153,24 +153,24 @@ Total Completed Kata:      1262
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">50.8%</td>
+<td class="org-right">51.1%</td>
 <td class="org-right">269</td>
-<td class="org-right">116</td>
+<td class="org-right">117</td>
 <td class="org-right">26</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">416</td>
+<td class="org-right">417</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Python</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">43.1%</td>
-<td class="org-right">185</td>
+<td class="org-right">43.3%</td>
+<td class="org-right">186</td>
 <td class="org-right">118</td>
 <td class="org-right">32</td>
 <td class="org-right">7</td>
@@ -178,7 +178,7 @@ Total Completed Kata:      1262
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">342</td>
+<td class="org-right">343</td>
 </tr>
 
 
@@ -233,32 +233,32 @@ Total Completed Kata:      1262
 <tr>
 <td class="org-left">C++</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">27.8%</td>
+<td class="org-right">28.5%</td>
 <td class="org-right">67</td>
-<td class="org-right">30</td>
+<td class="org-right">31</td>
 <td class="org-right">6</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">106</td>
+<td class="org-right">107</td>
 </tr>
 
 
 <tr>
 <td class="org-left">TypeScript</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">18.6%</td>
+<td class="org-right">19.3%</td>
 <td class="org-right">74</td>
-<td class="org-right">28</td>
+<td class="org-right">29</td>
 <td class="org-right">6</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">108</td>
+<td class="org-right">109</td>
 </tr>
 
 
