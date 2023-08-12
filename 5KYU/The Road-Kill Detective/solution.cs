@@ -86,4 +86,4 @@ public class Dinglemouse
             result = GetAnimal(string.Join("", string.Join("", remains.Reverse().Select(m => m.Value))));
         return result ?? "??";
     }
-}
+}how did sacklers avoid consequences
