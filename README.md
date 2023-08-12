@@ -393,8 +393,8 @@ Total Completed Kata:      1267
 <tr>
 <td class="org-left">Scala</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">10.5%</td>
-<td class="org-right">28</td>
+<td class="org-right">11.8%</td>
+<td class="org-right">29</td>
 <td class="org-right">12</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
@@ -402,7 +402,7 @@ Total Completed Kata:      1267
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">40</td>
+<td class="org-right">41</td>
 </tr>
 
 
