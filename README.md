@@ -391,6 +391,22 @@ Total Completed Kata:      1267
 
 
 <tr>
+<td class="org-left">F#</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">17.0%</td>
+<td class="org-right">19</td>
+<td class="org-right">9</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">31</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Scala</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">11.8%</td>
@@ -403,6 +419,22 @@ Total Completed Kata:      1267
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">41</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Elixir</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">11.1%</td>
+<td class="org-right">31</td>
+<td class="org-right">7</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">39</td>
 </tr>
 
 
@@ -439,22 +471,6 @@ Total Completed Kata:      1267
 
 
 <tr>
-<td class="org-left">Elixir</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">9.8%</td>
-<td class="org-right">30</td>
-<td class="org-right">7</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">38</td>
-</tr>
-
-
-<tr>
 <td class="org-left">Dart</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">6.5%</td>
@@ -467,22 +483,6 @@ Total Completed Kata:      1267
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">35</td>
-</tr>
-
-
-<tr>
-<td class="org-left">F#</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">3.3%</td>
-<td class="org-right">19</td>
-<td class="org-right">9</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">30</td>
 </tr>
 
 
