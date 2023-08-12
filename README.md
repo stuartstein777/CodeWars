@@ -327,6 +327,22 @@ Total Completed Kata:      1267
 
 
 <tr>
+<td class="org-left">Kotlin</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">24.2%</td>
+<td class="org-right">24</td>
+<td class="org-right">7</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">2</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">33</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Haskell</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">22.9%</td>
@@ -435,22 +451,6 @@ Total Completed Kata:      1267
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">39</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Kotlin</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">10.5%</td>
-<td class="org-right">24</td>
-<td class="org-right">7</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">32</td>
 </tr>
 
 
