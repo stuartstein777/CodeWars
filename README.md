@@ -1,6 +1,6 @@
 ![codewars badge](<https://www.codewars.com/users/qmstuart/badges/large>)
 
-Total Completed Kata:      1266
+Total Completed Kata:      1267
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -107,14 +107,14 @@ Total Completed Kata:      1266
 <td class="org-left">3 kyu</td>
 <td class="org-right">63.0%</td>
 <td class="org-right">266</td>
-<td class="org-right">240</td>
+<td class="org-right">241</td>
 <td class="org-right">109</td>
 <td class="org-right">23</td>
 <td class="org-right">10</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">651</td>
+<td class="org-right">652</td>
 </tr>
 
 
@@ -153,48 +153,48 @@ Total Completed Kata:      1266
 <tr>
 <td class="org-left">JavaScript</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">53.7%</td>
+<td class="org-right">54.0%</td>
 <td class="org-right">270</td>
-<td class="org-right">119</td>
+<td class="org-right">120</td>
 <td class="org-right">26</td>
 <td class="org-right">6</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">421</td>
+<td class="org-right">422</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Python</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">45.9%</td>
+<td class="org-right">46.1%</td>
 <td class="org-right">187</td>
-<td class="org-right">120</td>
+<td class="org-right">121</td>
 <td class="org-right">32</td>
 <td class="org-right">8</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">347</td>
+<td class="org-right">348</td>
 </tr>
 
 
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">83.1%</td>
+<td class="org-right">84.5%</td>
 <td class="org-right">86</td>
-<td class="org-right">57</td>
+<td class="org-right">58</td>
 <td class="org-right">18</td>
 <td class="org-right">4</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">165</td>
+<td class="org-right">166</td>
 </tr>
 
 
@@ -249,64 +249,64 @@ Total Completed Kata:      1266
 <tr>
 <td class="org-left">TypeScript</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">24.4%</td>
+<td class="org-right">25.1%</td>
 <td class="org-right">74</td>
-<td class="org-right">29</td>
+<td class="org-right">30</td>
 <td class="org-right">6</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">110</td>
+<td class="org-right">111</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Java</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">10.4%</td>
+<td class="org-right">11.1%</td>
 <td class="org-right">69</td>
-<td class="org-right">22</td>
+<td class="org-right">23</td>
 <td class="org-right">3</td>
 <td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">96</td>
+<td class="org-right">97</td>
 </tr>
 
 
 <tr>
 <td class="org-left">PHP</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">53.6%</td>
+<td class="org-right">55.6%</td>
 <td class="org-right">44</td>
-<td class="org-right">11</td>
+<td class="org-right">13</td>
 <td class="org-right">2</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">58</td>
+<td class="org-right">60</td>
 </tr>
 
 
 <tr>
 <td class="org-left">CoffeeScript</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">48.4%</td>
+<td class="org-right">50.3%</td>
 <td class="org-right">52</td>
-<td class="org-right">11</td>
+<td class="org-right">12</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">64</td>
+<td class="org-right">65</td>
 </tr>
 
 
