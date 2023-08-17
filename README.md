@@ -169,16 +169,16 @@ Total Completed Kata:      1269
 <tr>
 <td class="org-left">Python</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">46.4%</td>
+<td class="org-right">47.1%</td>
 <td class="org-right">187</td>
 <td class="org-right">122</td>
-<td class="org-right">32</td>
+<td class="org-right">33</td>
 <td class="org-right">8</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">349</td>
+<td class="org-right">350</td>
 </tr>
 
 
@@ -251,14 +251,14 @@ Total Completed Kata:      1269
 <td class="org-left">5 kyu</td>
 <td class="org-right">27.1%</td>
 <td class="org-right">74</td>
-<td class="org-right">30</td>
+<td class="org-right">31</td>
 <td class="org-right">7</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">112</td>
+<td class="org-right">113</td>
 </tr>
 
 
