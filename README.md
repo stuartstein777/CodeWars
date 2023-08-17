@@ -233,16 +233,16 @@ Total Completed Kata:      1269
 <tr>
 <td class="org-left">C++</td>
 <td class="org-left">5 kyu</td>
-<td class="org-right">29.2%</td>
+<td class="org-right">31.2%</td>
 <td class="org-right">67</td>
 <td class="org-right">32</td>
-<td class="org-right">6</td>
+<td class="org-right">7</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">108</td>
+<td class="org-right">109</td>
 </tr>
 
 
