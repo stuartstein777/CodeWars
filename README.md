@@ -281,16 +281,16 @@ Total Completed Kata:      1269
 <tr>
 <td class="org-left">PHP</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">56.9%</td>
+<td class="org-right">62.1%</td>
 <td class="org-right">45</td>
 <td class="org-right">13</td>
-<td class="org-right">2</td>
+<td class="org-right">3</td>
 <td class="org-right">1</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">61</td>
+<td class="org-right">62</td>
 </tr>
 
 
