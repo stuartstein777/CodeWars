@@ -105,16 +105,16 @@ Total Completed Kata:      1271
 <tr>
 <td class="org-left">C#</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">64.5%</td>
+<td class="org-right">64.6%</td>
 <td class="org-right">267</td>
-<td class="org-right">243</td>
+<td class="org-right">244</td>
 <td class="org-right">111</td>
 <td class="org-right">24</td>
 <td class="org-right">10</td>
 <td class="org-right">3</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">658</td>
+<td class="org-right">659</td>
 </tr>
 
 
@@ -137,16 +137,16 @@ Total Completed Kata:      1271
 <tr>
 <td class="org-left">Go</td>
 <td class="org-left">3 kyu</td>
-<td class="org-right">7.7%</td>
+<td class="org-right">7.8%</td>
 <td class="org-right">89</td>
-<td class="org-right">113</td>
+<td class="org-right">114</td>
 <td class="org-right">88</td>
 <td class="org-right">24</td>
 <td class="org-right">5</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">319</td>
+<td class="org-right">320</td>
 </tr>
 
 
