@@ -413,8 +413,54 @@ func SpinWords(str string) string {
 	return strings.Join(resWords, " ")
 } // SpinWords
 
-func main() {
+/*
+[1 2 3 4 5]
 
+[[1][1+2][1+2+3][1+2+3+4][1+2+3+4+5]]
+
+[i]
+[i+(i+1)]
+[i+(i+1)+(i+2)]
+[i+(i+1)+(i+2)+(i+3)]
+[i+(i+1)+(i+2)+(i+3)+(i+4)]
+*/
+
+func sum(numbers []int) int {
+
+	length := len(numbers)
+	sum := 0
+	for i := 1; i < length; i++ {
+		sum = sum + numbers[i]
+	}
+	fmt.Printf("%v - [%d]\n", numbers, sum)
+	return sum
+}
+
+func maxReduction(numbers []int) int {
+	length := len(numbers)
+	max := 0
+	for i := 0; i < length; i++ {
+		for j := i; j < length; j++ {
+			x := sum(numbers[j:])
+			if x > max {
+				max = x
+			}
+		}
+	}
+	return max
+}
+
+func main() {
+	xs := []int{7, 4, 11, -11, 39, 36, 10, -6, 37, -10, -32, 44, -26, -34, 43, 43}
+	length := len(xs)
+	max := 0
+	for i := 0; i < length; i++ {
+		s := maxReduction(xs[i:])
+		if s > max {
+			max = s
+		}
+	}
+	println(max)
 }
 
 /*
