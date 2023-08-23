@@ -679,6 +679,22 @@ Total Completed Kata:      1279
 
 
 <tr>
+<td class="org-left">Solidity</td>
+<td class="org-left">7 kyu</td>
+<td class="org-right">5.4%</td>
+<td class="org-right">7</td>
+<td class="org-right">3</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">10</td>
+</tr>
+
+
+<tr>
 <td class="org-left">PowerShell</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">1.8%</td>
@@ -728,22 +744,6 @@ Total Completed Kata:      1279
 
 <tr>
 <td class="org-left">PureScript</td>
-<td class="org-left">7 kyu</td>
-<td class="org-right">0.0%</td>
-<td class="org-right">7</td>
-<td class="org-right">2</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">9</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Solidity</td>
 <td class="org-left">7 kyu</td>
 <td class="org-right">0.0%</td>
 <td class="org-right">7</td>
