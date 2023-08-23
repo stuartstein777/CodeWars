@@ -297,16 +297,16 @@ Total Completed Kata:      1279
 <tr>
 <td class="org-left">CoffeeScript</td>
 <td class="org-left">6 kyu</td>
-<td class="org-right">51.6%</td>
+<td class="org-right">56.9%</td>
 <td class="org-right">53</td>
 <td class="org-right">12</td>
-<td class="org-right">1</td>
+<td class="org-right">2</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">66</td>
+<td class="org-right">67</td>
 </tr>
 
 
