@@ -185,8 +185,8 @@ Total Completed Kata:      1277
 <tr>
 <td class="org-left">Ruby</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">1.2%</td>
-<td class="org-right">156</td>
+<td class="org-right">1.3%</td>
+<td class="org-right">157</td>
 <td class="org-right">55</td>
 <td class="org-right">17</td>
 <td class="org-right">2</td>
@@ -194,7 +194,7 @@ Total Completed Kata:      1277
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">230</td>
+<td class="org-right">231</td>
 </tr>
 
 
