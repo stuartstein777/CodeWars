@@ -5,7 +5,7 @@
 Equivalent to `(frequencies)` in Clojure.
 
 ```ruby
-s.chars.group_by(&:itself).transform_values(&:count)
+[3, -1, -1, -1, 2, 3, -1, 3, -1, 2, 4, 9, 3][3, -1, -1, -1, 2, 3, -1, 3, -1, 2, 4, 9, 3]
 ```
 
 ## Partition
