@@ -450,17 +450,73 @@ func maxReduction(numbers []int) int {
 	return max
 }
 
-func main() {
-	xs := []int{7, 4, 11, -11, 39, 36, 10, -6, 37, -10, -32, 44, -26, -34, 43, 43}
-	length := len(xs)
-	max := 0
-	for i := 0; i < length; i++ {
-		s := maxReduction(xs[i:])
-		if s > max {
-			max = s
+type Customer struct {
+	TimeToCheckout      int
+	TimeEnteredCheckout int
+}
+
+func assignCustomerToCheckout(customerTime int, checkouts []Customer, time int) bool {
+	//fmt.Printf("Assigning customer with time %d\n", customerTime)
+	for i, checkout := range checkouts {
+		if checkout.TimeToCheckout == -1 {
+			checkouts[i] = Customer{customerTime, time}
+			return true
 		}
 	}
-	println(max)
+	return false
+}
+
+func finishCheckout(checkouts []Customer, time int) {
+	for i, checkout := range checkouts {
+		if checkout.TimeToCheckout != -1 && time-checkout.TimeEnteredCheckout == checkout.TimeToCheckout {
+			checkouts[i] = Customer{-1, -1}
+			//fmt.Printf("customer finished checkout at time %d\n", time)
+		}
+	}
+}
+
+func checkoutsAreAllEmpty(checkouts []Customer) bool {
+	for _, checkout := range checkouts {
+		if checkout.TimeToCheckout != -1 {
+			return false
+		}
+	}
+	return true
+}
+
+func QueueTime(customers []int, n int) int {
+	time := 0
+	currentCustomer := 0
+	checkouts := make([]Customer, n)
+	customerCount := len(customers)
+
+	for {
+		finishCheckout(checkouts, time)
+		if currentCustomer == customerCount && checkoutsAreAllEmpty(checkouts) {
+			break
+		}
+
+		for {
+			if currentCustomer == customerCount {
+				break
+			}
+			assigned := assignCustomerToCheckout(customers[currentCustomer], checkouts, time)
+			if !assigned {
+				break
+			}
+			currentCustomer++
+		}
+
+		time++
+		fmt.Printf("%v\n", checkouts)
+	}
+
+	return time
+}
+
+func main() {
+	totalTime := QueueTime([]int{2, 2, 3, 3, 4, 4}, 2)
+	fmt.Printf("total time: %d\n", totalTime)
 }
 
 /*
