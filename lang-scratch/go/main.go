@@ -514,9 +514,20 @@ func QueueTime(customers []int, n int) int {
 	return time
 }
 
+func countOnes(s string) int {
+	sum := 0
+	for _, c := range s {
+		if c == '1' {
+			sum += 1
+		}
+	}
+	return sum
+}
+
 func main() {
-	totalTime := QueueTime([]int{2, 2, 3, 3, 4, 4}, 2)
-	fmt.Printf("total time: %d\n", totalTime)
+	s := strconv.FormatInt(123, 2)
+	fmt.Println(s)
+	fmt.Println(countOnes(s))
 }
 
 /*
