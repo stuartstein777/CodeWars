@@ -524,10 +524,29 @@ func countOnes(s string) int {
 	return sum
 }
 
+func isVowel(c rune) bool {
+	return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'
+}
+
 func main() {
-	s := strconv.FormatInt(123, 2)
-	fmt.Println(s)
-	fmt.Println(countOnes(s))
+	s := "tofiee"
+	max := 0
+	cur := 0
+	for _, c := range s {
+		if isVowel(c) {
+			cur++
+		} else {
+			if cur > max {
+				max = cur
+			}
+			cur = 0
+		}
+	}
+	if cur > max {
+		fmt.Printf("%d\n", cur)
+	} else {
+		fmt.Printf("%d\n", max)
+	}
 }
 
 /*
