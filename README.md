@@ -201,8 +201,8 @@ Total Completed Kata:      1302
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">0.4%</td>
-<td class="org-right">91</td>
+<td class="org-right">0.6%</td>
+<td class="org-right">92</td>
 <td class="org-right">66</td>
 <td class="org-right">22</td>
 <td class="org-right">4</td>
@@ -210,7 +210,7 @@ Total Completed Kata:      1302
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">183</td>
+<td class="org-right">184</td>
 </tr>
 
 
@@ -423,6 +423,22 @@ Total Completed Kata:      1302
 
 
 <tr>
+<td class="org-left">Scala</td>
+<td class="org-left">6 kyu</td>
+<td class="org-right">13.1%</td>
+<td class="org-right">30</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">42</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Elixir</td>
 <td class="org-left">6 kyu</td>
 <td class="org-right">13.1%</td>
@@ -435,22 +451,6 @@ Total Completed Kata:      1302
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">40</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Scala</td>
-<td class="org-left">6 kyu</td>
-<td class="org-right">13.1%</td>
-<td class="org-right">30</td>
-<td class="org-right">12</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">41</td>
 </tr>
 
 
