@@ -1,0 +1,1 @@
+def paperwork(n: Int, m: Int): Int = if (n < 0 || m < 0) return 0 else return m * n
