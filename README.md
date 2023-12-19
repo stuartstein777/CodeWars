@@ -839,6 +839,22 @@ Total Completed Kata:      1303
 
 
 <tr>
+<td class="org-left">COBOL</td>
+<td class="org-left">8 kyu</td>
+<td class="org-right">25.0%</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">2</td>
+</tr>
+
+
+<tr>
 <td class="org-left">Perl</td>
 <td class="org-left">8 kyu</td>
 <td class="org-right">20.0%</td>
@@ -856,22 +872,6 @@ Total Completed Kata:      1303
 
 <tr>
 <td class="org-left">Agda</td>
-<td class="org-left">8 kyu</td>
-<td class="org-right">10.0%</td>
-<td class="org-right">1</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-right">1</td>
-</tr>
-
-
-<tr>
-<td class="org-left">COBOL</td>
 <td class="org-left">8 kyu</td>
 <td class="org-right">10.0%</td>
 <td class="org-right">1</td>
