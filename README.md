@@ -43,9 +43,9 @@ Total Completed Kata:      1303
 
 <tr>
 <td class="org-left">Unsolved Clojure Katas</td>
-<td class="org-right">95</td>
+<td class="org-right">94</td>
 <td class="org-right">0</td>
-<td class="org-right">1</td>
+<td class="org-right">2</td>
 <td class="org-right">38</td>
 <td class="org-right">34</td>
 <td class="org-right">16</td>
@@ -201,16 +201,16 @@ Total Completed Kata:      1303
 <tr>
 <td class="org-left">C</td>
 <td class="org-left">4 kyu</td>
-<td class="org-right">0.6%</td>
+<td class="org-right">0.9%</td>
 <td class="org-right">92</td>
-<td class="org-right">66</td>
+<td class="org-right">67</td>
 <td class="org-right">22</td>
 <td class="org-right">4</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
 <td class="org-right">&#xa0;</td>
-<td class="org-right">184</td>
+<td class="org-right">185</td>
 </tr>
 
 
