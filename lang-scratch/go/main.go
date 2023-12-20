@@ -528,26 +528,26 @@ func isVowel(c rune) bool {
 	return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'
 }
 
-func main() {
-	s := "tofiee"
-	max := 0
-	cur := 0
-	for _, c := range s {
-		if isVowel(c) {
-			cur++
-		} else {
-			if cur > max {
-				max = cur
-			}
-			cur = 0
-		}
-	}
-	if cur > max {
-		fmt.Printf("%d\n", cur)
-	} else {
-		fmt.Printf("%d\n", max)
-	}
-}
+// func main() {
+// 	s := "tofiee"
+// 	max := 0
+// 	cur := 0
+// 	for _, c := range s {
+// 		if isVowel(c) {
+// 			cur++
+// 		} else {
+// 			if cur > max {
+// 				max = cur
+// 			}
+// 			cur = 0
+// 		}
+// 	}
+// 	if cur > max {
+// 		fmt.Printf("%d\n", cur)
+// 	} else {
+// 		fmt.Printf("%d\n", max)
+// 	}
+// }
 
 /*
 
@@ -569,3 +569,25 @@ func main() {
   (reduce lcm xs))
 
 */
+
+func NextLevelCost(level int, price float64) float64 {
+	return float64(level) * float64(level) * price
+}
+
+func Beeramid(bonus int, price float64) int {
+	totalCost := 0.0
+	level := 1
+	for {
+		totalCost += NextLevelCost(level, price)
+		level++
+		if totalCost > float64(bonus) {
+			level -= 2
+			break
+		}
+	}
+	return level
+}
+
+func main() {
+	fmt.Printf("%d\n", Beeramid(5000, 3))
+}
