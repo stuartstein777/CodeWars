@@ -570,24 +570,14 @@ func isVowel(c rune) bool {
 
 */
 
-func NextLevelCost(level int, price float64) float64 {
-	return float64(level) * float64(level) * price
-}
-
-func Beeramid(bonus int, price float64) int {
-	totalCost := 0.0
-	level := 1
-	for {
-		totalCost += NextLevelCost(level, price)
-		level++
-		if totalCost > float64(bonus) {
-			level -= 2
-			break
-		}
-	}
-	return level
-}
-
 func main() {
-	fmt.Printf("%d\n", Beeramid(5000, 3))
 }
+
+/*
+	bonus:= 9
+	price:= 2
+
+	1	1	2
+	4   5   10
+
+*/
